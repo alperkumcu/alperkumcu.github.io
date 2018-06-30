@@ -2,5 +2,10 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+I'm a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University.
+ 
+Memory for language, spatial cognition, multimodal language processing and embodied cognition are my main research interests. I'm a supporter of open and reproducible science and an avid user of R.
+ 
+Currently, I'm conducting a research project on the use of space in verbal memory under the supervision of Dr Robin Thompson and Dr Linda Wheeldon at the Multimodal Multilingual Language Processing Lab, University of Birmingham.
+
+Oh I almost forgot, I take photos.
