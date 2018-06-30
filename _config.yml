@@ -1,5 +1,5 @@
 # Site settings
-title: Alper Kumcu
+title:
 email: alperkumcu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 # baseurl: "/" # the subpath of your site, e.g. /blog/
