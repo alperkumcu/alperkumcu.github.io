@@ -1,9 +1,10 @@
 # Site settings
-title: alper kumcu
+title: Alper Kumcu
 email: alperkumcu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+Hello world!
 # baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
+url: "https://alperkumcu.com" # the base hostname & protocol for your site
 twitter_username: alperkumcu
 permalink: /blog/:year/:month/:title.html
 gems:
