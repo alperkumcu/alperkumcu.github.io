@@ -1,8 +1,7 @@
-
 ---
 layout: page
-title: presentations
-permalink: /presentations/
+title: publications
+permalink: /publications/
 ---
 
 To be updated.
