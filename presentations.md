@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-permalink: /publications/
+title: talks
+permalink: /talks/
 ---
 
 To be updated.
