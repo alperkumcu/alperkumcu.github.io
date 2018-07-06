@@ -1,1 +1,5 @@
-To be updated
+---
+layout: page
+title: talks
+permalink: /talks/
+---
