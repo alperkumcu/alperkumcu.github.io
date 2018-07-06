@@ -20,7 +20,7 @@ Hacettepe University
 <li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University
 
-<b>Interests</b>
+<p><b>Interests</b></p>
 <li>Embodied Cognition</li>
 <li>Memory for Language</li>
 <li>Spatial Cognition</li>
