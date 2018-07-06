@@ -1,5 +1,5 @@
 ---
 layout: page
-title: talks
-permalink: /talks/
+title: teaching
+permalink: /teaching/
 ---
