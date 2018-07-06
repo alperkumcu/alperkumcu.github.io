@@ -41,11 +41,11 @@ layout: default
   <div class="column">
     <h2>Education</h2>
     <li>PhD in Pyschology, 2018</li>
-    University of Birmingham
+    University of Birmingham (PhD thesis.pdf)
     <li>MSc in Pyschology, 2014</li>
-    University of Birmingham
+    University of Birmingham (MSc thesis.pdf)
     <li>MA in Translation & Interpreting, 2010</li>
-    Hacettepe University
+    Hacettepe University (MA thesis.pdf)
     <li>BA in Translation & Interpreting, 2008</li>
     Hacettepe University
   </div>
