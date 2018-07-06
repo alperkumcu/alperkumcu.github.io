@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. I res
+<p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements.</p>
 
 
 <html>
