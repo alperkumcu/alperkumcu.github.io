@@ -11,7 +11,6 @@ layout: default
 <p>Oh I almost forgot, I take photos.</p>
 
 <b>Education</b> 
-
 <li>PhD in Pyschology, 2018</li>
 University of Birmingham
 <li>MSc in Pyschology, 2014</li>
@@ -20,3 +19,8 @@ University of Birmingham
 Hacettepe University
 <li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University
+
+<b>Interests</b>
+<li>Embodied Cognition</li>
+<li>Memory for Language</li>
+<li>Spatial Cognition</li>
