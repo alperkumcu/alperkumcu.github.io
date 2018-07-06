@@ -56,11 +56,11 @@ Hacettepe University
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Column 2</h2>
     <p>Some text..</p>
   </div>
