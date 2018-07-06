@@ -53,8 +53,6 @@ Hacettepe University
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
-
 <div class="row">
   <div class="column">
     <h2>Interests</h2>
