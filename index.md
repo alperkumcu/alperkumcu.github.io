@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University.Currently, I’m conducting a research project on the use of space in verbal memory under the supervision of Dr Robin Thompson and Dr Linda Wheeldon at the Multimodal Multilingual Language Processing Lab, University of Birmingham.</p>
-<p>Oh I almost forgot, I take photos.</p>
+<p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. I res
+
 
 <html>
 <head>
@@ -36,7 +36,7 @@ layout: default
     <h2>Interests</h2>
     <li>Embodied Cognition</li>
     <li>Memory for Language</li>
-    <li>Spatial Cognition</li>
+    <li>Spatial Perception</li>
   </div>
   <div class="column">
     <h2>Education</h2>
