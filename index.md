@@ -26,35 +26,44 @@ Hacettepe University
 <li>Spatial Cognition</li>
 
 
+<!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.newspaper {
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 </style>
 </head>
 <body>
 
-<p><b>Note:</b> Internet Explorer 9, and earlier versions, does not support the column-count property.</p>
+<h2>Two Equal Columns</h2>
 
-<div class="newspaper">
-<b>Education</b> 
-<li>PhD in Pyschology, 2018</li>
-University of Birmingham
-<li>MSc in Pyschology, 2014</li>
-University of Birmingham
-<li>MA in Translation & Interpreting, 2010</li>
-Hacettepe University
-<li>BA in Translation & Interpreting, 2008</li>
-Hacettepe University
-
-<p><b>Interests</b></p>
-<li>Embodied Cognition</li>
-<li>Memory for Language</li>
-<li>Spatial Cognition</li>
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
 </div>
 
 </body>
