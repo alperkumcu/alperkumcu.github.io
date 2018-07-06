@@ -57,12 +57,21 @@ Hacettepe University
 
 <div class="row">
   <div class="column">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Interests</h2>
+    <li>Embodied Cognition</li>
+    <li>Memory for Language</li>
+    <li>Spatial Cognition</li>
   </div>
   <div class="column">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>Education</h2>
+    <li>PhD in Pyschology, 2018</li>
+    University of Birmingham
+    <li>MSc in Pyschology, 2014</li>
+    University of Birmingham
+    <li>MA in Translation & Interpreting, 2010</li>
+    Hacettepe University
+    <li>BA in Translation & Interpreting, 2008</li>
+    Hacettepe University
   </div>
 </div>
 
