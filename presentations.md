@@ -16,7 +16,7 @@ Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Has
 <p>Kumcu, A. (2009). The Making of: Visual Focal Loci in Simultaneous Interpreting. Colloquium on Graduate Studies in Translation Studies. 20 November, 2009. Okan University, İstanbul, Turkey.</p>
 
 <b>Posters</b>
-<p>Kumcu, A. & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. 23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference. September 7 -9, 2017. University of Leicester, Leicester, UK.</p>
-<p>Kumcu, A. & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. Research Poster Conference. 12 June, 2017. University of Birmingham, UK.</p>
-<p>Kumcu, A. & Thompson, R. L. (April 2015). "Looking at Nothing" for Verbal Memory. Research Event of the School of Psychology, University of Birmingham, UK.</p>
-<p>Al-Qahtani, N., Kumcu, A. & Wheeldon, L. (April, 2014). Morphological, semantic and translation priming in word reading: Evidence from Arabic-English bilinguals. Research Event of the School of Psychology, University of Birmingham, UK.</p>
+<p>Kumcu, A. & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. <i>23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference</i>. September 7 -9, 2017. University of Leicester, Leicester, UK.</p>
+<p>Kumcu, A. & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. <i>Research Poster Conference</i>. 12 June, 2017. University of Birmingham, UK.</p>
+<p>Kumcu, A. & Thompson, R. L. (April 2015). "Looking at Nothing" for Verbal Memory. <i>Research Event of the School of Psychology</i>, University of Birmingham, UK.</p>
+<p>Al-Qahtani, N., Kumcu, A. & Wheeldon, L. (April, 2014). Morphological, semantic and translation priming in word reading: Evidence from Arabic-English bilinguals. <i>Research Event of the School of Psychology</i>, University of Birmingham, UK.</p>
