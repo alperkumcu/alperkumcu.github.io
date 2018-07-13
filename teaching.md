@@ -2,6 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
+order: 4
 ---
 2018 - 2019 Fall
 
