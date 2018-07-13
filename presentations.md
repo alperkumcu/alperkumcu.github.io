@@ -2,6 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
+order: 3
 ---
 
 <b>Presentations</b>
