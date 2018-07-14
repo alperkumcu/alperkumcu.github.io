@@ -36,6 +36,7 @@ layout: default
     <li>Embodied Cognition</li>
     <li>Memory for Language</li>
     <li>Spatial Perception</li>
+     <li>Interpreting Studies</li>
   </div>
   <div class="column">
     <h2>Education</h2>
