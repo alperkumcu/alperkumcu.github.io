@@ -40,17 +40,17 @@ layout: default
   </div>
   <div class="column">
     <h2>Education</h2>
-    <li>PhD in Pyschology, 2018</li>
+    <p><li>PhD in Pyschology, 2018</li>
     University of Birmingham<br>
     Thesis title: Looking for Language in Space: Spatial Simulations in Memory for Language (.pdf)<br>
     Supervisor: Dr Robin L Thompson<br>
-    Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)<br>
-    <li>MSc in Pyschology, 2014</li>
-    University of Birmingham (MSc thesis.pdf)
-    <li>MA in Translation & Interpreting, 2010</li>
-    Hacettepe University (MA thesis.pdf)
-    <li>BA in Translation & Interpreting, 2008</li>
-    Hacettepe University
+    Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)<br></p>
+    <p><li>MSc in Pyschology, 2014</li>
+    University of Birmingham (MSc thesis.pdf)</p>
+    <p><li>MA in Translation & Interpreting, 2010</li>
+    Hacettepe University (MA thesis.pdf)</p>
+    <p><li>BA in Translation & Interpreting, 2008</li>
+    Hacettepe University</p>
   </div>
 </div>
 
