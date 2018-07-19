@@ -3,10 +3,7 @@ layout: default
 ---
 
 <p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of R and supporter of <a href="https://osf.io/m9yh3/">open and reproducible science</a>. Here's my CV for further information.</p>
-<br>
-<br>
-<br>
-<br>
+<hr>
 <p><h2>Education</h2>
 <p><li>PhD in Pyschology, 2018</li>
 University of Birmingham<br>
@@ -19,7 +16,7 @@ University of Birmingham (MSc thesis.pdf)</p>
 Hacettepe University (MA thesis.pdf)</p>
 <p><li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University</p></p>
-
+<hr>
 <p><h2>Interests</h2>
 <li>Embodied Cognition</li>
 <li>Memory for Language</li>
