@@ -15,9 +15,9 @@ order: 4
 
 <b>Previous Semesters</b>
 
-<li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
+<li>Lexicology (Hacettepe University, 2008 - 2013)</li>
 <li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
-<li>IT for Translators (Hacettepe University, 2008 - 2012)</li>
+<li>Information Technologies for Translators (Hacettepe University, 2008 - 2012)</li>
 <br>
 
 <h2>Workshops</h2>
