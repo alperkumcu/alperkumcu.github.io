@@ -11,7 +11,7 @@ Thesis title: Looking for Language in Space: Spatial Simulations in Memory for L
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)<br></p>
 <p><li>MSc in Pyschology, 2014</li>
-University of Birmingham (MSc thesis.pdf)
+University of Birmingham<br>
 Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (.pdf)<br></p>
 <p><li>MA in Translation & Interpreting, 2010</li>
 Hacettepe University (MA thesis.pdf)</p>
