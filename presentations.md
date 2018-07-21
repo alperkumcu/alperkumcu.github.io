@@ -5,7 +5,7 @@ permalink: /talks/
 order: 3
 ---
 
-<b>Presentations</b>
+<h2>Presentations</h2>
 <p>Kumcu, A. & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. Research Event of the School of Psychology, University of Birmingham. Birmingham, UK.</p>
 <p>Kumcu, A. & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. International Conference on Eyetracking and Applied Linguistics. 26-27  September, 2014. Warsaw, Poland.</p>
 <p>Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). Internet Behaviours of Translators and Interpreters in Turkey. III. International Translation Colloquium. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)</p>
@@ -16,7 +16,7 @@ Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Has
 <p>Kumcu, A., & Duman, Ç., D. (2009). Terminology Work in Conference Interpreting: A Case Study. International Symposium on Technical Translation and Terminology for Cross-Cultural Dialogue. 12-13 November, 2009. Hacettepe University, Ankara, Turkey.</p>
 <p>Kumcu, A. (2009). The Making of: Visual Focal Loci in Simultaneous Interpreting. Colloquium on Graduate Studies in Translation Studies. 20 November, 2009. Okan University, İstanbul, Turkey.</p>
 
-<b>Posters</b>
+<h2>Posters</h2>
 <p>Kumcu, A. & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. <i>23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference</i>. September 7 -9, 2017. University of Leicester, Leicester, UK.</p>
 <p>Kumcu, A. & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. <i>Research Poster Conference</i>. 12 June, 2017. University of Birmingham, UK.</p>
 <p>Kumcu, A. & Thompson, R. L. (April 2015). "Looking at Nothing" for Verbal Memory. <i>Research Event of the School of Psychology</i>, University of Birmingham, UK.</p>
