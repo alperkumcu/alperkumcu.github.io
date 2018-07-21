@@ -13,7 +13,7 @@ order: 4
 <li>History of English and American Culture</li>
 <br>
 Previous Semesters
-<br>
+
 <li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
 <li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
 <li>IT for Translators (Hacettepe University, 2008 - 2012)</li>
