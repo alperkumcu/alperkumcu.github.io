@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 order: 4
 ---
-<h1>Undergraduate Courses</h1>
+<h2>Undergraduate Courses</h2>
 
 2018 - 2019 Fall
 
@@ -12,4 +12,4 @@ order: 4
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
 
-<h1>Workshops</h1>
+<h2>Workshops</h2>
