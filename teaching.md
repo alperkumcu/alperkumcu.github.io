@@ -11,7 +11,7 @@ order: 4
 <li>Lexicology</li>
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
-<hr>
+
 Previous Semesters
 
 <li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
