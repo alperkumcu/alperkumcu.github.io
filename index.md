@@ -14,7 +14,8 @@ Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richards
 University of Birmingham<br>
 Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (.pdf)<br></p>
 <p><li>MA in Translation & Interpreting, 2010</li>
-Hacettepe University (MA thesis.pdf)</p>
+Hacettepe University<br>
+Thesis title: Loci of Focus in Simultaneous Interpreting (.pdf)<br></p>
 <p><li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University</p></p>
 <hr>
