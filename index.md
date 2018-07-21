@@ -7,15 +7,15 @@ layout: default
 <p><h2>Education</h2>
 <p><li>PhD in Pyschology, 2018</li>
 University of Birmingham<br>
-<font size="3">Thesis title: Looking for Language in Space: Spatial Simulations in Memory for Language (.pdf)<br>
+<font size="2.5">Thesis title: Looking for Language in Space: Spatial Simulations in Memory for Language (.pdf)<br>
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font><br></p>
 <p><li>MSc in Pyschology, 2014</li>
 University of Birmingham<br>
-<font size="3">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (.pdf)</font><br></p>
+<font size="2.5">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (.pdf)</font><br></p>
 <p><li>MA in Translation & Interpreting, 2010</li>
 Hacettepe University<br>
-<font size="3">Thesis title: Loci of Focus in Simultaneous Interpreting (.pdf)</font><br></p>
+<font size="2.5">Thesis title: Loci of Focus in Simultaneous Interpreting (.pdf)</font><br></p>
 <p><li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University</p></p>
 <hr>
