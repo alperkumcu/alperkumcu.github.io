@@ -15,7 +15,7 @@ University of Birmingham<br>
 <font size="2.5">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (.pdf)</font><br></p>
 <p><li>MA in Translation & Interpreting, 2010</li>
 Hacettepe University<br>
-<font size="2.5">Thesis title: Loci of Focus in Simultaneous Interpreting (.pdf)</font><br></p>
+<font size="2.5">Thesis title: Visual Focal Loci in Simultaneous Interpreting (.pdf)</font><br></p>
 <p><li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University</p></p>
 <hr>
