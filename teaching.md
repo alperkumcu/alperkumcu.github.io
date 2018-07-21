@@ -12,12 +12,14 @@ order: 4
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
 <br>
+
 <b>Previous Semesters</b>
 
 <li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
 <li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
 <li>IT for Translators (Hacettepe University, 2008 - 2012)</li>
 <br>
+
 <h2>Workshops</h2>
 <p>Translation Strategies and Problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.</p>
 <p>Interpreting and Note-Taking. 24-29 January 2011. Azerbaijan University of Languages, Baku, Azerbaijan.</p>
