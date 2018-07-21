@@ -6,13 +6,13 @@ order: 4
 ---
 <h2>Undergraduate Courses</h2>
 
-2018 - 2019 Fall
+<b>2018 - 2019 Fall</b>
 
 <li>Lexicology</li>
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
 <br>
-Previous Semesters
+<b>Previous Semesters</b>
 
 <li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
 <li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
