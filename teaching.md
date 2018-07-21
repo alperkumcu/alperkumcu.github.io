@@ -12,10 +12,11 @@ order: 4
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
 
-Lecturing
-Lexicology for Translators (Hacettepe University, 2008 - 2013)
-Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)
-IT for Translators (Hacettepe University, 2008 - 2012)
+Previous Semesters
+
+<li>Lexicology for Translators (Hacettepe University, 2008 - 2013)</li>
+<li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
+<li>IT for Translators (Hacettepe University, 2008 - 2012)</li>
 
 <h2>Workshops</h2>
 <p>Translation Strategies and Problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.</p>
