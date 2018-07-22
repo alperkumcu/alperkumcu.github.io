@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <p>I’m a doctoral researcher at the School of Psychology, University of Birmingham and a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of R and supporter of <a href="https://osf.io/m9yh3/">open and reproducible science</a>. Here's my CV for further information.</p>
