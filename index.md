@@ -12,7 +12,7 @@ Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font><br>
 <p><li>MSc in Pyschology, 2014</li>
 University of Birmingham<br>
-<font size="2.5">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements <a href="alperkumcu.github.io/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">(.pdf)</a><br> 
+<font size="2.5">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (<a href="alperkumcu.github.io/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)<br> 
 <p><li>MA in Translation & Interpreting, 2010</li>
 Hacettepe University<br>
 <font size="2.5">Thesis title: Visual Focal Loci in Simultaneous Interpreting (.pdf)</font><br></p>
