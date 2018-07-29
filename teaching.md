@@ -2,25 +2,22 @@
 layout: page
 title: teaching
 permalink: /teaching/
-order: 4
 ---
-<h2>Undergraduate Courses</h2>
+<h3>Undergraduate Courses</h3>
 
 <b>2018 - 2019 Fall</b>
-
 <li>Lexicology</li>
 <li>Interpreting Studies</li>
 <li>History of English and American Culture</li>
 <br>
 
 <b>Previous Semesters</b>
-
 <li>Lexicology (Hacettepe University, 2008 - 2013)</li>
 <li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
 <li>Information Technologies for Translators (Hacettepe University, 2008 - 2012)</li>
 <br>
 
-<h2>Workshops</h2>
+<h3>Workshops</h3>
 <p>Translation Strategies and Problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.</p>
 <p>Interpreting and Note-Taking. 24-29 January 2011. Azerbaijan University of Languages, Baku, Azerbaijan.</p>
 <p>Translation Technology. 13 April, 2013. Cappadocia Vocational College, Nevşehir, Turkey.</p>
