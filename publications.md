@@ -2,7 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-order: 2
 ---
 
 <p>Kumcu, A. & Thompson, R. L. (accepted for publication). Less imageable words lead to more looks to blank locations during memory retrieval. <i>Psychological Research</i>.</p>
