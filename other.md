@@ -14,6 +14,6 @@ Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily Ne
 Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)
 
 <b>Miscellaneous</b><br>
-<p>I have two photoblogs titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" and "<a href="http://citiesandwhat.tumblr.com" target="_blank">Cities and People</a>". The Urban Metaphor features pictures of street art and Cities and People is on the relationship between cities and individuals living in them.</p>
+I have two photoblogs titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" and "<a href="http://citiesandwhat.tumblr.com" target="_blank">Cities and People</a>". The Urban Metaphor features pictures of street art and Cities and People is on the relationship between cities and individuals living in them.<br>
 
-<p>A new video series in on the way!</p>
+A new video series in on the way!<br>
