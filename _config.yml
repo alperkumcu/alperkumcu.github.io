@@ -1,5 +1,4 @@
 title: alper kumcu
-google_analytics: UA-48656742-3
 author: TwoThousandEighteen
 email: alperkumcu[at]gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
@@ -38,6 +37,9 @@ header_pages:
   - presentations.md
   - teaching.md
   - other.md
+  
+# Google Analytics
+google_analytics: UA-48656742-3
 
 # Build settings
 theme: minima
