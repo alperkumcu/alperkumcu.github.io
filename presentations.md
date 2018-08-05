@@ -2,12 +2,11 @@
 layout: page
 title: talks
 permalink: /talks/
-order: 3
 ---
 
 <h2>Presentations</h2>
 <p>Kumcu, A. & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. Research Event of the School of Psychology, University of Birmingham. Birmingham, UK.</p>
-<p>Kumcu, A. & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. International Conference on Eyetracking and Applied Linguistics. 26-27  September, 2014. Warsaw, Poland.</p>
+<p>Kumcu, A. & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. Can these eye lie? International Conference on Eyetracking and Applied Linguistics. 26-27  September, 2014. Warsaw, Poland.</p>
 <p>Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). Internet Behaviours of Translators and Interpreters in Turkey. III. International Translation Colloquium. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)</p>
 <p>Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Hastürkoğlu, G., Yağlı, E., Cangır, H., Ahmadlouei, H., Talaie, N., Korkmaz, N., & Ağırel, S. (2013). Uygulamaya yönelik doğal dil işlemleme odaklı Türk Politika Derlemi Projesi: 1983-2013. 27. Ulusal Dilbilim Kurultayı. 2-4 May, 2013. Antalya, Turkey. (in Turkish)</p>
 <p>Kumcu, A. (2012). Glocalization with Translation Technology: Computer-Assisted Translation (CAT) Tools Today and Tomorrow. The Asian Conference on Language Learning (ACLL). 26-28 April, 2012. Osaka, Japan.</p>
