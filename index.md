@@ -23,4 +23,4 @@ Hacettepe University</p>
 <li>Embodied Cognition</li>
 <li>Memory for Language</li>
 <li>Spatial Perception</li>
-<li>Interpreting Studies</li></p>
+<li>Cognitive Interpreting Studies</li></p>
