@@ -5,22 +5,21 @@ permalink: /teaching/
 ---
 <h2>Undergraduate Courses</h2>
 
-<b>2018 - 2019 Fall</b>
-<li>Lexicology</li>
-<li>Interpreting Studies</li>
+<b>2018 - 2019 Spring</b>
 <li>History of English and American Culture</li>
 <br>
 
 <b>Previous Semesters</b>
-<li>Lexicology (Hacettepe University, 2008 - 2013)</li>
-<li>Computer-Aided Translation Tools (Hacettepe University, 2008 - 2012)</li>
-<li>Information Technologies for Translators (Hacettepe University, 2008 - 2012)</li>
+<li>Interpreting Studies (Hacettepe University, 2018)</li>
+<li>Lexicology (Hacettepe University, 2009 - 2018)</li>
+<li>Computer-Aided Translation Tools (Hacettepe University, 2009 - 2012)</li>
+<li>Information Technologies for Translators (Hacettepe University, 2009 - 2012)</li>
 <br>
 
 <h2>Workshops</h2>
 <li>Translation Strategies and Problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.</li>
 <li>Interpreting and Note-Taking. 24-29 January 2011. Azerbaijan University of Languages, Baku, Azerbaijan.</li>
-<li>Translation Technology. 13 April, 2013. Cappadocia Vocational College, Nevşehir, Turkey.</p>
+<li>Translation Technology. 13 April, 2013. Cappadocia Vocational College, Nevşehir, Turkey.</li>
 <li>Computer-Aided Translation Tools: An Introduction. 2 March, 2012. Office of the Prime Minister, Directorate General of Press & Information, Ankara, Turkey.</li>
 <li>Computer-Aided Translation Tools.  25-26 February, 2012. Cappadocia Vocational College, Nevşehir, Turkey.</li>
 <li>Interpreting: An outlook for students. 31 October, 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.</li>
