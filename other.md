@@ -15,5 +15,4 @@ Turkish translators seek to be protected by law. Hurriyet Daily News. 29 Septemb
 
 <b>Miscellaneous</b><br>
 I have two photoblogs titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" and "<a href="http://citiesandwhat.tumblr.com" target="_blank">Cities and People</a>". The Urban Metaphor features pictures of street art and Cities and People is on the relationship between cities and individuals living in them.<br>
-
-A new video series in on the way!<br>
+I've also just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Breakr</a>" in which I interview my academic friends about their work/
