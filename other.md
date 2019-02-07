@@ -3,6 +3,9 @@ layout: page
 title: other work
 permalink: /other work/
 ---
+<b>Review</b><br>
+Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
+
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
 <br>
