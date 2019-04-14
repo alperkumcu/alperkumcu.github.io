@@ -1,7 +1,7 @@
 ---
 layout: page
-title: other work
-permalink: /other work/
+title: cv
+permalink: /cv/
 ---
 <b>Review</b><br>
 Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
