@@ -3,18 +3,16 @@ layout: page
 title: bio
 permalink: /bio/
 ---
-<b>Review</b><br>
-Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
 
-<b>Translations</b><br>
-Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
-<br>
-<b>Non-Academic Articles</b><br>
-Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.<br>
-<br>
-<b>Interviews & News</b><br>
-<a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
-Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)
+Alper Kumcu received his B.A. and M.A. degrees in Translation and Interpreting at Hacettepe University in Turkey. He worked as a research and teaching assistant at the same university for five years and gave lectures and seminar talks, mainly on lexicology and computer-assisted translation tools. He started a PhD programme in Linguistics at Hacettepe University before taking his M.Sc degree in Psychology at the University of Birmingham. He is currently undertaking doctoral research at the University of Birmingham to explore the relationship between language and the visual world, using eye tracking and behavioural methods. Multimodal language processing, verbal memory, divided attention and the extended mind are his main research interests.
 
-<b>Miscellaneous</b><br>
-I have two photoblogs titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" and "<a href="http://citiesandwhat.tumblr.com" target="_blank">Cities and People</a>". The Urban Metaphor features pictures of street art and Cities and People is on the relationship between cities and individuals living in them. I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work.
+<b>Admin Work</b><br>
+Representative for research assistant at the Faculty of Letters (Hacettepe University, 2019 - 2021)
+Senior student representative for postgraduate student (University of Birmingham, 2019 - 2021)
+Host and Organiser of Language and Cognition Seminars (University of Birmingham, 2019 - 2021)
+
+Faculty of Letters Information and Coordination for Student Socities (2013) # English Division Academic Advisor (2009 - 2013)
+English Division Double Major Programme Coordinator (2009 - 2013)
+English Division Double Language Programme Coordinator (2009 - 2013) # English Division Field Training Coordinator (2009 - 2013)
+Translation Society Assistant Academic Advisor (2011 - 2013)
+Department Assistant Web/Social Media Administrator (2011 - 2013)
