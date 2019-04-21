@@ -15,7 +15,7 @@ permalink: /bio/
 <li>English Division Field Training Coordinator (2009 - 2013)</li>
 
 <p><h2>Projects</h2>
-<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Hacettepe University, 2011 - 2013)</li>
+<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
 
 <p><h2>Summer Schools</h2>
 <li>CETRA 2012</li>
