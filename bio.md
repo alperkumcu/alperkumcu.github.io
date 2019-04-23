@@ -18,5 +18,6 @@ permalink: /bio/
 <li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
 
 <p><h2>Summer Schools</h2>
-<li>CETRA 2012</li>
-<li>Terminology Summer School 2009</li>
+<li>CETRA Research Summer School 2012, KU Leuven, Belgium</li>
+CETRA Professor: Franz Pöchhacker
+<li>Terminology Summer School 2009, Cologne, Germany</li>
