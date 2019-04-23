@@ -30,8 +30,7 @@ Turkish translators seek to be protected by law. Hurriyet Daily News. 29 Septemb
 <li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
 <br>
 <b>Summer Schools</b><br>
-<li>CETRA Research Summer School 2012, KU Leuven, Belgium</li>
-CETRA Professor: Franz Pöchhacker
+<li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li>
 <br>
 <b>Miscellaneous</b><br>
