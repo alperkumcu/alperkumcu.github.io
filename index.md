@@ -2,7 +2,7 @@
 layout: page
 ---
 <p><h2>Hello!</h2>
-<p>I’m a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of R and supporter of open and reproducible science. Here's my CV for further information.</p>
+<p>I’m a research & teaching assistant at the Department of Translation and Interpreting, Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of R and supporter of open and reproducible science. Here are my <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Research Gate</a> accounts for further information.</p>
 <hr>
 <p><h2>Education</h2>
 <p><li>PhD in Psychology, 2018</li>
