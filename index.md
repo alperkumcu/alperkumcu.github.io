@@ -7,7 +7,7 @@ layout: page
 <p><h2>Education</h2>
 <p><li>PhD in Psychology, 2018</li>
 University of Birmingham<br>
-<font size="2.5">Thesis title: Looking for Language in Space: Spatial Simulations in Memory for Language (.pdf)<br>
+<font size="2.5">Thesis title: Looking for Language in Space: Spatial Simulations in Memory for Language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">(.html)</a><br>
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font><br>
 <p><li>MSc in Psychology, 2014 (distinction)</li>
