@@ -13,5 +13,5 @@ permalink: /publications/
 <p>Kumcu, A. (2008). <a href="alperkumcu.github.io/Alice in Translationland.pdf" target="_blank">Alice Çeviri Diyarında: Kültürel Motifler Açısından Karşılaştırmalı Bir Çeviri Eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, 18, 123-144. [ts][tr]</p> 
 --------------------------------------------------------------------------------------------------------------------------
 
-<p>field: [psy]: psycholinguistics, [is]: interpreting studies [soc]: sociolinguistics, [ts]: translation studies<br>
+<p>field: [psy]: psycholinguistics [is]: interpreting studies [soc]: sociolinguistics [ts]: translation studies<br>
 language: [en]: english, [tr]: türkçe </p>
