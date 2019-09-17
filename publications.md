@@ -12,4 +12,6 @@ permalink: /publications/
 <p>Kumcu, A. (2013). <a href="alperkumcu.github.io/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). New Delhi: Modlingua. ISBN: 978-81-926798-0-8. [soc][ts][en]</p>
 <p>Kumcu, A. (2008). <a href="alperkumcu.github.io/Alice in Translationland.pdf" target="_blank">Alice Çeviri Diyarında: Kültürel Motifler Açısından Karşılaştırmalı Bir Çeviri Eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, 18, 123-144. [ts][tr]</p> 
 --------------------------------------------------------------------------------------------------------------------------
-<p>[psy]: psycholinguistics, [is]: interpreting studies [soc]: sociolinguistics, [ts]: translation studies, [en]: english, [tr]: türkçe </p> 
+<br>
+<p>subfield: [psy]: psycholinguistics, [is]: interpreting studies [soc]: sociolinguistics, [ts]: translation studies<br>
+language: [en]: english, [tr]: türkçe </p>
