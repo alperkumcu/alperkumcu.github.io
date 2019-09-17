@@ -14,4 +14,4 @@ permalink: /publications/
 --------------------------------------------------------------------------------------------------------------------------
 <p></p>
 <p>field: [psy]: psycholinguistics [is]: interpreting studies [soc]: sociolinguistics [ts]: translation studies<br>
-language: [en]: english, [tr]: türkçe </p>
+language: [en]: english [tr]: türkçe </p>
