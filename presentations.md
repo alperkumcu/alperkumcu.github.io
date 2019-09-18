@@ -7,7 +7,7 @@ permalink: /talks/
 <h2>Presentations</h2>
 <p>Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı. Amasya, Turkey.</p>
 <p>Kumcu, A. & Thompson, R. L. (August, 2019). "Recent advances in research on the looking at nothing". 20th European Conference on Eye Movements ECEM 2019. Alicante, Spain.</p>
-<p>Dinçer, Ünlü & Kumcu (April, 2019). Study Examining the Validity of Translation Items Used in the
+<p>Dinçer, Antonova-Ünlü & Kumcu (April, 2019). Study Examining the Validity of Translation Items Used in the
 National English Proficiency Exams in Turkey. 5th International Conference on Teaching and Learning English as an Additional Language GlobELT 2019. Kyrenia, Cyprus.</p>
 <p>Kumcu, A. & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. Research Event of the School of Psychology, University of Birmingham. Birmingham, UK.</p>
 <p>Kumcu, A. & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. Can these eye lie? International Conference on Eyetracking and Applied Linguistics. 26-27  September, 2014. Warsaw, Poland.</p>
