@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-<p>Kumcu, A. (2019). <a href="" target="_blank"></a>. <i>Edebiyat Fakültesi Dergisi</i>. (submitted) [psy][is][tr]</p>
+<p>Kumcu, A. (2019). <a href="" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>. (submitted) [psy][is][tr]</p>
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistic Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
 <p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <i>Psychological Research</i>, 1-18. 10.1007/s00426-018-1084-6. [psy][en]</p>
 <p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <i>Psychological Research</i>, 1-18. 10.1007/s00426-018-1084-6. [psy][en]</p>
