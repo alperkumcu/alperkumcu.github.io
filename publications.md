@@ -8,7 +8,7 @@ permalink: /publications/
 
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistic Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
 
-<p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <i>Psychological Research</i>, 1-18. 10.1007/s00426-018-1084-6. [psy][en]</p>
+<p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <a href="  https://link.springer.com/journal/426" target="_blank"><i>Psychological Research</i></a>, 1-18. 10.1007/s00426-018-1084-6. [psy][en]</p>
 
 <p>Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp: 2387-2392). Austin, TX: Cognitive Science Society. [psy][en]</p>
 
