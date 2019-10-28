@@ -4,6 +4,8 @@ title: publications
 permalink: /publications/
 ---
 
+<p>Kumcu, A. & Thompson, R. L. (2020). <a href="" target="_blank">Working title</a>. <i>Journal of Experimental Psychology: Learning, Memory and Cognition</i>. (in progress) [psy][en]</p>
+
 <p>Kumcu, A. (2019). <a href="" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>. (submitted) [psy][is][tr] (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on Simultaneous Interpreting Process)</p>
 
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistic Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
