@@ -9,7 +9,7 @@ permalink: /publications/
 
 <p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <a href="  https://link.springer.com/journal/426" target="_blank"><i>Psychological Research</i></a>, 1-18. 10.1007/s00426-018-1084-6. [psy][en]</p>
 
-<b>SSCI Q3</b>
+<b>SSCI Q2</b>
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistics Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
 
 <b>TR Index</b>
