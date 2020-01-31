@@ -2,7 +2,7 @@
 layout: page
 ---
 <p><h2>Hello!</h2>
-<p>I’m a researcher at Hacettepe University and the associate editor of <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. My research investigates use of space in language and memory operations mainly through eye movements.  I'm an avid user of R and supporter of open and reproducible science.  Here are my <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Research Gate</a> accounts for further information.</p>
+<p>I’m a researcher at Hacettepe University and the associate editor of <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. My research investigates use of space in language and memory operations mainly through eye movements.  I'm an avid user of R and supporter of open and reproducible science.
 <hr>
 <p><h2>Education</h2>
 <p><li>PhD in Psychology, 2018</li>
@@ -20,7 +20,13 @@ Hacettepe University<br>
 Hacettepe University</p>
 <hr>
 <p><h2>Interests</h2>
-<li>Embodied Cognition</li>
+<li>Grounded-embodied Cognition</li>
 <li>Memory for Language</li>
 <li>Spatial Perception</li>
 <li>Cognitive Translation & Interpreting Studies</li></p>
+<p><h2>Researcher IDs</h2>
+<li>ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a></li>
+<li>Google Scholar Citation ID: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a></li>
+<li>Clarivate Researcher ID:E-5568-2012</li>
+<li>Research Gate:<a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a></li>
+<li>YÖK Researcher ID:</li></p>
