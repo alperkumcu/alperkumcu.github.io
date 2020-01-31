@@ -24,9 +24,10 @@ Hacettepe University</p>
 <li>Memory for Language</li>
 <li>Spatial Perception</li>
 <li>Cognitive Translation & Interpreting Studies</li></p>
+<hr>
 <p><h2>Researcher IDs</h2>
 <li>ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a></li>
 <li>Google Scholar Citation ID: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a></li>
-<li>Clarivate Researcher ID:E-5568-2012</li>
+<li>WOS Researcher ID: <a href="https://publons.com/researcher/1692089/alper-kumcu/" target="_blank">E-5568-2012</a></li>
 <li>Research Gate:<a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a></li>
 <li>YÖK Researcher ID:</li></p>
