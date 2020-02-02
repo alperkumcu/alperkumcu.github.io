@@ -31,4 +31,4 @@ Hacettepe University</p>
 <li>WOS Researcher ID: <a href="https://publons.com/researcher/1692089/alper-kumcu/" target="_blank">E-5568-2012</a></li>
 <li>YÖK Researcher ID: JBOSSN183</li>
 <li>Hacettepe University AVESİS: <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Alper Kumcu</a></li>
-<li>Research Gate:<a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a></li></p>
+<li>Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a></li></p>
