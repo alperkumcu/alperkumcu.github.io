@@ -37,6 +37,9 @@ National English Proficiency Exams in Turkey. 5th International Conference on Te
 
 <h2>Posters</h2>
 
+<h3>2020</h3>
+<p>Kumcu, A. & Yağlı, E. (2020). Sensory Norms for 925 Words. <i>20th ICTL (International Conference on Turkish Linguistics </i>. June 23-25, 2020. Anadolu University, Eskişehir, Turkey.</p>
+
 <h3>2017</h3>
 <p>Kumcu, A. & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. <i>23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference</i>. September 7 -9, 2017. University of Leicester, Leicester, UK.</p>
 <p>Kumcu, A. & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. <i>Research Poster Conference</i>. 12 June, 2017. University of Birmingham, UK.</p>
