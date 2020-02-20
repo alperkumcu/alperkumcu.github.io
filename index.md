@@ -29,6 +29,6 @@ Hacettepe University</p>
 <li>ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a></li>
 <li>Google Scholar: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a></li>
 <li>WOS Researcher ID: <a href="https://publons.com/researcher/1692089/alper-kumcu/" target="_blank">E-5568-2012</a></li>
-<li>YÖK Researcher ID: JBOSSN183</li>
+<li>YÖK Researcher ID: <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">JBOSSN183</a></li>
 <li>Hacettepe University AVESİS: <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Alper Kumcu</a></li>
 <li>Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a></li></p>
