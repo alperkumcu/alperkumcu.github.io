@@ -3,7 +3,7 @@ layout: page
 title: other work
 permalink: /other work/
 ---
-<b>Review</b><br>
+<b>Peer Review</b><br>
 Cognition<br>
 Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
 
