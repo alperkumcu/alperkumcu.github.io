@@ -4,6 +4,7 @@ title: other work
 permalink: /other work/
 ---
 <b>Review</b><br>
+Cognition
 Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
 
 <b>Translations</b><br>
