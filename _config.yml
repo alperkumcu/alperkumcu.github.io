@@ -1,16 +1,48 @@
-# Site settings
-title: Alper Kumcu
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-
-# baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jabranham.com" # the base hostname & protocol for your site
+title: Dr Alper Kumcu
+author: TwoThousandTwenty
+email: alperkumcu[at]gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  ---
+# social links
 twitter_username: alperkumcu
-github_username:  alperkumcu
-permalink: /blog/:year/:month/:title.html
-gems:
-  - jekyll-sitemap
+youtube_username: alperkumcu
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+header_pages:
+  - bio.md
+  - publications.md
+  - presentations.md
+  - teaching.md
+  - other.md
+  
+# Google Analytics
+google_analytics: UA-48656742-3
 
 # Build settings
-markdown: kramdown
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
