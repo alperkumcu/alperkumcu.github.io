@@ -15,7 +15,7 @@ permalink: /publications/
 <b>TR Index</b>
 <p>Kumcu, A. (2020). <a href="" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>. (accepted) [psy][is][tr] (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on Simultaneous Interpreting Process)</p>
 
-<p>Kumcu, A. (2008). <a href="/Users/alper/Documents/GitHub/alperkumcu.github.io/Alice in Translationland.pdf" target="_blank">Alice Çeviri Diyarında: Kültürel Motifler Açısından Karşılaştırmalı Bir Çeviri Eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, 18, 123-144. [ts][tr] (English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p> 
+<p>Kumcu, A. (2008). <a href="alperkumcu.github.io/Alice in Translationland.pdf" target="_blank">Alice Çeviri Diyarında: Kültürel Motifler Açısından Karşılaştırmalı Bir Çeviri Eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, 18, 123-144. [ts][tr] (English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p> 
 
 <b>Book chapters and proceedings</b>
 <p>Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp: 2387-2392). Austin, TX: Cognitive Science Society. [psy][en]</p>
