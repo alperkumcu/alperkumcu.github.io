@@ -4,8 +4,9 @@ title: other work
 permalink: /other work/
 ---
 <b>Peer Review</b><br>
-Cognition<br>
-Journal of Translation Studies (Hacettepe University, Department of Translation and Interpreting)
+Cognition (SSCI Q1)<br>
+Çeviribilim ve Uygulamaları (TR Dizin)<br>
+Dil Dergisi (TR Dizin)
 
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
