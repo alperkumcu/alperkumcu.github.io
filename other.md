@@ -6,8 +6,9 @@ permalink: /other work/
 <b>Associate Editorship</b><br>
 Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
 
-<b>Peer Review</b><br>
+<b>Peer-Review</b><br>
 Cognition (SSCI Q1)<br>
+Psycological Research (SSCI Q1)<br>
 Çeviribilim ve Uygulamaları Dergisi (TR Dizin)<br>
 Dil Dergisi (TR Dizin)
 
