@@ -9,9 +9,10 @@ Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
 <b>Peer-Review Experience</b><br>
 Cognition (SSCI Q1) (1)<br>
 Psycological Research (SSCI Q1) (1)<br>
-Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
-Dil Dergisi (TR Dizin) (1)
+Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
+Dil Dergisi (TR Dizin) (1)<br>
 --------------------------------------------------------------------------------------------------------------------------
+<br>
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
 <br>
@@ -21,6 +22,7 @@ Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily Ne
 <b>Interviews & News</b><br>
 <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
 Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)<br>
+<br>
 <b>Admin Work</b><br>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
 <li>Senior student representative for postgraduate students (University of Birmingham, 2016 - 2017)</li>
