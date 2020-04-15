@@ -10,8 +10,8 @@ Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
 <b>Peer-Review Experience</b><br>
 Cognition (SSCI Q1) (1)<br>
 Psychological Research (SSCI Q1) (1)<br>
-Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
 Dil Dergisi (TR Dizin) (1)<br>
+Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
 --------------------------------------------------------------------------------------------------------------------------
 <br>
 <b>Translations</b><br>
