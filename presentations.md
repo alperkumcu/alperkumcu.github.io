@@ -28,7 +28,8 @@ National English Proficiency Exams in Turkey. 5th International Conference on Te
 <p>Al-Qahtani, N., Kumcu, A. & Wheeldon, L. (April, 2014). Morphological, semantic and translation priming in word reading: Evidence from Arabic-English bilinguals. <i>Research Event of the School of Psychology</i>, University of Birmingham, UK. [poster]</p>
 
 <h3>2013</h3>
-<p>Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). Internet Behaviours of Translators and Interpreters in Turkey. 3rd International Translation Colloquium. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)</p>
+<p>Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). <a href="https://soundcloud.com/alperkumcu/ytucalisma" target="_blank">Internet Behaviours of Translators and Interpreters in Turkey. 3rd International Translation Colloquium</a>. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)
+</p>
 <p>Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Hastürkoğlu, G., Yağlı, E., Cangır, H., Ahmadlouei, H., Talaie, N., Korkmaz, N., & Ağırel, S. (2013). Uygulamaya yönelik doğal dil işlemleme odaklı Türk Politika Derlemi Projesi: 1983-2013. 27. Ulusal Dilbilim Kurultayı. 2-4 May, 2013. Antalya, Turkey. (in Turkish) [presentation]</p>
 
 <h3>2012</h3>
