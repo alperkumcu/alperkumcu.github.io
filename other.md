@@ -7,7 +7,7 @@ permalink: /other work/
 <b>Associate Editorship</b><br>
 Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
 <br>
-<b>Peer-Review Experience</b><br>
+<a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
 Cognition (SSCI Q1) (1)<br>
 Psychological Research (SSCI Q1) (1)<br>
 Dil Dergisi (TR Dizin) (1)<br>
