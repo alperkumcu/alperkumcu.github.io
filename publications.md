@@ -7,7 +7,7 @@ permalink: /publications/
 <b>SSCI Q1</b>
 <p>Kumcu, A. (2020). <a href="" target="_blank">Working Title</a>. <i>Lingua</i>. (in progress) [psy][en]</p>
 
-<p>Kumcu, A. & Thompson, R. L. (2020). <a href="" target="_blank">Remembering spatial words: Congruency between physical and semantic space modulates verbal recognition memory</a>. <i>Journal of Experimental Psychology: Learning, Memory and Cognition</i>. (submitted) [psy][en]</p>
+<p>Kumcu, A. & Thompson, R. L. (2020). <a href="" target="_blank">Remembering spatial words: Congruency between physical and semantic space modulates verbal recognition memory</a>. <i></i>. (submitted) [psy][en]</p>
 
 <p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <a href="  https://link.springer.com/journal/426" target="_blank"><i>Psychological Research</i></a>, 84, 667–684. 10.1007/s00426-018-1084-6. [psy][en]</p>
 
