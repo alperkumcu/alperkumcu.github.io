@@ -18,7 +18,7 @@ National English Proficiency Exams in Turkey. 5th International Conference on Te
 <p>Kumcu, A. & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. <i>Research Poster Conference</i>. 12 June, 2017. University of Birmingham, UK. [poster]</p>
 
 <h3>2016</h3>
-<p>Kumcu, A., & Thompson, R. L. (2016). Spatial interference and individual differences in looking at nothing for verbal memory. In J. C. Papafragou, A., Grodner, D., Mirman, & D. Trueswell (Ed.), Proceedings of the 38th annual conference of the cognitive science society (pp. 2387–2392). Austin, Cognitive Science Society.[presentation]</p>
+<p>Kumcu, A., & Thompson, R. L. (2016). Spatial interference and individual differences in looking at nothing for verbal memory. In J. C. Papafragou, A., Grodner, D., Mirman, & D. Trueswell (Ed.), Proceedings of the 38th annual conference of the cognitive science society (pp. 2387–2392). Austin, Cognitive Science Society. [presentation]</p>
 
 <p>Kumcu, A. & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. Research Event of the School of Psychology, University of Birmingham. Birmingham, UK. [presentation]</p>
 
