@@ -15,7 +15,7 @@ permalink: /publications/
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="https://www.degruyter.com/view/j/alr.ahead-of-print/applirev-2019-0064/applirev-2019-0064.xml" target="_blank">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistics Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
 
 <b>TR Index</b>
-<p>Kumcu, A. (2020). <a href="" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>. [psy][is][tr] (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on the Simultaneous Interpreting Process)</p>
+<p>Kumcu, A. (2020). <a href="" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>. https://doi.org/10.32600/huefd.621553 [psy][is][tr] (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on the Simultaneous Interpreting Process)</p>
 
 <p>Kumcu, A. (2008). <a href="alperkumcu.github.io/pdfs/Alice in Translationland.pdf" target="_blank">Alice Çeviri Diyarında: Kültürel Motifler Açısından Karşılaştırmalı Bir Çeviri Eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, 18, 123-144. [ts][tr] (English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p>
 
