@@ -15,6 +15,9 @@ Dil Dergisi (TR Dizin) (1)<br>
 Dilbilim Öğrenci Konferansı (2)<br>
 --------------------------------------------------------------------------------------------------------------------------
 <br>
+<b>Achievements & Awards</b><br>
+Hacettepe University Science Incentive Award 2020<br>
+
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
 <br>
