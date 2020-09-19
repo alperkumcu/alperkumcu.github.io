@@ -43,4 +43,4 @@ Turkish translators seek to be protected by law. Hurriyet Daily News. 29 Septemb
 <li>Terminology Summer School 2009, Cologne, Germany</li>
 <br>
 <b>Miscellaneous</b><br>
-I have two photoblogs titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" and "<a href="http://citiesandwhat.tumblr.com" target="_blank">Cities and People</a>". The Urban Metaphor features pictures of street art and Cities and People is on the relationship between cities and individuals living in them. I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work.
+I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work. I also have a photoblog titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor that features pictures of street art in various forms.
