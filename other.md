@@ -13,10 +13,10 @@ Psychological Research (SSCI Q1) (1)<br>
 Dil Dergisi (TR Dizin) (1)<br>
 Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
 Dilbilim Öğrenci Konferansı (2)<br>
---------------------------------------------------------------------------------------------------------------------------
+
 <br>
 <b>Achievements & Awards</b><br>
-Hacettepe University Science Incentive Award 2020<br>
+Hacettepe University Science Incentive Award 2020<br><br>
 
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
@@ -46,4 +46,4 @@ Turkish translators seek to be protected by law. Hurriyet Daily News. 29 Septemb
 <li>Terminology Summer School 2009, Cologne, Germany</li>
 <br>
 <b>Miscellaneous</b><br>
-I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work. I also have a photoblog titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor that features pictures of street art in various forms.
+I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work. I also have a photoblog titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a> that features pictures of street art in various forms.
