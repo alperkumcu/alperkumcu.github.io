@@ -14,35 +14,29 @@ Psychological Research (SSCI Q1) (1)<br>
 Dil Dergisi (TR Dizin) (1)<br>
 Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
 Dilbilim Öğrenci Konferansı (2)<br>
-<br>
 
 <b>Achievements & Awards</b><br>
 Hacettepe University Science Incentive Award 2020<br>
-<br>
 
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
-<br>
 
 <b>Non-Academic Articles</b><br>
 Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.<br>
-<br>
 
 <b>Interviews & News</b><br>
 <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
 Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)<br>
-<br>
 
-<b>Projects</b><br>
-<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
-<br>
+<b>Projects</b>
+<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li><br>
 
-<b>Summer Schools</b><br>
+<b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li>
 <br>
 
-<b>Admin Work</b><br>
+<b>Admin Work</b>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
 <li>Senior student representative for postgraduate students (University of Birmingham, 2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (University of Birmingham, 2015 - 2017)</li>
