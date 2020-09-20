@@ -17,15 +17,15 @@ Dilbilim Öğrenci Konferansı (2)<br>
 <b>Achievements & Awards</b><br>
 Hacettepe University Science Incentive Award 2020<br>
 
-<b>Projects</b>
-<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li><br>
+<b>Projects</b><br>
+Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)<br>
 
 <b>Translations</b><br>
 Brockman, J. (Ed.). (2003). Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar (The New Humanists: Science at the Edge). (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Ankara: Tübitak Popüler Bilim Yayınları.<br>
 
 <b>Interviews, News & Non-Academic Articles</b><br>
 <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
-Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)
+Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)<br>
 Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.<br>
 
 <b>Summer Schools</b>
