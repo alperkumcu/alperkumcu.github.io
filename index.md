@@ -7,7 +7,7 @@ layout: page
 <br/>
 <p>I’ve also been working as the associate editor of <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences.
 <br/>
-<p>I think by now, you've clearly got the idea that I love science as it is.
+<p>I think by now, you've clearly got the idea that I love science and I believe in progress.
   
 <hr>
 <p><h2>Education</h2>
