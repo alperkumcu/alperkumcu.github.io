@@ -34,6 +34,9 @@ permalink: /publications/
 
 <p>Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8. [soc][ts][en]</p>
 
+<h3>Translation</h3>
+<p>Brockman, J. (Ed.). (2003). <i>Yeni Hümanistler: İnsandan Evrene Son Bilimsel Tartışmalar</i>. (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Tübitak Popüler Bilim Yayınları.
+(English Title: The New Humanists: Science at the Edge)</p>
 --------------------------------------------------------------------------------------------------------------------------
 <p></p>
 <p>field: [psy]: psycholinguistics [is]: interpreting studies [soc]: sociolinguistics [ts]: translation studies<br>
