@@ -39,7 +39,7 @@ National English Proficiency Exams in Turkey. 5th International Conference on Te
 <h3>2012</h3>
 <p>Kumcu, A. (2012). Glocalization with Translation Technology: Computer-Assisted Translation (CAT) Tools Today and Tomorrow. The Asian Conference on Language Learning (ACLL). 26-28 April, 2012. Osaka, Japan. [presentation]</p>
 
-<h3>2012</h3>
+<h3>2011</h3>
 <p>Kumcu, A. (2011). Visual Focal Loci in Simultaneous Interpreting. International Translation Studies and Terminology Conference. 20-21 October, 2011. Kırıkkale University, Kırıkkale, Turkey. [presentation]</p>
 
 <h3>2010</h3>
