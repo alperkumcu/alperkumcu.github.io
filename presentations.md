@@ -4,7 +4,7 @@ title: talks
 permalink: /talks/
 ---
 <h3>2021</h3>
-<p>Kumcu, A. & Öztürk, A. (2021).  <i>ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)</i>. June 28-30, 2021. Universita di Bologna, Forli, Italy. [panel](accepted) </p>
+<p>Kumcu, A. & Öztürk, A. (2021). Revisiting Interpreting in the Age of 4E Cognition. <i>ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)</i>. June 28-30, 2021. Universita di Bologna, Forli, Italy. [panel](accepted) </p>
 
 <h3>2020</h3>
 <p>Kumcu, A. & Yağlı, E. (2020). Sensory Norms for 925 Words. <i>20th ICTL (International Conference on Turkish Linguistics)</i>. June 23-25, 2020. Anadolu University, Eskişehir, Turkey. [poster](submitted) </p>
