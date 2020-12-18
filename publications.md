@@ -32,7 +32,7 @@ permalink: /publications/
 <p>Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8. [soc][ts][en]</p>
 
 <h3>Editorship</h3>
-<p>Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary Studies on Turkish Linguistics.</i> Peter Lang Publishing. [en]</p>
+<p>Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary Studies on Turkish Linguistics.</i> Peter Lang. [en]</p>
 
 --------------------------------------------------------------------------------------------------------------------------
 <p></p>
