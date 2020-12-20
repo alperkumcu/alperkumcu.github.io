@@ -14,7 +14,7 @@ permalink: /publications/
 <p>Kumcu, A. & Thompson, R. L. (2018). <a href="https://link.springer.com/article/10.1007%2Fs00426-018-1084-6" target="_blank">Less imageable words lead to more looks to blank locations during memory retrieval</a>. <a href="  https://link.springer.com/journal/426" target="_blank"><i>Psychological Research</i></a>, 84, 667–684. 10.1007/s00426-018-1084-6. [psy][en]</p>
 
 <h3>SSCI Q2</h3>
-<p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="https://www.degruyter.com/view/j/alr.ahead-of-print/applirev-2019-0064/applirev-2019-0064.xml" target="_blank">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistics Review</i>, 1-18. 10.1007/s00426-018-1084-6. [ts][en]</p>
+<p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). <a href="https://www.degruyter.com/view/j/alr.ahead-of-print/applirev-2019-0064/applirev-2019-0064.xml" target="_blank">Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey</a>. <i>Applied Linguistics Review</i>, 1-18. https://doi.org/10.1515/applirev-2019-0064. [ts][en]</p>
 
 <h3>TR Index</h3>
 <p>Kumcu, A. (2020). <a href="https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553" target="_blank">Konferans Salonunda Dağıtık Biliş: Andaş Çeviri Sürecine Yeni Bir Bakış</a>. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>, <i>37</i>(1), 170-185. https://doi.org/10.32600/huefd.621553 [psy][is][tr] (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on the Simultaneous Interpreting Process)</p>
