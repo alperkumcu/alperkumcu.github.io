@@ -7,14 +7,11 @@ permalink: /publications/
 <h2>Papers</h2>
 
 <h3>SSCI Q1</h3>
-<p>Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory</a>. <i>Quarterly Journal of Experimental Psychology</i>. (submitted) [psy][en]</p>
+<p>Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. <i>Quarterly Journal of Experimental Psychology</i>. (submitted) [psy][en]</p>
 
-<p>Kumcu, A. (2021). Linguistic Synesthesia in Turkish: A Corpus-Based Study of Cross-Modal Directionality</a>. <i>Metaphor and Symbol</i>. (submitted) [en]</p>
+<p>Kumcu, A. (2021). Linguistic Synesthesia in Turkish: A Corpus-Based Study of Cross-Modal Directionality. <i>Metaphor and Symbol</i>. (submitted) [en]</p>
 
 <p>Kumcu, A. & Thompson, R. L. (2018). Less imageable words lead to more looks to blank locations during memory retrieval. <i>Psychological Research</i>, <i>84</i>, 667–684. <a href="https://doi.org/10.1007/s00426-018-1084-6" target="_blank">https://doi.org/10.1007/s00426-018-1084-6</a>
-  
-  
-  10.1007/s00426-018-1084-6. [psy][en]</p>
 
 <h3>SSCI Q2</h3>
 <p>Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the Use of Multiple-Choice Translation Items in English Proficiency Tests: The Case of the National English Proficiency Test in Turkey. <i>Applied Linguistics Review</i>, 1-18. <a href="https://doi.org/10.1515/applirev-2019-0064" target="_blank">https://doi.org/10.1515/applirev-2019-0064</a> [ts][en]</p>
