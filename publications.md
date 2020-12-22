@@ -20,7 +20,7 @@ permalink: /publications/
 <p>Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>, <i>37</i>(1), 170-185.  <a href="https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553" target="_blank">https://doi.org/10.32600/huefd.621553</a></br>
 (English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on the Simultaneous Interpreting Process)</p>
 
-<p>Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144</br>(English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p>
+<p>Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi</a>. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.</br>(English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p>
 
 <h3>Other indices</h3>
 <p>Sağın-Şimşek, Ç., Antonova-Ünlü, E. & Kumcu, A. (2020). The Attitude and Expectations of Turkish Society Concerning Immigrants Residing in Turkey and Their Social and Linguistic Acculturation Patterns. <i>Journal of Second and Multiple Language Acquisition</i>, <i>8</i>(3), 57-78.</p>
