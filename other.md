@@ -8,6 +8,7 @@ permalink: /other work/
 Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
 
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
+Memory (SSCI Q1) (1)<br> 
 Cognition (SSCI Q1) (1)<br>
 Psychological Research (SSCI Q1) (1)<br>
 Dil Dergisi (TR Dizin) (2)<br>
