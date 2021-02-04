@@ -7,7 +7,7 @@ permalink: /publications/
 <h2>Papers</h2>
 
 <h3>SSCI</h3>
-<p>Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. <i>Quarterly Journal of Experimental Psychology</i>. (in progress)</p>
+<p>Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. <i>Quarterly Journal of Experimental Psychology</i>. (submitted)</p>
 
 <p>Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. <i>Metaphor and Symbol</i>. (submitted)</p>
 
@@ -17,9 +17,9 @@ permalink: /publications/
 
 <h3>TR Index</h3>
 <p>Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>, <i>37</i>(1), 170-185.  <a href="https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553" target="_blank">https://doi.org/10.32600/huefd.621553</a><br>
-(English Title: Distributed Cognition in the Conference Venue: A Fresh Perspective on the Simultaneous Interpreting Process)</p>
+(English Title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process)</p>
 
-<p>Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.<br>(English Title: Alice in Translationland: A Comparative Translation Analysis with regard to Cultural Motifs)</p>
+<p>Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.<br>(English Title: Alice in translationland: A comparative translation analysis with regard to cultural motifs)</p>
 
 <h3>Other indices</h3>
 <p>Sağın-Şimşek, Ç., Antonova-Ünlü, E. & Kumcu, A. (2020). The Attitude and Expectations of Turkish Society Concerning Immigrants Residing in Turkey and Their Social and Linguistic Acculturation Patterns. <i>Journal of Second and Multiple Language Acquisition</i>, <i>8</i>(3), 57-78.</p>
