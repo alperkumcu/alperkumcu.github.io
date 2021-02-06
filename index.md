@@ -3,11 +3,10 @@ layout: page
 ---
 <p><h2>Hello!</h2>
 
-<p>I’m a researcher at Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open and reproducible science.</a> 
+<p>I am a researcher at Hacettepe University. My research investigates use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open and reproducible science.</a> 
 <br/>
-<p>I’ve also been working as the associate editor of <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences.
+<p>I am currently an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences.
 <br/>
-<p>I think by now, you've clearly got the idea that I love science and I believe in progress.
   
 <hr>
 <p><h2>Education</h2>
