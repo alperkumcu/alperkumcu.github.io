@@ -22,12 +22,12 @@ permalink: /publications/
 <p>2. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.<br>(English Title: Alice in translationland: A comparative translation analysis with regard to cultural motifs)</p>
 
 <h3>Other indices</h3>
-<p>1. Sağın-Şimşek, Ç., Antonova-Ünlü, E. & Kumcu, A. (2020). The Attitude and Expectations of Turkish Society Concerning Immigrants Residing in Turkey and Their Social and Linguistic Acculturation Patterns. <i>Journal of Second and Multiple Language Acquisition</i>, <i>8</i>(3), 57-78.</p>
+<p>1. Sağın-Şimşek, Ç., Antonova-Ünlü, E. & Kumcu, A. (2020). The attitude and expectations of Turkish society concerning immigrants residing in Turkey and their social and linguistic acculturation patterns. <i>Journal of Second and Multiple Language Acquisition</i>, <i>8</i>(3), 57-78.</p>
 
 <h2>Books</h2>
 
 <h3>Editorship</h3>
-<p>1. Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary Studies on Turkish Linguistics.</i> Peter Lang.</p>
+<p>1. Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary studies on Turkish linguistics.</i> Peter Lang.</p>
 
 <h3>Book chapters</h3>
 <p>1. Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.</p>
