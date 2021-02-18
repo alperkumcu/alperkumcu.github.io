@@ -12,15 +12,15 @@ layout: page
 <p><h2>Education</h2>
 <p><li>PhD in Psychology, 2018</li>
 University of Birmingham<br>
-<font size="2.5">Thesis title: Looking for language in space: spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)<br>
+<font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)<br>
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font><br>
 <p><li>MSc in Psychology, 2014 (distinction)</li>
 University of Birmingham<br>
-<font size="2.5">Thesis title: Effect of Speech Rate and Overlapping on Multimodal Language Processing: Evidence from Eye Movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font><br>
+<font size="2.5">Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font><br>
 <p><li>MA in Translation & Interpreting, 2011</li>
 Hacettepe University<br>
-<font size="2.5">Thesis title: Visual Focal Loci in Simultaneous Interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font><br>
+<font size="2.5">Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font><br>
 <p><li>BA in Translation & Interpreting, 2008</li>
 Hacettepe University</p>
 <hr>
