@@ -1,5 +1,10 @@
+---
+layout: page
+title: workshops
+permalink: /workshops/
+---
 
-<h2>Workshops and Seminars</h2>
+<h2>Workshops</h2>
 
 
 <li>Translation Strategies and Problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.</li>
