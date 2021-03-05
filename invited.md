@@ -4,7 +4,6 @@ title: invited talks
 permalink: /invited/
 ---
 
-<h2>Invited Talks</h2>
 <p>Please get into touch via email if you would like me talk at your event.</p>
 
 <li>925 Sözcük için Türkçe Duyu Normları ve Türkçede Dilbilimsel Sinestezi. 25 December, 2021. Aston University.</li>
