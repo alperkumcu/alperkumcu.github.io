@@ -33,9 +33,9 @@ minima:
 header_pages:
   - bio.md
   - publications.md
-  - presentations.md
+  - talks.md
   - teaching.md
-  - other.md
+  - misc.md
   
 # Google Analytics
 google_analytics: UA-48656742-3
