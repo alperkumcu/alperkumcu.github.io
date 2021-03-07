@@ -4,7 +4,7 @@ title: invited talks
 permalink: /invited/
 ---
 
-<p>Please get into touch via email if you would like me to talk at your event.</p>
+<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p>
 
 <li>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey.</li><br>
 <li>The interplay of space, perception and language: Evidence from eye movements and verbal recognition memory. 9 March 2021. Aston University, Birmingham, UK.</li><br>
