@@ -12,6 +12,8 @@ permalink: /invited/
 
 <img src="Aston Talk.png" alt="Aston University" width="200" height="100"><br> 
 
-<li>925 sözcük için Türkçe duyu normları ve Türkçede dilbilimsel sinestezi. 25 December 2021. Hacettepe Üniversitesi Dilbilim Topluluğu, Ankara, Turkey.</li><br>
+<li><a href="https://youtu.be/tmsFJWQqPX8">925 sözcük için Türkçe duyu normları ve Türkçede dilbilimsel sinestezi</a>. 25 December 2021. Hacettepe Üniversitesi Dilbilim Topluluğu, Ankara, Turkey.</li><br>
+
 <li>Psikodilbilimin yeni çağı: Dışarı sızan zihinler ve simüle edilen sözcükler. 5 April 2019. Hacettepe Üniversitesi Dilbilim Topluluğu, Ankara, Turkey.</li><br>
+
 <li>Interpreting: An outlook for students. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.</li><br>
