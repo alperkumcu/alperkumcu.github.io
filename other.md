@@ -1,7 +1,7 @@
 ---
 layout: page
 title: other work
-permalink: /other work/
+permalink: /other/
 ---
 
 <b>Associate Editorship</b><br>
