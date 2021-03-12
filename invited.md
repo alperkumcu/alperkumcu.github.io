@@ -1,6 +1,6 @@
 ---
 layout: page
-title: invited talks
+title: invited
 permalink: /invited/
 ---
 
