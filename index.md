@@ -30,7 +30,7 @@ Hacettepe University</p>
 <li>Spatial Perception</li>
 <li>Cognitive Translation & Interpreting Studies</li></p>
 <hr>
-<p><h2>Researcher IDs</h2>
+<p><h2>IDs</h2>
 <li>ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a></li>
 <li>Google Scholar: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a></li>
 <li>WOS Researcher ID: <a href="https://publons.com/researcher/1692089/alper-kumcu/" target="_blank">E-5568-2012</a></li>
