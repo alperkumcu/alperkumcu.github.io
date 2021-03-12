@@ -1,6 +1,6 @@
 ---
 layout: page
-title: other work
+title: other
 permalink: /other/
 ---
 
