@@ -4,9 +4,6 @@ title: other
 permalink: /other/
 ---
 
-<b>Associate Editorship</b><br>
-Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin)<br>
-
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
 Memory (SSCI Q1) (1)<br> 
 Cognition (SSCI Q1) (1)<br>
@@ -14,6 +11,9 @@ Psychological Research (SSCI Q1) (1)<br>
 Dil Dergisi (TR Dizin) (2)<br>
 Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
 Dilbilim Öğrenci Konferansı (2)<br>
+
+<b>Associate Editorship</b><br>
+Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021) <br>
 
 <b>Achievements & Awards</b><br>
 Hacettepe University Science Incentive Award 2020<br>
