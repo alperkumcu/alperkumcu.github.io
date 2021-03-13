@@ -4,7 +4,7 @@ title: invited
 permalink: /invited/
 ---
 
-<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p>
+<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p><br>
 
 <li>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English Title: Language and memory with a grounded-embodied point of view)</li><br>
 
