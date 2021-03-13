@@ -4,8 +4,6 @@ title: invited
 permalink: /invited/
 ---
 
-<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p><br>
-
 <h3>2021</h3>
 
 <li>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English Title: Language and memory with a grounded-embodied point of view)</li><br>
@@ -23,3 +21,5 @@ permalink: /invited/
 <h3>2011</h3>
 
 <li>Interpreting: An outlook for students. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.</li><br>
+
+<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p>
