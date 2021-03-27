@@ -6,7 +6,7 @@ permalink: /invited/
 
 <h3>2021</h3>
 
-<p><i>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek</i>. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English Title: Language and memory with a grounded-embodied point of view)</p>
+<p><a href="https://youtu.be/akA4Bxs--UQ"><i>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek</i></a>. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English Title: Language and memory with a grounded-embodied point of view)</p>
 
 <p><i>The interplay of space, perception and language: Evidence from eye movements and verbal recognition memory</i>. 9 March 2021. School of Psychology, Aston University, Birmingham, UK.</p>
 
