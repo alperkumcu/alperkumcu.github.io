@@ -16,8 +16,7 @@ permalink: /publications/
 <p>4. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. <i>Applied Linguistics Review</i>, 1-18. <a href="https://doi.org/10.1515/applirev-2019-0064" target="_blank">https://doi.org/10.1515/applirev-2019-0064</a></p>
 
 <h3>TR Index</h3>
-<p>1. Kumcu, A. (2021). Gömülü-bedenlenmiş anlambilim. <i></i>, <i></i>(1),.  <a href="" target="_blank"></a><br>
-(English Title: Grounded-embodied semantics) (in progress)</p>
+<p>1. Kumcu, A. (2021). Gömülü-bedenlenmiş anlambilim. (English Title: Grounded-embodied semantics) (in progress)</p>
 
 <p>2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>, <i>37</i>(1), 170-185.  <a href="https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553" target="_blank">https://doi.org/10.32600/huefd.621553</a><br>
 (English Title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process)</p>
