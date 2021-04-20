@@ -6,7 +6,7 @@ permalink: /invited/
 
 <h3>2021</h3>
 
-<p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i></a>. 19 April 2021. Haliç Üniversitesi, Ankara, Turkey. (English title: Problems in the act of interpreting anbd cognitive solutions)</p>
+<p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i>. 19 April 2021. Haliç Üniversitesi, İstanbul, Turkey. (English title: Problems in the act of interpreting anbd cognitive solutions)</p>
 
 <p><a href="https://youtu.be/akA4Bxs--UQ" target="_blank"><i>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek</i></a>. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English title: Language and memory from a grounded-embodied point of view)</p>
 
