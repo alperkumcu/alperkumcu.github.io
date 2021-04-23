@@ -9,12 +9,12 @@ permalink: /cv/
 <b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li>
-</br>
+<br>
 
 <h2>Experience</h2>
-<b>12 December 2008 - Present</b></br>
-Research assistant</br>
-Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey</br>
+<b>12 December 2008 - Present</b><br>
+Research assistant<br>
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<br>
 
 <b>Admin Work</b>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
@@ -39,7 +39,7 @@ Hacettepe University Science Incentive Award 2020<br>
 <li>Psychological Research (SSCI Q1) (1)</li>
 <li>Dil Dergisi (TR Dizin) (2)</li>
 <li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
-<li>Dilbilim Öğrenci Konferansı (2)</li>
+<li>Dilbilim Öğrenci Konferansı (2)</li><br>
 
 <b>Projects</b><br>
 Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)<br>
