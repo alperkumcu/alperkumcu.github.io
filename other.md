@@ -11,9 +11,9 @@ permalink: /cv/
 <li>Terminology Summer School 2009, Cologne, Germany</li>
 
 <h2>Experience</h2>
-<h3>12 December 2008 - Present</h3>
-Research assistant<br>
-Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<br>
+<h3>Research assistant</h3>
+12 December 2008 - Present
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 <h4>Admin Work</h4>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
@@ -23,13 +23,12 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <li>English Division Academic Advisor (Hacettepe University, 2009 - 2013, 2019 - )</li>
 <li>English Division Double Major & Double Language Programme Coordinator (Hacettepe University, 2009 - 2013)</li>
 <li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li>
-<br>
 
 <h4>Associate Editorship</h4>
 Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021) <br>
 
 <h4>Achievements & Awards</h4>
-Hacettepe University Science Incentive Award 2020<br>
+Hacettepe University Science Incentive Award 2020
  
 <h2>Work</h2>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
@@ -38,7 +37,7 @@ Hacettepe University Science Incentive Award 2020<br>
 <li>Psychological Research (SSCI Q1) (1)</li>
 <li>Dil Dergisi (TR Dizin) (2)</li>
 <li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
-<li>Dilbilim Öğrenci Konferansı (2)</li><br>
+<li>Dilbilim Öğrenci Konferansı (2)</li>
 
 <h3>Projects</h3>
 Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)<br>
@@ -47,7 +46,6 @@ Optimale Project: Optimising professional translator training in a multilingual 
 <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
 Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)<br>
 Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.
-<br>
 
 <h3>Audio-visual</h3>
 <li><a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a></li>
