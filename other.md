@@ -1,7 +1,7 @@
 ---
 layout: page
-title: other
-permalink: /other/
+title: cv
+permalink: /cv/
 ---
 
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
