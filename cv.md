@@ -7,15 +7,15 @@ permalink: /cv/
 <h2>Education</h2>
 
 <h3>PhD</h3>
-30 September 2014 - 12 July 2019</p> 
-<p>School of Psychology, University of Birmingham<br>
+<p>30 September 2014 - 12 July 2019</p> 
+School of Psychology, University of Birmingham</p>
 
 <p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)</li></p>
 
 <h3>MSc</h3>
-30 September 2013 - 30 September 2014</p> 
-<p>School of Psychology, University of Birmingham<br>
+<p>30 September 2013 - 30 September 2014
+School of Psychology, University of Birmingham</p> 
 
 <b>Summer Schools</b>
 <p><li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
