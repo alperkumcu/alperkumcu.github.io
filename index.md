@@ -9,7 +9,7 @@ I’m the proud holder of the Hacettepe University Science Incentive Award 2020 
 
 # Education
 * PhD in Psychology, 2018
-University of Birmingham
++ University of Birmingham
 <font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)
 Supervisor: Dr Robin L Thompson
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font>
