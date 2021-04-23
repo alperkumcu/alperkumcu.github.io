@@ -7,7 +7,7 @@ permalink: /cv/
 <h2>Education</h2>
 
 <b>PhD</b>
-<p>School of Psychology, University of Birmingham (30 September 2014 - 12 July 2019)</br>
+<p>School of Psychology, University of Birmingham (30 September 2014 - 12 July 2019)
 <p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)</li></p>
 
