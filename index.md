@@ -2,14 +2,11 @@
 layout: page
 ---
 # Hello!
-I am a researcher at Hacettepe University. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ggplots and write in LaTeX where available.
-<br/>
-<p>I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. 
-
+I am a researcher at Hacettepe University. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ggplots and write in LaTeX where available. I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>.
 
 # Education
-<p><li>PhD in Psychology, 2018</li>
-University of Birmingham<br>
+* PhD in Psychology, 2018
+University of Birmingham
 <font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)<br>
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font><br>
