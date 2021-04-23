@@ -36,7 +36,8 @@ header_pages:
   - talks.md
   - invited.md
   - teaching.md
-  - other.md
+  - thesis.md
+  - cv.md
   
 # Google Analytics
 google_analytics: UA-48656742-3
