@@ -9,7 +9,6 @@ permalink: /cv/
 <b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li>
-<br>
 
 <h2>Experience</h2>
 <b>12 December 2008 - Present</b>
@@ -34,12 +33,12 @@ Hacettepe University Science Incentive Award 2020<br>
  
 <h2>Work</h2>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
-Memory (SSCI Q1) (1)<br> 
-Cognition (SSCI Q1) (1)<br>
-Psychological Research (SSCI Q1) (1)<br>
-Dil Dergisi (TR Dizin) (2)<br>
-Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)<br>
-Dilbilim Öğrenci Konferansı (2)<br>
+<li>Memory (SSCI Q1) (1)</li>
+<li>Cognition (SSCI Q1) (1)</li>
+<li>Psychological Research (SSCI Q1) (1)</li>
+<li>Dil Dergisi (TR Dizin) (2)</li>
+<li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
+<li>Dilbilim Öğrenci Konferansı (2)</li>
 
 <b>Projects</b><br>
 Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)<br>
@@ -55,5 +54,5 @@ I have just started a video series called "<a href="https://www.youtube.com/chan
   
 <h2>Skills</h2>
 <b>Programming skills</b><br>
-R - advanced - years of experience: +5
-Python - beginner - years of experience: 1
+<li>R - advanced - years of experience: +5 </li> 
+<li>Python - beginner - years of experience: 1 </li> 
