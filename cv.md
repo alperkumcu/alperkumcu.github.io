@@ -60,8 +60,8 @@ I interview my academic friends about their work.
 A photoblog with my pictures of street art in various forms from different parts of the world.</p>
   
 <h2>Skills</h2>
-<p><b>Programming skills</b>
-<li>R - advanced - years of experience: +5 </li> 
+<b>Programming skills</b>
+<p><li>R - advanced - years of experience: +5 </li> 
 <li>Python - beginner - years of experience: 1 </li></p>
 
 <b>Tools and methods</b>
