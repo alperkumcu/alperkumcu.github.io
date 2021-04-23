@@ -8,7 +8,7 @@ permalink: /cv/
 
 <b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
-<li>Terminology Summer School 2009, Cologne, Germany</li><br>
+<li>Terminology Summer School 2009, Cologne, Germany</li>
 
 <h2>Experience</h2>
 <b>12 December 2008 - Present</b><br>
