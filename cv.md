@@ -41,25 +41,25 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
 <li>Dilbilim Öğrenci Konferansı (2)</li>
 
-<h3>Projects</h3>
-<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
+<b>Projects</b>
+<li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li><br>
 
-<h3>Interviews, News & Non-Academic Articles</h3>
+<b>Interviews, News & Non-Academic Articles</b>
 <li><a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)</li>
 <li>Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)</li>
-<li>Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.</li>
+<li>Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.</li><br>
 
-<h3>Audio-visual</h3>
+<b>Audio-visual</b>
 <li><a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a></li>
 I interview my academic friends about their work.
 <li><a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a></li>
-A photoblog with my pictures of street art in various forms from different parts of the world.
+A photoblog with my pictures of street art in various forms from different parts of the world.<br>
   
 <h2>Skills</h2>
-<h3>Programming skills</h3>
+<b>Programming skills</b>
 <li>R - advanced - years of experience: +5 </li> 
-<li>Python - beginner - years of experience: 1 </li>
+<li>Python - beginner - years of experience: 1 </li><br>
 
-<h3>Tools and methods</h3>
+<b>Tools and methods</b>
 <li>Eye tracking</li> 
 I have over 100+ participants testing experience with SR Research EyeLink 1000 and Tobii.
