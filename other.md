@@ -56,3 +56,7 @@ I have just started a video series called "<a href="https://www.youtube.com/chan
 <b>Programming skills</b><br>
 <li>R - advanced - years of experience: +5 </li> 
 <li>Python - beginner - years of experience: 1 </li> 
+
+<b>Tools and methods</b><br>
+<li>Eye tracking</li> 
+I have over 100+ participants testing experience. 
