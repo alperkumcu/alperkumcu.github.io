@@ -36,7 +36,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 <hr>
 
-<h2>Work</h2>
+<h3>Work</h3>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer review</b></a><br>
 <p><li>Memory (SSCI Q1) (1)</li>
 <li>Cognition (SSCI Q1) (1)</li>
@@ -64,7 +64,7 @@ A photoblog with my pictures of street art in various forms from different parts
 
 <hr>
   
-<h2>Skills</h2>
+<h3>Skills</h3>
 <b>Programming skills</b>
 <p><li>R - advanced - years of experience: +5 </li> 
 <li>Python - beginner - years of experience: 1 </li></p>
@@ -75,5 +75,5 @@ I have over 100+ participants testing experience with SR Research EyeLink 1000 a
 
 <hr>
 
-<h2>Achievements & Awards</h2>
+<h3>Achievements & Awards</h3>
 <p><li>Hacettepe University Science Incentive Award 2020</li></p>
