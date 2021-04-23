@@ -65,7 +65,7 @@ A photoblog with my pictures of street art in various forms from different parts
 <hr>
   
 <h3>Skills</h3>
-<b>Programming skills</b>
+<b>Programming languages</b>
 <p><li>R - advanced - years of experience: +5 </li> 
 <li>Python - beginner - years of experience: 1 </li></p>
 
