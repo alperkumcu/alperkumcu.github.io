@@ -16,6 +16,8 @@ permalink: /cv/
 <p><li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li></p>
 
+<hr>
+
 <h2>Experience</h2>
 <h3>Research assistant</h3>
 <p>12 December 2008 - Present<br>
@@ -33,6 +35,8 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 <b>Achievements & Awards</b>
 <p><li>Hacettepe University Science Incentive Award 2020</li></p>
+
+<hr>
  
 <h2>Work</h2>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
@@ -56,6 +60,8 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 I interview my academic friends about their work.
 <li><a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a></li>
 A photoblog with my pictures of street art in various forms from different parts of the world.</p>
+
+<hr>
   
 <h2>Skills</h2>
 <b>Programming skills</b>
