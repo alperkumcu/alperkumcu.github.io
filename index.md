@@ -2,12 +2,10 @@
 layout: page
 ---
 # Hello!
-<p>I am a researcher at Hacettepe University. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ggplots and write in LaTeX where available.
+I am a researcher at Hacettepe University. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ggplots and write in LaTeX where available.
 <br/>
 <p>I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>. 
-<br/>
-  
-<hr>
+
 
 # Education
 <p><li>PhD in Psychology, 2018</li>
