@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<p><h2>Hello!</h2>
+# Hello!
 
 <p>I am a researcher at Hacettepe University. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ggplots and write in LaTeX where available.
 <br/>
