@@ -4,11 +4,11 @@ title: cv
 permalink: /cv/
 ---
 
-<h2>Education</h2>
+<p><h2>Education</h2>
 
 <b>Summer Schools</b>
-<li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
-<li>Terminology Summer School 2009, Cologne, Germany</li><br>
+<p><li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
+<p><li>Terminology Summer School 2009, Cologne, Germany</li>
 
 <h2>Experience</h2>
 <h3>Research assistant</h3>
