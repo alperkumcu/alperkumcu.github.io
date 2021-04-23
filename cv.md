@@ -6,11 +6,16 @@ permalink: /cv/
 
 <h2>Education</h2>
 
-<p><b>PhD</b>: School of Psychology, University of Birmingham (30 September 2014 - 12 July 2019)
+<h3>PhD</h3>
+30 September 2014 - 12 July 2019</p> 
+<p>School of Psychology, University of Birmingham<br>
+
 <p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)</li></p>
 
-<p><b>MSc</b>: School of Psychology, University of Birmingham (30 September 2013 - 30 September 2014)</p>
+<h3>MSc</h3>
+30 September 2013 - 30 September 2014</p> 
+<p>School of Psychology, University of Birmingham<br>
 
 <b>Summer Schools</b>
 <p><li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
@@ -44,7 +49,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <p><li>Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)</li></p>
 
 <b>Projects</b>
-<p><li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li></p>
+<p><li>Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)</li></p>
 
 <b>Interviews, news & non-academic articles</b>
 <p><li><a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)</li>
@@ -67,6 +72,8 @@ A photoblog with my pictures of street art in various forms from different parts
 <b>Tools and methods</b>
 <p><li>Eye tracking</li> 
 I have over 100+ participants testing experience with SR Research EyeLink 1000 and Tobii.</p>
+
+<hr>
 
 <h2>Achievements & Awards</h2>
 <p><li>Hacettepe University Science Incentive Award 2020</li></p>
