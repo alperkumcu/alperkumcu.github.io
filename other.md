@@ -13,8 +13,8 @@ permalink: /cv/
 
 <h2>Experience</h2>
 <b>12 December 2008 - Present</b></br>
-<p>Research assistant</p>
-<p>Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey</p>
+Research assistant</br>
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey</br>
 
 <b>Admin Work</b>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
