@@ -58,7 +58,7 @@ A photoblog with my pictures of street art in various forms from different parts
 <h2>Skills</h2>
 <b>Programming skills</b>
 <li>R - advanced - years of experience: +5 </li> 
-<li>Python - beginner - years of experience: 1 </li><br>
+<li>Python - beginner - years of experience: 1 </li>
 
 <b>Tools and methods</b>
 <li>Eye tracking</li> 
