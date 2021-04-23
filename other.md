@@ -25,10 +25,10 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li>
 <br>
 
-<b>Associate Editorship</b><br>
+<h4>Associate Editorship</h4>
 Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021) <br>
 
-<b>Achievements & Awards</b><br>
+<h4>Achievements & Awards</h4>
 Hacettepe University Science Incentive Award 2020<br>
  
 <h2>Work</h2>
@@ -40,23 +40,26 @@ Hacettepe University Science Incentive Award 2020<br>
 <li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
 <li>Dilbilim Öğrenci Konferansı (2)</li><br>
 
-<b>Projects</b><br>
+<h3>Projects</h3>
 Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)<br>
 
-<b>Interviews, News & Non-Academic Articles</b><br>
+<h3>Interviews, News & Non-Academic Articles</h3>
 <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)<br>
 Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)<br>
 Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.
 <br>
 
-<b>Miscellaneous</b><br>
-I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work. I also have a photoblog titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" that features pictures of street art in various forms.
+<h3>Audio-visual</h3>
+<li><a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a></li>
+I interview my academic friends about their work. 
+<li><a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</li>
+A photoblog with my pictures of street art in various forms frım different parts of the world.
   
 <h2>Skills</h2>
-<b>Programming skills</b>
+<h3>Programming skills</h3>
 <li>R - advanced - years of experience: +5 </li> 
 <li>Python - beginner - years of experience: 1 </li><br> 
 
-<b>Tools and methods</b>
+<h3>Tools and methods</h3>
 <li>Eye tracking</li> 
 I have over 100+ participants testing experience with SR Research EyeLink 1000 and Tobii.
