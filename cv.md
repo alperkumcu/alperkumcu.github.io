@@ -6,6 +6,12 @@ permalink: /cv/
 
 <h2>Education</h2>
 
+<b>PhD</b>
+<p>University of Birmingham<br>
+School of Psychology</p>
+<p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
+<li>Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)</li></p>
+
 <b>Summer Schools</b>
 <p><li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li></p>
@@ -13,16 +19,14 @@ permalink: /cv/
 <h2>Experience</h2>
 <h3>Research assistant</h3>
 <p>12 December 2008 - Present<br>
-Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey</p>
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<p>
 
 <b>Admin Work</b>
-<p><li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
-<li>Senior student representative for postgraduate students (University of Birmingham, 2016 - 2017)</li>
-<li>Host and organiser of the Language and Cognition (LanCoS) Seminars (University of Birmingham, 2015 - 2017)</li>
-<li>Information and Coordination for Student Socities at the Faculty of Letters (Hacettepe University, 2013)</li>
-<li>English Division Academic Advisor (Hacettepe University, 2009 - 2013, 2019 - )</li>
-<li>English Division Double Major & Double Language Programme Coordinator (Hacettepe University, 2009 - 2013)</li>
-<li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li></p>
+<p><li>Representative for research assistants at the Faculty of Letters (2019 - 2021)</li>
+<li>Distance education coordinator at the Faculty of Letters (2020 - present)</li>
+<li>Academic advisor (2009 - 2013, 2019 - present)</li>
+<li>Field training coordinator (2009 - 2013)</li>
+<li>Double major & double language programme coordinator (2009 - 2013)</li></p>
 
 <b>Associate Editorship</b>
 <p><li>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021)</li></p>
