@@ -7,28 +7,30 @@ permalink: /cv/
 <h2>Education</h2>
 
 <h3>Summer Schools</h3>
+
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
-<li>Terminology Summer School 2009, Cologne, Germany</li>
+<li>Terminology Summer School 2009, Cologne, Germany</li><br>
 
 <h2>Experience</h2>
+
 <h3>Research assistant</h3>
 12 December 2008 - Present
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
-<h4>Admin Work</h4>
+<b>Admin Work</b>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
 <li>Senior student representative for postgraduate students (University of Birmingham, 2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (University of Birmingham, 2015 - 2017)</li>
 <li>Information and Coordination for Student Socities at the Faculty of Letters (Hacettepe University, 2013)</li>
 <li>English Division Academic Advisor (Hacettepe University, 2009 - 2013, 2019 - )</li>
 <li>English Division Double Major & Double Language Programme Coordinator (Hacettepe University, 2009 - 2013)</li>
-<li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li>
+<li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li><br>
 
-<h4>Associate Editorship</h4>
-<li>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021)</li>
+<b>Associate Editorship</b>
+<li>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021)</li><br>
 
-<h4>Achievements & Awards</h4>
-<li>Hacettepe University Science Incentive Award 2020</li>
+<b>Achievements & Awards</b>
+<li>Hacettepe University Science Incentive Award 2020</li><br>
  
 <h2>Work</h2>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
