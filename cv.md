@@ -7,7 +7,7 @@ permalink: /cv/
 <h2>Education</h2>
 
 <h3>PhD</h3>
-<p>30 September 2014 - 12 July 2019</p> 
+<p>30 September 2014 - 12 July 2019
 School of Psychology, University of Birmingham</p>
 
 <p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
