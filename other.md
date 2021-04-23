@@ -49,14 +49,14 @@ Hacettepe University Science Incentive Award 2020
 
 <h3>Audio-visual</h3>
 <li><a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a></li>
-I interview my academic friends about their work. 
-<li><a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</li>
+I interview my academic friends about their work.
+<li><a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a></li>
 A photoblog with my pictures of street art in various forms frım different parts of the world.
   
 <h2>Skills</h2>
 <h3>Programming skills</h3>
 <li>R - advanced - years of experience: +5 </li> 
-<li>Python - beginner - years of experience: 1 </li><br> 
+<li>Python - beginner - years of experience: 1 </li>
 
 <h3>Tools and methods</h3>
 <li>Eye tracking</li> 
