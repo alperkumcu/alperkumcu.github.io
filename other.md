@@ -8,8 +8,7 @@ permalink: /cv/
 
 <b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
-<li>Terminology Summer School 2009, Cologne, Germany</li>
-<br>
+<li>Terminology Summer School 2009, Cologne, Germany</li><br>
 
 <h2>Experience</h2>
 <b>12 December 2008 - Present</b><br>
@@ -60,4 +59,4 @@ I have just started a video series called "<a href="https://www.youtube.com/chan
 
 <b>Tools and methods</b>
 <li>Eye tracking</li> 
-I have over 100+ participants testing experience. 
+I have over 100+ participants testing experience with SR Research EyeLink 1000 and Tobii.
