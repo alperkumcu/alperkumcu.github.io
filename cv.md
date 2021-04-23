@@ -15,7 +15,7 @@ permalink: /cv/
 
 <h3>Research assistant</h3>
 12 December 2008 - Present
-Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<br>
 
 <b>Admin Work</b>
 <li>Representative for research assistants at the Faculty of Letters (Hacettepe University, 2019 - 2021)</li>
