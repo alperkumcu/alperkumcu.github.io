@@ -54,10 +54,10 @@ Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily Ne
 I have just started a video series called "<a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>" in which I interview my academic friends about their work. I also have a photoblog titled as "<a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>" that features pictures of street art in various forms.
   
 <h2>Skills</h2>
-<b>Programming skills</b><br>
+<b>Programming skills</b>
 <li>R - advanced - years of experience: +5 </li> 
-<li>Python - beginner - years of experience: 1 </li> 
+<li>Python - beginner - years of experience: 1 </li><br> 
 
-<b>Tools and methods</b><br>
+<b>Tools and methods</b>
 <li>Eye tracking</li> 
 I have over 100+ participants testing experience. 
