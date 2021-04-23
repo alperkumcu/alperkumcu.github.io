@@ -4,17 +4,17 @@ title: cv
 permalink: /cv/
 ---
 
-<h2>Education</h2>
+<h3>Education</h3>
 
 <b>PhD</b>
-<p>30 September 2014 - 12 July 2019
+<p>30 September 2014 - 12 July 2019<br>
 School of Psychology, University of Birmingham</p>
 
 <p><li>Senior student representative for postgraduate students (2016 - 2017)</li>
 <li>Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)</li></p>
 
 <b>MSc</b>
-<p>30 September 2013 - 30 September 2014
+<p>30 September 2013 - 30 September 2014<br>
 School of Psychology, University of Birmingham</p> 
 
 <b>Summer Schools</b>
@@ -24,7 +24,7 @@ School of Psychology, University of Birmingham</p>
 <hr>
 
 <h2>Experience</h2>
-<h3>Research assistant</h3>
+<b>Research assistant</b>
 <p>12 December 2008 - Present<br>
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<p>
 
