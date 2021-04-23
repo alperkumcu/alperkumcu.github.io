@@ -6,12 +6,11 @@ permalink: /cv/
 
 <h2>Education</h2>
 
-<b>Summer Schools</b3>
+<b>Summer Schools</b>
 <li>CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker</li> 
 <li>Terminology Summer School 2009, Cologne, Germany</li><br>
 
 <h2>Experience</h2>
-
 <h3>Research assistant</h3>
 12 December 2008 - Present<br>
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey<br>
