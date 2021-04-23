@@ -25,10 +25,10 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <li>English Division Field Training Coordinator (Hacettepe University, 2009 - 2013)</li>
 
 <h4>Associate Editorship</h4>
-Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021)
+<li>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi (TR Dizin) (11 February 2020 - 10 February 2021)</li>
 
 <h4>Achievements & Awards</h4>
-Hacettepe University Science Incentive Award 2020
+<li>Hacettepe University Science Incentive Award 2020</li>
  
 <h2>Work</h2>
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer-Review Experience</b></a><br>
@@ -43,9 +43,9 @@ Hacettepe University Science Incentive Award 2020
 <li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li>
 
 <h3>Interviews, News & Non-Academic Articles</h3>
-</li><a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)</li>
-</li>Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)</li>
-</li>Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.</li>
+<li><a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)</li>
+<li>Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)</li>
+<li>Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News.</li>
 
 <h3>Audio-visual</h3>
 <li><a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a></li>
