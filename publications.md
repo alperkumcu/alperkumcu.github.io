@@ -7,7 +7,7 @@ permalink: /publications/
 <h2>Papers</h2>
 
 <h3>SSCI</h3>
-<p>1. Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. <i>Quarterly Journal of Experimental Psychology</i>. (under review)</p>
+<p>1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. <i>Quarterly Journal of Experimental Psychology</i>. (under review)</p>
 
 <p>2. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. <i>Metaphor and Symbol</i>. <a href="https://doi.org/10.1080/10926488.2021.1921557" target="_blank">https://doi.org/10.1080/10926488.2021.1921557</a> (in press)</p>
 
@@ -16,7 +16,7 @@ permalink: /publications/
 <p>4. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. <i>Applied Linguistics Review</i>, 1-18. <a href="https://doi.org/10.1515/applirev-2019-0064" target="_blank">https://doi.org/10.1515/applirev-2019-0064</a></p>
 
 <h3>TR Index</h3>
-<p>1. Kumcu, A. (2021). Grounded-embodied semantics: A proposal on Turkish. (in progress)</p>
+<p>1. Kumcu, A. (2021). Bedenlenmiş anlambilim: Çapraz dilbilimsel ve çapraz kültürel bir inceleme. (in progress)</p>
 
 <p>2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. <i>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</i>, <i>37</i>(1), 170-185.  <a href="https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553" target="_blank">https://doi.org/10.32600/huefd.621553</a><br>
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).</p>
