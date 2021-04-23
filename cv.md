@@ -39,7 +39,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 <li>Psychological Research (SSCI Q1) (1)</li>
 <li>Dil Dergisi (TR Dizin) (2)</li>
 <li>Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)</li>
-<li>Dilbilim Öğrenci Konferansı (2)</li>
+<li>Dilbilim Öğrenci Konferansı (2)</li><br>
 
 <b>Projects</b>
 <li>Optimale Project: Optimising professional translator training in a multilingual Europe (Project assistant for Hacettepe University, 2011 - 2013)</li><br>
