@@ -15,20 +15,20 @@ Supervisor: Dr Robin L Thompson
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font>
 
 * MSc in Psychology, 2014 (distinction)
-University of Birmingham
++ University of Birmingham
 <font size="2.5">Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font>
 
 * MA in Translation & Interpreting, 2011
-Hacettepe University
++ Hacettepe University
 <font size="2.5">Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font>
 
 * BA in Translation & Interpreting, 2008
-Hacettepe University
++ Hacettepe University
 
 # Interests
 * Grounded-embodied Cognition
 * Memory for Language
-* Spatial Perception<
+* Spatial Perception
 * Cognitive Translation & Interpreting Studies
 
 # IDs
