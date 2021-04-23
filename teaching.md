@@ -27,4 +27,3 @@ permalink: /teaching/
 <li>Computer-Aided Translation Tools (Hacettepe University | 2009 - 2012)</li>
 <li>Information Technologies for Translators (Hacettepe University | 2009 - 2012)</li>
 <br>
-
