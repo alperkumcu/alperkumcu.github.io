@@ -8,21 +8,21 @@ I am a researcher at Hacettepe University. My research investigates the use of s
 I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>.
 
 # Education
-## PhD in Psychology, 2018
+#### PhD in Psychology, 2018
 University of Birmingham
 <font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)
 Supervisor: Dr Robin L Thompson
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font>
 
-## MSc in Psychology, 2014 (distinction)
+#### MSc in Psychology, 2014 (distinction)
 University of Birmingham
 <font size="2.5">Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font>
 
-## MA in Translation & Interpreting, 2011
+#### MA in Translation & Interpreting, 2011
 Hacettepe University
 <font size="2.5">Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font>
 
-## BA in Translation & Interpreting, 2008
+#### BA in Translation & Interpreting, 2008
 Hacettepe University
 
 # Interests
