@@ -11,8 +11,8 @@ permalink: /cv/
 <li>Terminology Summer School 2009, Cologne, Germany</li></p>
 
 <h2>Experience</h2>
-<p><h3>Research assistant</h3>
-12 December 2008 - Present</p>
+<h3>Research assistant</h3>
+<p>12 December 2008 - Present
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey</p>
 
 <b>Admin Work</b>
