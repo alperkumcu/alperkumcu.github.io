@@ -67,14 +67,15 @@ A photoblog with my pictures of street art in various forms from different parts
 - Python - beginner - years of experience: 1
 
 **Methods**
-- Eye tracking
+- Eye tracking  
 I have over 100+ participants testing experience with SR Research EyeLink 1000. I also provided hands-on eye tracking training for PG students.
 
 **Experimental software**
 - E-prime
-- SR Research Experiment Builder - SR Research DataViewer
+- SR Research Experiment Builder 
+- SR Research DataViewer
 - OpenSesame
-- Gorilla.sc
+- Gorilla
 
 <hr>
 
