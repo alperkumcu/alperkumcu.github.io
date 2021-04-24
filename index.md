@@ -12,7 +12,7 @@ I’m the proud holder of the Hacettepe University Science Incentive Award 2020 
 University of Birmingham<br>
 Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)<br>
 Supervisor: Dr Robin L Thompson<br>
-Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font>
+Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)
 
 * MSc in Psychology, 2014 (distinction)<br>
 University of Birmingham<br>
@@ -30,6 +30,8 @@ Hacettepe University
 * Memory for Language
 * Spatial Perception
 * Cognitive Translation & Interpreting Studies
+
+<hr>
 
 # IDs
 * ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
