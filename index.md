@@ -9,21 +9,21 @@ I’m the proud holder of the Hacettepe University Science Incentive Award 2020 
 
 # Education
 * PhD in Psychology, 2018<br>
-University of Birmingham
-<font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)
-Supervisor: Dr Robin L Thompson
+University of Birmingham<br>
+<font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)<br>
+Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)</font>
 
-* MSc in Psychology, 2014 (distinction)
-+ University of Birmingham
+* MSc in Psychology, 2014 (distinction)<br>
+University of Birmingham<br>
 <font size="2.5">Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font>
 
-* MA in Translation & Interpreting, 2011
-+ Hacettepe University
+* MA in Translation & Interpreting, 2011<br>
+Hacettepe University<br>
 <font size="2.5">Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font>
 
-* BA in Translation & Interpreting, 2008
-+ Hacettepe University
+* BA in Translation & Interpreting, 2008<br>
+Hacettepe University
 
 # Interests
 * Grounded-embodied Cognition
