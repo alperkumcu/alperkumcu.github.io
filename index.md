@@ -3,7 +3,7 @@ layout: page
 ---
 
 # Hello
-I am a Ankara-based researcher at Hacettepe University, Turkey. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in ```ggplot2``` before any project and write in ```markdown``` where available. 
+I am a Ankara-based researcher at Hacettepe University, Turkey. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in `ggplot2` before any project and write in `markdown` where available. 
 
 I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>.
 
@@ -16,11 +16,11 @@ Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richards
 
 * MSc in Psychology, 2014 (distinction)<br>
 University of Birmingham<br>
-<font size="2.5">Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)</font>
+Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)<br>
 
 * MA in Translation & Interpreting, 2011<br>
 Hacettepe University<br>
-<font size="2.5">Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)</font>
+Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)<br>
 
 * BA in Translation & Interpreting, 2008<br>
 Hacettepe University
