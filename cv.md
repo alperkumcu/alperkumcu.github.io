@@ -6,15 +6,13 @@ permalink: /cv/
 
 # Education
 
-**PhD**
-30 September 2014 - 17 July 2019
+**PhD** 30 September 2014 - 17 July 2019  
 School of Psychology, University of Birmingham, UK
 
 * Senior student representative for postgraduate students (2016 - 2017)
 * Host and organiser of the Language and Cognition (LanCoS) Seminars (2015 - 2017)
 
-**MSc**
-30 September 2013 - 30 September 2014
+**MSc** 30 September 2013 - 30 September 2014  
 School of Psychology, University of Birmingham, UK
 
 **Summer Schools**
