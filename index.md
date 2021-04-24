@@ -8,7 +8,7 @@ I am a Ankara-based researcher at Hacettepe University, Turkey. My research inve
 I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>.
 
 # Education
-* PhD in Psychology, 2018
+* PhD in Psychology, 2018<br>
 University of Birmingham
 <font size="2.5">Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.html</a>)
 Supervisor: Dr Robin L Thompson
