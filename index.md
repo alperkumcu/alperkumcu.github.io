@@ -7,6 +7,8 @@ I am a Ankara-based researcher at Hacettepe University, Turkey. My research inve
 
 I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the <a href="http://www.edebiyat.hacettepe.edu.tr/eng-dergiler.php" target="_blank">Hacettepe University Journal of Faculty of Letters</a>.
 
+<hr>
+
 # Education
 * PhD in Psychology, 2018<br>
 University of Birmingham<br>
@@ -24,6 +26,8 @@ Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visu
 
 * BA in Translation & Interpreting, 2008<br>
 Hacettepe University
+
+<hr>
 
 # Interests
 * Grounded-embodied Cognition
