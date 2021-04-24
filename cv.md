@@ -18,14 +18,13 @@ School of Psychology, University of Birmingham, UK
 School of Psychology, University of Birmingham, UK
 
 **Summer Schools**
-- CETRA Research Summer School 2012, KU Leuven, Belgium | CETRA Professor: Franz Pöchhacker
+- CETRA Research Summer School 2012, KU Leuven, Belgium (CETRA Professor: Franz Pöchhacker)
 - Terminology Summer School 2009, Cologne, Germany
 
 <hr>
 
 # Experience
-**Research assistant**
-12 December 2008 - Present
+**Research assistant** 12 December 2008 - Present  
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 - Representative for research assistants at the Faculty of Letters (2019 - 2021)
