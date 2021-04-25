@@ -10,7 +10,7 @@ permalink: /invited/
 
 <h3>2021</h3>
 
-<p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i>. 19 April 2021. Haliç Üniversitesi, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)</p>
+<p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i>. 19 April 2021. Haliç University, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)</p>
 
 <p><a href="https://youtu.be/akA4Bxs--UQ" target="_blank"><i>Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek</i></a>. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English title: Language and memory from a grounded-embodied point of view)</p>
 
@@ -18,11 +18,11 @@ permalink: /invited/
 
 <h3>2020</h3>
 
-<p><a href="https://youtu.be/tmsFJWQqPX8" target="_blank"><i>925 sözcük için Türkçe duyu normları ve Türkçede dilbilimsel sinestezi</i></a>. 25 December 2020. Hacettepe Üniversitesi Dilbilim Topluluğu, Ankara, Turkey. (English title: Turkish sensory norms for 925 words and linguistic synesthesia in Turkish)</p>
+<p><a href="https://youtu.be/tmsFJWQqPX8" target="_blank"><i>925 sözcük için Türkçe duyu normları ve Türkçede dilbilimsel sinestezi</i></a>. 25 December 2020. Hacettepe University Student Society of Linguistics, Ankara, Turkey. (English title: Turkish sensory norms for 925 words and linguistic synesthesia in Turkish)</p>
 
 <h3>2019</h3>
 
-<p><i>Psikodilbilimin yeni çağı: Dışarı sızan zihinler ve simüle edilen sözcükler</i>. 5 April 2019. Hacettepe Üniversitesi Dilbilim Topluluğu, Ankara, Turkey. (English title: The new age of psycholinguistics: Leaking minds and simulated words)</p>
+<p><i>Psikodilbilimin yeni çağı: Dışarı sızan zihinler ve simüle edilen sözcükler</i>. 5 April 2019. Hacettepe University Student Society of Linguistics, Ankara, Turkey. (English title: The new age of psycholinguistics: Leaking minds and simulated words)</p>
 
 <h3>2011</h3>
 
