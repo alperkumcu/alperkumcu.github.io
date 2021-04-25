@@ -4,6 +4,10 @@ title: invited talks
 permalink: /invited/
 ---
 
+<p>Please get into touch if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic background of the audience. If possible, I'd just prefer not to attend all-male panels. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker.</p>
+
+<br>
+
 <h3>2021</h3>
 
 <p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i>. 19 April 2021. Haliç Üniversitesi, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)</p>
@@ -23,5 +27,3 @@ permalink: /invited/
 <h3>2011</h3>
 
 <p><i>Interpreting: An outlook for students</i>. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.</p>
-
-<p>Please get into touch via email if you would like me to talk at your event. If possible, I'd normally prefer not to attend all-male panels. Thank you.</p>
