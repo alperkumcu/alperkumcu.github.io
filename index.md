@@ -3,7 +3,7 @@ layout: page
 title: Hello
 ---
 
-I am an Ankara-based researcher at Hacettepe University, Turkey. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in `ggplot2` before any project and write in `markdown` where available. I like writing, coding and analysing data with <a href="https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw" target="_blank">my tailor-made playlists</a> in the background. 
+I am an Ankara-based researcher at Hacettepe University, Turkey. My research investigates the use of space in language and memory operations mainly through eye movements. I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in `ggplot2` before any project and write in `markdown` where available. I like writing, coding and analysing data with <a href="https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw" target="_blank">my tailor-made playlists</a> in the background. I believe future is interdisciplinary research.
 
 I’m the proud holder of the Hacettepe University Science Incentive Award 2020 in social sciences. I was previously an associate editor of the Hacettepe University Journal of Faculty of Letters. See <a href="cv">CV</a> for further info.
 
