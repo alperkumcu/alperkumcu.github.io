@@ -38,7 +38,6 @@ header_pages:
   - teaching.md
   - thesis.md
   - cv.md
-  - index.html
   
 # Google Analytics
 google_analytics: UA-48656742-3
