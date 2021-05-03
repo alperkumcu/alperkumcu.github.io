@@ -7,7 +7,7 @@ permalink: /publications/
 ## Papers
 
 ### SSCI
-1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [Link button](http://example.com/){: .btn .btn-outline }
+1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [data](http://example.com/) [pdf](http://example.com/)
 
 2. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} (in press)
 
@@ -21,12 +21,13 @@ permalink: /publications/
 2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553)  
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
-<p>3. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.<br>(English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs).</p>
+3. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144.<br>  
+(English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs).
 
-<h3>Other indices</h3>
+### Other indices
 <p>1. Sağın-Şimşek, Ç., Antonova-Ünlü, E. & Kumcu, A. (2020). The attitude and expectations of Turkish society concerning immigrants residing in Turkey and their social and linguistic acculturation patterns. <i>Journal of Second and Multiple Language Acquisition</i>, <i>8</i>(3), 57-78.</p>
 
-<h2>Books</h2>
+## Books
 
 <h3>Editorship</h3>
 <p>1. Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary studies on Turkish linguistics.</i> Peter Lang.</p>
