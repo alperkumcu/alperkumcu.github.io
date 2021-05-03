@@ -6,14 +6,12 @@ description: > # this means to ignore newlines until "twitter_username:"
 # social links
 twitter_username: alperkumcu
 youtube_username: alperkumcu
+linkedin_username: alperkumcu
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
 
 # Mastodon instances
 # mastodon:
@@ -44,6 +42,7 @@ google_analytics: UA-48656742-3
 
 # Build settings
 theme: minima
+remote_theme: pmarsceill/just-the-docs
 
 plugins:
  - jekyll-feed
