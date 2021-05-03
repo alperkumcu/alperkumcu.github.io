@@ -7,7 +7,7 @@ permalink: /publications/
 ## Papers
 
 ### SSCI
-1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) <span style="color:red">[data](http://example.com/){:target="_blank"}</span> 
+1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [data](http://example.com/){:target="_blank"}
 
 3. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} (in press) [data](http://example.com/){:target="_blank"}
 
@@ -29,14 +29,14 @@ permalink: /publications/
 
 ## Books
 
-<h3>Editorship</h3>
+### Editorship
 <p>1. Kumcu, A. & Söylemez, S. (Eds.). (2021). <i>Synergy – Linguistics: Contemporary studies on Turkish linguistics.</i> Peter Lang.</p>
 
-<h3>Book chapters</h3>
-<p>1. Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.</p>
+### Book chapters
+1. Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
 
-<p>2. Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.</p>
+2. Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
 
-<h3>Translation</h3>
-<p>1. Brockman, J. (Ed.). (2003). <i>Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar</i>. (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Tübitak Popüler Bilim Yayınları.
-(English Title: The New Humanists: Science at the Edge)</p>
+### Translation
+1. Brockman, J. (Ed.). (2003). *Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar*. (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Tübitak Popüler Bilim Yayınları.  
+(English Title: The New Humanists: Science at the Edge)
