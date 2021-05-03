@@ -7,13 +7,13 @@ permalink: /publications/
 ## Papers
 
 ### SSCI
-1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [Click me](http://www.google.com){: .btn}  
+1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) ['data'](http://www.google.com)
 
-2. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557) (in press) [Click me](http://www.google.com){: .btn} 
+2. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557) (in press)
 
 3. Kumcu, A. & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6)
 
-<p>4. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. <i>Applied Linguistics Review</i>, 1-18. <a href="https://doi.org/10.1515/applirev-2019-0064" target="_blank">https://doi.org/10.1515/applirev-2019-0064</a></p>
+4. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. *Applied Linguistics Review*, 1-18. [https://doi.org/10.1515/applirev-2019-0064](https://doi.org/10.1515/applirev-2019-0064)
 
 <h3>TR Index</h3>
 <p>1. Kumcu, A. (2021). Bedenlenmiş anlambilim: Çapraz dilbilimsel ve çapraz kültürel bir inceleme. (in progress)</p>
