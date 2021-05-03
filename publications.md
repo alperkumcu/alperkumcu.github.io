@@ -7,7 +7,7 @@ permalink: /publications/
 ## Papers
 
 ### SSCI
-1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [data](http://example.com/){:target="_blank"}
+1. Kumcu, A. & Thompson, R. L. (). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. (under review) [**data**](http://example.com/){:target="_blank"}
 
 3. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} (in press) [data](http://example.com/){:target="_blank"}
 
