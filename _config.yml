@@ -42,7 +42,6 @@ google_analytics: UA-48656742-3
 
 # Build settings
 theme: minima
-remote_theme: pmarsceill/just-the-docs
 
 plugins:
  - jekyll-feed
