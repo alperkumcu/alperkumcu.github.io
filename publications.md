@@ -18,7 +18,7 @@ permalink: /publications/
 ## TR Index
 1. Kumcu, A. (2021). Bedenlenmiş anlambilim: Çapraz dilbilimsel ve çapraz kültürel bir inceleme. (in progress)
 
-2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553](https://dergipark.org.tr/tr/pub/huefd/issue/54769/621553)  
+2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553)  
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
 <p>3. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. <i>Çeviribilim ve Uygulamaları</i>, <i>18</i>, 123-144.<br>(English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs).</p>
