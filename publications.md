@@ -31,7 +31,7 @@ permalink: /publications/
 ## Books
 
 ### Editorship
-1. Kumcu, A. & Söylemez, S. (Eds.). (2021). *Synergy – Linguistics: Contemporary studies on Turkish linguistics*. Peter Lang.
+1. Söylemez, A. S., & Kumcu, A. (Eds.). (2021). [https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0](*Synergy II: Linguistics: Contemporary Studies on Turkish Linguistics*){:target="_blank"}. Peter Lang.
 
 ### Book chapters
 1. Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
