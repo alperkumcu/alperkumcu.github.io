@@ -22,12 +22,16 @@ School of Psychology, University of Birmingham, UK
 <hr>
 
 # Experience
-**Research assistant** 12 December 2008 - Present  
+**Assistant professor** 30 September 2021 - Present
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 - Distance education coordinator at the Faculty of Letters (2020 - present)
-- Representative for research assistants at the Faculty of Letters (2019 - 2021)
 - Erasmus+ departmental coordinator (2019 - present)
+
+**Research assistant** 12 December 2008 - 30 September 2021  
+Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
+
+- Representative for research assistants at the Faculty of Letters (2019 - 2021)
 - Academic advisor (2009 - 2013, 2019 - present)
 - Field training coordinator (2009 - 2013)
 - Double major & double language programme coordinator (2009 - 2013)
@@ -39,6 +43,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Memory (SSCI Q1) (1)
 - Cognition (SSCI Q1) (1)
 - Psychological Research (SSCI Q1) (1)
+- Translation, Cognition and Behaviour
 - Dil Dergisi (TR Dizin) (2)
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
