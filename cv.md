@@ -28,7 +28,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Distance education coordinator at the Faculty of Letters (2020 - present)
 - Erasmus+ departmental coordinator (2019 - present)
 
-**Research assistant** 12 December 2008 - 30 September 2021  
+**Research assistant** 16 December 2008 - 30 September 2021  
 Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 - Representative for research assistants at the Faculty of Letters (2019 - 2021)
