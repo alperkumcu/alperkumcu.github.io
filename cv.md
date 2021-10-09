@@ -43,7 +43,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Memory (SSCI Q1) (1)
 - Cognition (SSCI Q1) (1)
 - Psychological Research (SSCI Q1) (1)
-- Translation, Cognition and Behaviour
+- Translation, Cognition & Behaviour (MLA) (1)
 - Dil Dergisi (TR Dizin) (2)
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
