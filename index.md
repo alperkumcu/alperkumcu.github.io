@@ -46,3 +46,4 @@ Hacettepe University
 * YÖK Researcher ID: <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">JBOSSN183</a>
 * Hacettepe University AVESİS: <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Alper Kumcu</a>
 * Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a>
+* Impact Story <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
