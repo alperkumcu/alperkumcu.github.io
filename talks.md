@@ -4,10 +4,9 @@ title: talks
 permalink: /talks/
 ---
 ### 2021
-Kumcu, A. & Öztürk, A. (2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. June 28-30, 2021. Universita di Bologna, Forli, Italy. (accepted) [**data**](https://osf.io/gtxwa/){:target="_blank"}
+Kumcu, A. & Öztürk, A. (2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation] [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
-### 2020
-<p>Kumcu, A. & Yağlı, E. (2020). Sensory Norms for 925 Words. <i>20th ICTL (International Conference on Turkish Linguistics)</i>. June 23-25, 2020. Anadolu University, Eskişehir, Turkey. [poster](submitted)</p>
+<p>Kumcu, A. & Yağlı, E. (2021). Sensory Norms for 925 Words. <i>20th ICTL (International Conference on Turkish Linguistics) 2020</i>. August 2-4, 2021. Anadolu University, Eskişehir, Turkey. [online presentation]</p>
 
 ### 2019
 <p>Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı. Amasya, Turkey. [presentation]</p>
