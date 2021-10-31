@@ -86,4 +86,5 @@ I have over 100+ participants testing experience with SR Research EyeLink 1000. 
 <hr>
 
 # Achievements & Awards
-- Hacettepe University Science Incentive Award 2020
+- Hacettepe University Science Incentive Award 2019 (Social Sciences)
+- Turkish Council of Higher Education Doctoral Fellowship (2013 - 2018)
