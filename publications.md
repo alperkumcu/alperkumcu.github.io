@@ -19,7 +19,7 @@ permalink: /publications/
 
 
 ### TR Index
-1. Kumcu, A. (2021). Bedenlenmiş anlambilim: Çapraz dilbilimsel ve çapraz kültürel bir inceleme. (in progress)
+1. Kumcu, A. (2022). Bedenlenmiş anlambilim: Çapraz dilbilimsel ve çapraz kültürel bir inceleme. (in progress)
 
 2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
