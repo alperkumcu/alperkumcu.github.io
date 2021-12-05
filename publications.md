@@ -7,13 +7,15 @@ permalink: /publications/
 ## Papers
 
 ### SSCI
-1. Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"}
+1. Kumcu, A. & Öztürk, A. (2022). Can you see the car in colour? Mental imagery control predicts consecutive interpreting performance (in progress).
+
+2. Kumcu, A. & Thompson, R. L. (2021). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"}
 
 3. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*, *36*(4), 241-255. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} [**data**](https://osf.io/2unvy/){:target="_blank"}
 
-3. Kumcu, A. & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
+4. Kumcu, A. & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
 
-4. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. *Applied Linguistics Review*, 1-18. [https://doi.org/10.1515/applirev-2019-0064](https://doi.org/10.1515/applirev-2019-0064){:target="_blank"} [**pdf**](https://github.com/alperkumcu/alperkumcu.github.io/files/6416091/article-10.1515-applirev-2019-0064.pdf){:target="_blank"}
+5. Dinçer, H., Antonova-Ünlü, E. & Kumcu, A. (2019). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. *Applied Linguistics Review*, 1-18. [https://doi.org/10.1515/applirev-2019-0064](https://doi.org/10.1515/applirev-2019-0064){:target="_blank"} [**pdf**](https://github.com/alperkumcu/alperkumcu.github.io/files/6416091/article-10.1515-applirev-2019-0064.pdf){:target="_blank"}
 
 
 ### TR Index
