@@ -48,8 +48,10 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
 
-**Journal administration**
+**Editorial Administration**
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
+
+**Grants**
 
 **Projects**
 - Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
