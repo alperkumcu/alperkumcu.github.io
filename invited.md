@@ -10,7 +10,7 @@ permalink: /invited/
 
 <h3>2021</h3>
 
-<p><i>Bir psikiyatr bir dilbilimciden ne öğrenebilir?</i>. 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?)</p>
+<p><i>Bir psikiyatr bir dilbilimciden ne öğrenebilir?</i> 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?)</p>
 
 <p><i>Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler</i>. 19 April 2021. Haliç University, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)</p>
 
