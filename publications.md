@@ -24,7 +24,7 @@ permalink: /publications/
 2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
-3. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. [**pdf**](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}  
+3. Kumcu, A. (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
 (English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs). 
 
 ### Other indices
@@ -33,7 +33,9 @@ permalink: /publications/
 ## Books
 
 ### Editorship
-1. Söylemez, A. S., & Kumcu, A. (Eds.). (2021). [*Synergy II: Linguistics: Contemporary Studies on Turkish Linguistics*](https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0){:target="_blank"}. Peter Lang.
+1. Söylemez, A. S., & Kumcu, A. (Eds.). (2021). *[Synergy II: Linguistics: Contemporary Studies on Turkish Linguistics*](https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0){:target="_blank"}*. Peter Lang.
+
+2. Cihan, A., Gökduman, U., & Kumcu, A. (Eds.). (2021). *[Engelsiz Erişim ve İletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
 1. Kumcu, A. & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
