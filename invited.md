@@ -4,8 +4,9 @@ title: invited talks
 permalink: /invited/
 ---
 
-<p>Please get into touch if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic background of the audience. If possible, I'd just prefer not to attend all-male panels. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker.</p>
+<p>Düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz benimle e-posta adresimden temasa geçebilirsiniz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Mümkümse, yalnızca sadece erkeklerden oluşan panellere katılmamayı tercih ediyorum.</p>
 
+<p>Please get into touch if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker. If possible, I'd just prefer not to attend all-male panels.</p>
 <br>
 
 <h3>2021</h3>
