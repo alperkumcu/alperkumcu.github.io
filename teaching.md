@@ -23,7 +23,7 @@ permalink: /teaching/
 - Consecutive Interpreting (MA, 2021 Spring -)
 
 #### Undergraduate
-- Lexicology (1st year, 2009 - )</li>
+- Lexicology (1st year, 2009 - )
 - Consecutive interpreting (3rd year, 2020 -)
 - Interpreting studies (4th year, 2018 -)
 - Conference interpreting (4th year, 2019 -)
