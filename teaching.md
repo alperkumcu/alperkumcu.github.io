@@ -3,6 +3,7 @@ layout: page
 title: teaching
 permalink: /teaching/
 ---
+
 ### Summer Schools
 
 ### Workshops
@@ -19,14 +20,14 @@ permalink: /teaching/
 - Cognitive Translation Studies (PhD | Hacettepe University | 2021 Spring -)
 - Consecutive Interpreting (MA | Hacettepe University | 2021 Spring -)
 
-<h2>Undergraduate Courses</h2>
-<li>Lexicology (1st year | Hacettepe University | 2009 - )</li>
-<li>Consecutive interpreting (3rd year | Hacettepe University | 2020 -)</li>
-<li>Interpreting studies (4th year | Hacettepe University | 2018 -)</li>
-<li>Conference interpreting (4th year | Hacettepe University | 2019 -)</li>
-<li>Introduction to sight translation (2nd year | Hacettepe University | 2019 -)</li>
-<li>Contemporary English and American societies (2nd year | Hacettepe University | 2019 -)</li>
-<li>History of English and American cultures (2nd year | Hacettepe University, 2019 -)</li>
-<li>Computer-aided translation tools (Hacettepe University | 2009 - 2012)</li>
-<li>Information technologies for translators (Hacettepe University | 2009 - 2012)</li>
-<br>
+### Undergraduate Courses
+- Lexicology (1st year | Hacettepe University | 2009 - )</li>
+- Consecutive interpreting (3rd year | Hacettepe University | 2020 -)
+- Interpreting studies (4th year | Hacettepe University | 2018 -)
+- Conference interpreting (4th year | Hacettepe University | 2019 -)
+- Introduction to sight translation (2nd year | Hacettepe University | 2019 -)
+- Contemporary English and American societies (2nd year | Hacettepe University | 2019 -)
+- History of English and American cultures (2nd year | Hacettepe University, 2019 -)
+- Computer-aided translation tools (Hacettepe University | 2009 - 2012)
+- Information technologies for translators (Hacettepe University | 2009 - 2012)
+
