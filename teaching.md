@@ -4,9 +4,9 @@ title: teaching
 permalink: /teaching/
 ---
 
-### Summer Schools
+### Summer Schools
 
-### Workshops
+### Workshops
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
 - Interpreting and note-taking. 24-29 January 2011. Azerbaijan University of Languages, Baku, Azerbaijan.
@@ -15,12 +15,14 @@ permalink: /teaching/
 - Computer-aided translation tools.  25-26 February, 2012. Cappadocia Vocational College, Nevşehir, Turkey.
 - Computer-aided translation tools. 3-5 October, 2011. Ministry of EU, Directorate of Translation Coordination, Ankara, Turkey.
 
-### Graduate Courses
+### University Courses
+
+#### Graduate
 
 - Cognitive Translation Studies (PhD | Hacettepe University | 2021 Spring -)
 - Consecutive Interpreting (MA | Hacettepe University | 2021 Spring -)
 
-### Undergraduate Courses
+#### Undergraduate
 - Lexicology (1st year | Hacettepe University | 2009 - )</li>
 - Consecutive interpreting (3rd year | Hacettepe University | 2020 -)
 - Interpreting studies (4th year | Hacettepe University | 2018 -)
