@@ -19,16 +19,16 @@ permalink: /teaching/
 
 #### Graduate
 
-- Cognitive Translation Studies (PhD | Hacettepe University | 2021 Spring -)
-- Consecutive Interpreting (MA | Hacettepe University | 2021 Spring -)
+- Cognitive Translation Studies (PhD, 2021 Spring -)
+- Consecutive Interpreting (MA, 2021 Spring -)
 
 #### Undergraduate
-- Lexicology (1st year | Hacettepe University | 2009 - )</li>
-- Consecutive interpreting (3rd year | Hacettepe University | 2020 -)
-- Interpreting studies (4th year | Hacettepe University | 2018 -)
-- Conference interpreting (4th year | Hacettepe University | 2019 -)
-- Introduction to sight translation (2nd year | Hacettepe University | 2019 -)
-- Contemporary English and American societies (2nd year | Hacettepe University | 2019 -)
-- History of English and American cultures (2nd year | Hacettepe University, 2019 -)
-- Computer-aided translation tools (Hacettepe University | 2009 - 2012)
-- Information technologies for translators (Hacettepe University | 2009 - 2012)
+- Lexicology (1st year, 2009 - )</li>
+- Consecutive interpreting (3rd year, 2020 -)
+- Interpreting studies (4th year, 2018 -)
+- Conference interpreting (4th year, 2019 -)
+- Introduction to sight translation (2nd year, 2019 -)
+- Contemporary English and American societies (2nd year, 2019 -)
+- History of English and American cultures (2nd year, 2019 -)
+- Computer-aided translation tools (2009 - 2012)
+- Information technologies for translators (2009 - 2012)
