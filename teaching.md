@@ -30,4 +30,3 @@ permalink: /teaching/
 - History of English and American cultures (2nd year | Hacettepe University, 2019 -)
 - Computer-aided translation tools (Hacettepe University | 2009 - 2012)
 - Information technologies for translators (Hacettepe University | 2009 - 2012)
-
