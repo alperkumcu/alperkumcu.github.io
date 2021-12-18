@@ -48,20 +48,18 @@ Hacettepe University
 * Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a>
 * Impact Story <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
 
-<html lang="{{ site.lang }}">
-<head>...</head>
-<body>
-    ...
-    <footer>
-        <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
-        {% for lang in site.languageNames %}
-        {% if lang[0] == site.lang %} {% continue %} {% endif %}
-        {% if page.namespace %}
-        <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
-        {% else %}
-        <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+<nav id="lang-sel" >
+    <ul class="lang">
+        {% capture link1 %}{{ site.baseurl_root }}{{ page.url}}{% endcapture %}
+        {% capture link2 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+        {% if site.lang == "tr" %}
+        <li class="masthead_menu-item visible-links">
+	        <a href="{{ link1 }}" class="enabled">{% t global.turkish%} </a>|<a href="{{ link2 }}"> {% t global.english%}</a>
+        </li>
+        {% elsif site.lang == "en" %}
+        <li class="masthead_menu-item lang">
+	        <a href="{{ link1 }}">{% t global.turkish%} </a>|<a href="{{ link2 }}" class="enabled"> {% t global.english%}</a>
+        </li>
         {% endif %}
-        {% endfor %}
-    </footer>
-</body>
-</html>
+    </ul>
+ </nav>
