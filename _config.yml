@@ -5,6 +5,10 @@ description: ex nihilo nihil fit
 
 languages: ["en", "tr"]
 exclude_from_localizations: ["javascript", "images", "css"]
+defaultLang: en
+languageNames:
+  en: English
+  tr: Turkish
 
 # social links
 twitter_username: alperkumcu
