@@ -3,6 +3,7 @@ author: TwoThousandTwentyTwo
 email: alperkumcu[at]gmail.com
 description: ex nihilo nihil fit
 
+# languages
 languages: ["en", "tr"]
 exclude_from_localizations: ["javascript", "images", "css"]
 defaultLang: en

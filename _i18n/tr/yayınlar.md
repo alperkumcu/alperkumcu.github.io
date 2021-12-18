@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-permalink: /publications/
+title: yayınlar
+permalink: /yayınlar/
 ---
 
 ## Papers
