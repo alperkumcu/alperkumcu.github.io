@@ -29,7 +29,6 @@ minima:
   date_format: "%b %-d, %Y"
 
 header_pages:
-  - bio.md
   - publications.md
   - talks.md
   - invited.md
