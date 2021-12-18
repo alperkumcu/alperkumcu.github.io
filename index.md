@@ -1,9 +1,7 @@
 ---
 layout: page
-title: hello
+title: Hello
 ---
-
-{% translate global.turkish %}
 
 I am an Ankara-based researcher at Hacettepe University, Turkey. My research investigates language, memory and embodied cognition with a data-science-driven perspective and through eye movements.
 
