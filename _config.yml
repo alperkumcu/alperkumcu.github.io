@@ -5,7 +5,8 @@ description: ex nihilo nihil fit
 
 # languages
 languages: ["en", "tr"]
-exclude_from_localizations: ["javascript", "images", "css"]
+exclude_from_localizations: ["images", "css", "pdfs", "thesis"]
+default_locale_in_subfolder: true
 defaultLang: en
 languageNames:
   en: English
