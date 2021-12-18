@@ -2,6 +2,7 @@
 layout: page
 title: publications
 permalink: /publications/
+lang: en
 ---
 
 ## Papers

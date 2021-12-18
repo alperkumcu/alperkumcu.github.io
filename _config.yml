@@ -3,15 +3,6 @@ author: TwoThousandTwentyTwo
 email: alperkumcu[at]gmail.com
 description: ex nihilo nihil fit
 
-# languages
-languages: ["en", "tr"]
-exclude_from_localizations: ["images", "css", "pdfs", "thesis"]
-default_locale_in_subfolder: true
-defaultLang: en
-languageNames:
-  en: English
-  tr: Turkish
-
 # social links
 twitter_username: alperkumcu
 youtube_username: alperkumcu

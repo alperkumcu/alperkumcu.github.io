@@ -2,6 +2,7 @@
 layout: page
 title: teaching
 permalink: /teaching/
+lang: en
 ---
 
 ### Summer Schools

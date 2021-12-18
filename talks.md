@@ -2,7 +2,9 @@
 layout: page
 title: talks
 permalink: /talks/
+lang: en
 ---
+
 ### 2021
 Kumcu, A., & Öztürk, A. (2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation] [**data**](https://osf.io/gtxwa/){:target="_blank"}
 

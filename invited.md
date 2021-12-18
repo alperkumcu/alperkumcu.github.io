@@ -2,6 +2,7 @@
 layout: page
 title: invited talks
 permalink: /invited/
+lang: en
 ---
 
 <p>Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden (alperkumcu-at-gmail.com) temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir. Mümkümse, sadece erkeklerden oluşan panellere katılmamayı tercih ediyorum.</p>
