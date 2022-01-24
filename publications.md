@@ -39,9 +39,11 @@ lang: en
 2. Cihan, A., Gökduman, U., & Kumcu, A. (Eds.). (2021). *[Engelsiz Erişim ve İletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. Kumcu, A., & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
+1. Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, cross-linguistic investigation</a>. <i>Synergy 2022: Linguistics</i>. Peter Lang.
 
-2. Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
+2. Kumcu, A., & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
+
+3. Kumcu, A. (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
 
 ### Translation
 1. Brockman, J. (Ed.). (2003). *Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar*. (N. Büyükkantarcıoğlu & A. Kumcu, Trans.). Tübitak Popüler Bilim Yayınları.  
