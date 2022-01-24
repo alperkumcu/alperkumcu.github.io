@@ -34,12 +34,12 @@ lang: en
 ## Books
 
 ### Editorship
-1. Söylemez, A. S., & Kumcu, A. (Eds.). (2021). *[Synergy II: Linguistics: Contemporary Studies on Turkish Linguistics](https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0){:target="_blank"}*. Peter Lang.
+1. Söylemez, A. S., & Kumcu, A. (Eds.). (2021). *[Synergy II: Linguistics: Contemporary studies on Turkish linguistics](https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0){:target="_blank"}*. Peter Lang.
 
-2. Cihan, A., Gökduman, U., & Kumcu, A. (Eds.). (2021). *[Engelsiz Erişim ve İletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
+2. Cihan, A., Gökduman, U., & Kumcu, A. (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, cross-linguistic investigation</a>. <i>Synergy 2022: Linguistics</i>. Peter Lang.
+1. Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, cross-linguistic investigation. <i>Synergy 2022: Linguistics</i>. Peter Lang.
 
 2. Kumcu, A., & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
 
