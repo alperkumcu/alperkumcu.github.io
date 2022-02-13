@@ -19,7 +19,7 @@ lang: en
 ### University Courses
 
 #### Graduate
-- [Cognitive Translation Studies](alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
+- [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
 - Consecutive Interpreting (MA, 2021 Spring -)
 
 #### Undergraduate
