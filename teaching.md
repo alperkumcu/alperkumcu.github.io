@@ -7,6 +7,8 @@ lang: en
 
 ### Summer Schools
 
+- CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022
+
 ### Workshops
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
@@ -32,3 +34,6 @@ lang: en
 - History of English and American Cultures (2nd year, 2019 -)
 - Computer-aided Translation Tools (2009 - 2012)
 - Information Technologies for Translators (2009 - 2012)
+
+#### Others
+- Narrative Medicine (for the undergraduates at the Faculty of Medicine, HU, 2019 - )
