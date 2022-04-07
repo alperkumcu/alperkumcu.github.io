@@ -47,6 +47,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Dil Dergisi (TR Dizin) (2)
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
+- TÜBİTAK BİDEB 2209-A (6)
 
 **Editorial Administration**
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
