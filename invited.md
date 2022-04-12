@@ -11,6 +11,10 @@ lang: en
 <p>Please get into touch via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker. I can deliver the talk face-to-face or online in English or Turkish. If possible, I'd just prefer not to attend all-male panels.</p>
 <br>
 
+### 2022
+
+1. *Dil, Duyu ve Uzam: Ne Biliyoruz ve Neyi Arıyoruz?* 16 April 2022. Hacettepe University, Ankara, Turkey.
+
 ### 2021
 
 1. *Bir psikiyatr bir dilbilimciden ne öğrenebilir?* 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?)
