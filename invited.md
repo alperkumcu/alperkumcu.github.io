@@ -13,19 +13,19 @@ lang: en
 
 ### 2022
 
-1. *Dil, Duyu ve Uzam: Ne Biliyoruz ve Neyi Arıyoruz?* 16 April 2022. Hacettepe University, Ankara, Turkey.
+1. *(Re)activating the perception of space in language* 31 May 2022. Center for Research in Language, University of California, San Diego, US. (online)
 
 ### 2021
 
-1. *Bir psikiyatr bir dilbilimciden ne öğrenebilir?* 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?)
+1. *Bir psikiyatr bir dilbilimciden ne öğrenebilir?* 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?) (online)
 
-2. *Çevrimiçi göz-izleme teknolojileri ve çeviribilim kapsamında olası araştırmalara bir örnek*. 29 September 2021. MTB Graduate Seminars 2021-22, Ankara, Turkey. (English title: Online eye tracking and a case study within the framework of translation studies.)
+2. *Çevrimiçi göz-izleme teknolojileri ve çeviribilim kapsamında olası araştırmalara bir örnek*. 29 September 2021. MTB Graduate Seminars 2021-22, Ankara, Turkey. (English title: Online eye tracking and a case study within the framework of translation studies.) (online)
 
-3. *Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler*. 19 April 2021. Haliç University, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)
+3. *Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler*. 19 April 2021. Haliç University, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions) (online)
 
-4. *[Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek](https://youtu.be/akA4Bxs--UQ)*. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English title: Language and memory from a grounded-embodied point of view)
+4. *[Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek](https://youtu.be/akA4Bxs--UQ)*. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English title: Language and memory from a grounded-embodied point of view) (online)
 
-5. *The interplay of space, perception and language: Evidence from eye movements and verbal recognition memory*. 9 March 2021. School of Psychology, Aston University, Birmingham, UK.
+5. *The interplay of space, perception and language: Evidence from eye movements and verbal recognition memory*. 9 March 2021. School of Psychology, Aston University, Birmingham, UK. (online)
 
 ### 2020
 
