@@ -13,7 +13,7 @@ lang: en
 
 ### 2022
 
-1. *(Re)activating the perception of space in language* 31 May 2022. Center for Research in Language, University of California, San Diego, US. (online)
+1. *(Re)activating the perception of space in language*. 31 May 2022. Center for Research in Language, University of California, San Diego, US. (online)
 
 ### 2021
 
