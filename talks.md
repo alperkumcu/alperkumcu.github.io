@@ -6,7 +6,7 @@ lang: en
 ---
 
 ### 2022
-Kumcu, A. (2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. UDK (Ulusal Dilbilim Kurultayı)*. May 12-13, 2021. NEU Sosyal ve Beşeri Bilimler Fakültesi, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
+Kumcu, A. (2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2021. NEU Sosyal ve Beşeri Bilimler Fakültesi, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
 
 ### 2021
 Kumcu, A., & Öztürk, A. (2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation] [**data**](https://osf.io/gtxwa/){:target="_blank"}
@@ -38,7 +38,7 @@ National English Proficiency Exams in Turkey. 5th International Conference on Te
 ### 2013
 <p>Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). <a href="https://soundcloud.com/alperkumcu/ytucalisma" target="_blank">Internet Behaviours of Translators and Interpreters in Turkey. 3rd International Translation Colloquium</a>. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)
 </p>
-<p>Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Hastürkoğlu, G., Yağlı, E., Cangır, H., Ahmadlouei, H., Talaie, N., Korkmaz, N., & Ağırel, S. (2013). Uygulamaya yönelik doğal dil işlemleme odaklı Türk Politika Derlemi Projesi: 1983-2013. 27. Ulusal Dilbilim Kurultayı. 2-4 May, 2013. Antalya, Turkey. (in Turkish) [presentation]</p>
+Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Hastürkoğlu, G., Yağlı, E., Cangır, H., Ahmadlouei, H., Talaie, N., Korkmaz, N., & Ağırel, S. (2013). Uygulamaya yönelik doğal dil işlemleme odaklı Türk Politika Derlemi Projesi: 1983-2013. *27. Ulusal Dilbilim Kurultayı*. 2-4 May, 2013. Antalya, Turkey. (in Turkish) [presentation]
 
 ### 2012
 <p>Kumcu, A. (2012). Glocalization with Translation Technology: Computer-Assisted Translation (CAT) Tools Today and Tomorrow. The Asian Conference on Language Learning (ACLL). 26-28 April, 2012. Osaka, Japan. [presentation]</p>
