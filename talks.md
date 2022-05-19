@@ -11,28 +11,28 @@ Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşle
 ### 2021
 Kumcu, A., & Öztürk, A. (November, 2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation] [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
-<p>Kumcu, A., & Yağlı, E. (August, 2021). Sensory Norms for 925 Words. <i>20th ICTL (International Conference on Turkish Linguistics) 2020</i>. August 2-4, 2021. Anadolu University, Eskişehir, Turkey. [online presentation]</p>
+Kumcu, A., & Yağlı, E. (August, 2021). Sensory Norms for 925 Words. *20th ICTL (International Conference on Turkish Linguistics) 2020*. August 2-4, 2021. Anadolu University, Eskişehir, Turkey. [online presentation]
 
 ### 2019
-<p>Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı. Amasya, Turkey. [presentation]</p>
+Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". *Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı*. Amasya, Turkey. [presentation]
 
-<p>Kumcu, A., & Thompson, R. L. (August, 2019). "Recent advances in research on the looking at nothing". 20th European Conference on Eye Movements ECEM 2019. Alicante, Spain. [presentation]</p>
+Kumcu, A., & Thompson, R. L. (August, 2019). "Recent advances in research on the looking at nothing". *20th European Conference on Eye Movements ECEM 2019*. Alicante, Spain. [presentation]
 
-<p>Dinçer, H., Antonova-Ünlü, E., & Kumcu, A. (April, 2019). Study Examining the Validity of Translation Items Used in the
-National English Proficiency Exams in Turkey. 5th International Conference on Teaching and Learning English as an Additional Language GlobELT 2019. Kyrenia, Cyprus. [presentation]</p>
+Dinçer, H., Antonova-Ünlü, E., & Kumcu, A. (April, 2019). Study Examining the Validity of Translation Items Used in the
+National English Proficiency Exams in Turkey. *5th International Conference on Teaching and Learning English as an Additional Language GlobELT 2019*. Kyrenia, Cyprus. [presentation]
 
 ### 2017
-<p>Kumcu, A., & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. <i>23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference</i>. September 7 -9, 2017. University of Leicester, Leicester, UK. [poster]</p>
+Kumcu, A., & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. *23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference*. September 7 -9, 2017. University of Leicester, Leicester, UK. [poster]
 
-<p>Kumcu, A., & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. <i>Research Poster Conference</i>. 12 June, 2017. University of Birmingham, UK. [poster]</p>
+Kumcu, A., & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. *Research Poster Conference*. 12 June, 2017. University of Birmingham, UK. [poster]
 
 ### 2016
-<p>Kumcu, A., & Thompson, R. L. (2016). Spatial interference and individual differences in looking at nothing for verbal memory. In J. C. Papafragou, A., Grodner, D., Mirman, & D. Trueswell (Ed.), Proceedings of the 38th annual conference of the cognitive science society (pp. 2387–2392). Austin, Cognitive Science Society. [presentation]</p>
+Kumcu, A., & Thompson, R. L. (2016). Spatial interference and individual differences in looking at nothing for verbal memory. In J. C. Papafragou, A., Grodner, D., Mirman, & D. Trueswell (Ed.), Proceedings of the 38th annual conference of the cognitive science society (pp. 2387–2392). Austin, Cognitive Science Society. [presentation]
 
-<p>Kumcu, A., & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. Research Event of the School of Psychology, University of Birmingham. Birmingham, UK. [presentation]</p>
+Kumcu, A., & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Interference and Individual Differences in Looking at Nothing. *Research Event of the School of Psychology*. University of Birmingham. Birmingham, UK. [presentation]
 
 ### 2015
-<p>Kumcu, A., & Thompson, R. L. (April, 2015). "Looking at Nothing" for Verbal Memory. <i>Research Event of the School of Psychology</i>, University of Birmingham, UK. [poster]</p>
+Kumcu, A., & Thompson, R. L. (April, 2015). "Looking at Nothing" for Verbal Memory. *Research Event of the School of Psychology*. University of Birmingham, UK. [poster]
 
 ### 2014
 <p>Kumcu, A., & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. Can these eye lie? International Conference on Eyetracking and Applied Linguistics. 26-27  September, 2014. Warsaw, Poland. [presentation]</p>
