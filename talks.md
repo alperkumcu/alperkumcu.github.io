@@ -40,7 +40,7 @@ Kumcu, A., & Thompson, R. L. (2014). Integrating auditory and visual language: A
 Al-Qahtani, N., Kumcu, A., & Wheeldon, L. (April, 2014). Morphological, semantic and translation priming in word reading: Evidence from Arabic-English bilinguals. *Research Event of the School of Psychology*, University of Birmingham, UK. [poster]
 
 ### 2013
-Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). [Internet Behaviours of Translators and Interpreters in Turkey](https://soundcloud.com/alperkumcu/ytucalisma){:target="_blank"}. *3rd International Translation Colloquium*. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)
+Kumcu, A., Hastürkoğlu, G., & Çakmak, T. (2013). [Internet behaviours of translators and interpreters in Turkey](https://soundcloud.com/alperkumcu/ytucalisma){:target="_blank"}. *3rd International Translation Colloquium*. 8-10 May, 2013. Yıldız Technical University, İstanbul, Turkey. (in Turkish)
 
 Büyükkantarcıoğlu, N. S., Sezer, E., A., Ayhan, E., Kumcu, A., Alan, C., Hastürkoğlu, G., Yağlı, E., Cangır, H., Ahmadlouei, H., Talaie, N., Korkmaz, N., & Ağırel, S. (2013). Uygulamaya yönelik doğal dil işlemleme odaklı Türk Politika Derlemi Projesi: 1983-2013. *27. Ulusal Dilbilim Kurultayı*. 2-4 May, 2013. Antalya, Turkey. (in Turkish) [presentation]
 
