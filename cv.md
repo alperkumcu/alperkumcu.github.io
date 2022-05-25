@@ -48,7 +48,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
 - TÜBİTAK BİDEB 2209-A (6)
-- 
+
 **Supervised Theses**
 - Tarım, B. (2023). Gestures in simultaneous interpreting. (unpublished MA thesis). Hacettepe University. [pdf]
 
