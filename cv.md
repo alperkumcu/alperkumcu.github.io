@@ -48,6 +48,9 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
 - TÜBİTAK BİDEB 2209-A (6)
+- 
+**Supervised Theses**
+- Tarım, B. (2023). Hacettepe University. [pdf]
 
 **Editorial Administration**
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
