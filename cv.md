@@ -50,7 +50,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - TÜBİTAK BİDEB 2209-A (6)
 
 **Supervised Theses**
-- Tarım, B. (2023). Gestures in simultaneous interpreting. (unpublished MA thesis). Hacettepe University. [pdf]
+- Tarım, B. (2023). The effect of input-related speech-related variables on gestures during SI [unpublished MA thesis]. Hacettepe University. 
 
 **Editorial Administration**
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
