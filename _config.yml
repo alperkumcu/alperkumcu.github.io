@@ -30,6 +30,7 @@ minima:
 
 header_pages:
   - publications.md
+  - projects.md
   - talks.md
   - invited.md
   - teaching.md
