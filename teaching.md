@@ -7,7 +7,7 @@ lang: en
 
 ### Summer Schools
 
-- CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022
+- [CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022 ](cogist.md)
 
 ### Workshops
 
