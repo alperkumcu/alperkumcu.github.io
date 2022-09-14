@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects and grants
+title: projects
 permalink: /projects/
 lang: en
 ---
@@ -11,4 +11,8 @@ Role: Araştırmacı/Uzman
 Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme  
 Date: 19/07/2022 -  
 
-Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
+Type:  
+No:  
+Role: Project assistant  
+Title: Optimale (Optimising professional translator training in a multilingual Europe)   
+Date: 2011 - 2013
