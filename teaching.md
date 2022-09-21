@@ -27,7 +27,7 @@ lang: en
 #### Undergraduate
 - Lexicology (1st year, 2009 - )
 - Consecutive Interpreting (3rd year, 2020 -)
-- Interpreting Studies (4th year, 2018 -)
+- [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year, 2018 -)
 - Conference Interpreting (4th year, 2019 -)
 - Introduction to Sight Translation (2nd year, 2019 -)
 - Contemporary English and American Societies (2nd year, 2019 -)
