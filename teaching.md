@@ -22,6 +22,7 @@ lang: en
 
 #### Graduate
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
+- [Research and Publication Ethics](https://alperkumcu.github.io/pdfs/imt662.pdf){:target="_blank"} (MA, 2022 Fall -)  
 - Consecutive Interpreting (MA, 2021 Spring -)
 
 #### Undergraduate
