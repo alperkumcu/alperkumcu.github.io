@@ -8,7 +8,7 @@ lang: en
 ## Papers
 
 ### SSCI
-1. Kumcu, A., & Öztürk, A. (2022). Can you see it in a different colour? Mental imagery control predicts consecutive interpreting performance. (in progress) [**data**](https://osf.io/gtxwa/){:target="_blank"}
+1. Kumcu, A., & Öztürk, A. (). Can you see it in a different colour? Visual mental imagery control predicts consecutive interpreting performance. (submitted) [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
 2. Kumcu, A., & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*, *75*(9), 1694-1710. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"}
 
