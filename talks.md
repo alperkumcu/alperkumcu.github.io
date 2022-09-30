@@ -6,7 +6,7 @@ lang: en
 ---
 
 ### 2022
-Kumcu, A. (October, 2022). Dilbilim Perspektifinden Düşünce ve Anlam. *58. Ulusal Psikiyatri Kongresi*. 19-23 Ekim, 2022. Kaya İzmir Hotel & Convention Center, İzmir. [presentation in panel]
+Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. 19-23 Ekim, 2022. Kaya İzmir Hotel & Convention Center, İzmir. [presentation in panel]
 
 Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2021. NEU Sosyal ve Beşeri Bilimler Fakültesi, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
 
