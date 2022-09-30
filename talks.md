@@ -6,12 +6,12 @@ lang: en
 ---
 
 ### 2022
-Kumcu, A. (October, 2022). *58. Ulusal Psikiyatri Kongresi*. 19-23 Ekim, 2022. Kaya İzmir Hotel & Convention Center, İzmir. [presentation]
+Kumcu, A. (October, 2022). Dilbilim Perspektifinden Düşünce ve Anlam. *58. Ulusal Psikiyatri Kongresi*. 19-23 Ekim, 2022. Kaya İzmir Hotel & Convention Center, İzmir. [presentation in panel]
 
 Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2021. NEU Sosyal ve Beşeri Bilimler Fakültesi, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
 
 ### 2021
-Kumcu, A., & Öztürk, A. (November, 2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation] [**data**](https://osf.io/gtxwa/){:target="_blank"}
+Kumcu, A., & Öztürk, A. (November, 2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation in panel] [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
 Kumcu, A., & Yağlı, E. (August, 2021). Sensory Norms for 925 Words. *20th ICTL (International Conference on Turkish Linguistics) 2020*. August 2-4, 2021. Anadolu University, Eskişehir, Turkey. [online presentation]
 
