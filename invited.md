@@ -13,7 +13,9 @@ lang: en
 
 ### 2022
 
-1. *(Re)activating the perception of space in language*. 31 May 2022. Center for Research in Language, University of California, San Diego, US.
+1. *Cognitive translation and interpreting studies*. 11 November 2022. Department of Translation and Interpreting, Dogus University, Turkey.
+
+2. *(Re)activating the perception of space in language*. 31 May 2022. Center for Research in Language, University of California, San Diego, US.
 
 ### 2021
 
