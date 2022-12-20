@@ -40,13 +40,18 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 # Work
 <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer review</b></a>
+- Oxford Bibliographies in Linguistics
+
 - Memory (SSCI Q1) (1)
 - Cognition (SSCI Q1) (1)
 - Psychological Research (SSCI Q1) (1)
 - Translation, Cognition & Behaviour (MLA) (1)
+
 - Dil Dergisi (TR Dizin) (2)
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
 - Dilbilim Öğrenci Konferansı (2)
+
+- TÜBİTAK UPAG - ULUSLARARASI İŞBİRLİĞİ PROJELERİ ARAŞTIRMA DESTEK GRUBU (1)
 - TÜBİTAK BİDEB 2209-A (6)
 
 **Supervised Theses**
