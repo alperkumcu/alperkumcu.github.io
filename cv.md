@@ -48,7 +48,7 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 - Translation, Cognition & Behaviour (MLA) (1)
 
 - Dil Dergisi (TR Dizin) (2)
-- Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (1)
+- Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (3)
 - Dilbilim Öğrenci Konferansı (2)
 
 - TÜBİTAK UPAG - ULUSLARARASI İŞBİRLİĞİ PROJELERİ ARAŞTIRMA DESTEK GRUBU (1)
