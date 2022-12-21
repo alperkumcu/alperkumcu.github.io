@@ -1,7 +1,7 @@
 ---
 layout: page
-title: invited talks
-permalink: /invited/
+title: science communication
+permalink: /scicomm/
 lang: en
 ---
 
