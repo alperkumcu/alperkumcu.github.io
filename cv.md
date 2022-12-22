@@ -38,46 +38,6 @@ Department of Translation and Interpreting, Hacettepe University, Ankara, Turkey
 
 <hr>
 
-# Work
-<a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer review</b></a>
-- Oxford Bibliographies in Linguistics (1)
-
-- Memory (SSCI Q1) (1)
-- Cognition (SSCI Q1) (1)
-- Psychological Research (SSCI Q1) (1)
-- Translation, Cognition & Behaviour (MLA) (1)
-
-- Dil Dergisi (TR Dizin) (2)
-- Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (3)
-- Dilbilim Öğrenci Konferansı (2)
-
-- TÜBİTAK UPAG - ULUSLARARASI İŞBİRLİĞİ PROJELERİ ARAŞTIRMA DESTEK GRUBU (1)
-- TÜBİTAK BİDEB 2209-A (6)
-
-**Supervised Theses**
-- Tarım, B. (2023). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.
-
-**Editorial Administration**
-- Co-editor - Translation, Cognition & Behaviour (MLA, SCOPUS) (January 2023 - )
-- Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
-
-**Grants & Projects**
-- 1002 - Hızlı Destek	Araştırmacı/Uzman	122K664	Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme	K:19/07/2022
-- Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
-
-**Interviews, news & non-academic articles**
-- <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)
-- Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)
-- Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News. (en)
-
-**Audio-visual**
-- <a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>
-A video series in which I interrview my academic friends about their academic work.
-- <a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>
-A photoblog with my pictures of street art in various forms from different parts of the world.
-
-<hr>
-  
 # Skills
 **Programming languages**
 - R - advanced - years of experience: +5
