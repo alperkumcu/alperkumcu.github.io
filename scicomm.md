@@ -42,3 +42,15 @@ lang: en
 ### 2011
 
 1. *Interpreting: An outlook for students*. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.
+
+
+**Interviews, news & non-academic articles**
+- <a href="https://www.cevirikitabi.com/cevirmenler-ne-isler-ceviriyor/ars-gor-alper-kumcu/" target="_blank">Çeviri Kitabı</a> (tr)
+- Turkish translators seek to be protected by law. Hurriyet Daily News. 29 September 2010. (en)
+- Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News. (en)
+
+**Audio-visual**
+- <a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>
+A video series in which I interrview my academic friends about their academic work.
+- <a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>
+A photoblog with my pictures of street art in various forms from different parts of the world.
