@@ -5,7 +5,7 @@ permalink: /other/
 lang: en
 ---
 
-# <a href="https://publons.com/researcher/1692089/alper-kumcu/peer-review/" target="_blank"><b>Peer review</b></a>
+# [Peer review](https://publons.com/researcher/1692089/alper-kumcu/peer-review)
 - Oxford Bibliographies in Linguistics (1)
 
 - Memory (SSCI Q1) (1)
@@ -19,13 +19,14 @@ lang: en
 
 - TÜBİTAK UPAG - ULUSLARARASI İŞBİRLİĞİ PROJELERİ ARAŞTIRMA DESTEK GRUBU (1)
 - TÜBİTAK BİDEB 2209-A (6)
-**Editorial Administration**
+
+# Editorial Administration
 - Co-editor - Translation, Cognition & Behaviour (MLA, SCOPUS) (January 2023 - )
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
 
-**Grants & Projects**
+# Grants & Projects
 - 1002 - Hızlı Destek	Araştırmacı/Uzman	122K664	Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme	K:19/07/2022
 - Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
-- 
-**Supervised Theses**
+
+# Supervised Theses
 - Tarım, B. (2023). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.
