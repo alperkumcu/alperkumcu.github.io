@@ -17,7 +17,7 @@ I work as a co-editor at [Translation, Cognition & Behaviour](https://benjamins.
 # Education
 * PhD in Psychology, 2019<br>
 University of Birmingham<br>
-Thesis title: Looking for language in space: Spatial simulations in memory for language ([.html])(https://etheses.bham.ac.uk/id/eprint/8842/)([on the web])(thesis.md)<br>
+Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.pdf</a>)(<a href="thesis.md" target="_blank">.on the web</a>)<br>
 Supervisor: Dr Robin L Thompson<br>
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)
 
