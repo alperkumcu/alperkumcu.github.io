@@ -17,7 +17,7 @@ lang: en
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (3)
 - Dilbilim Öğrenci Konferansı (2)
 
-- TÜBİTAK UPAG - ULUSLARARASI İŞBİRLİĞİ PROJELERİ ARAŞTIRMA DESTEK GRUBU (1)
+- TÜBİTAK UPAG 1071 (1)
 - TÜBİTAK BİDEB 2209-A (6)
 
 # Editorial Administration
