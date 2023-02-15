@@ -10,7 +10,7 @@ lang: en
 ### SSCI
 1. Kumcu, A., & Öztürk, A. (). Can you see it in a different colour? Visual mental imagery control predicts consecutive interpreting performance. (under review) [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
-2. Kumcu, A., & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*, *75*(9), 1694-1710. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"} [**showcase**](https://link.growkudos.com/1n3kszmuw3k){:target="_blank"}
+2. Kumcu, A., & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*, *75*(9), 1694-1710. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"} [**showcase**](https://link.growkudos.com/1n3kszmuw3k){:target="_blank"} [**pdf**]([https://github.com/alperkumcu/alperkumcu.github.io/files/6416091/article-10.1515-applirev-2019-0064.pdf](https://github.com/alperkumcu/alperkumcu.github.io/blob/master/pdfs/Remembering%20Spatial%20Words%20Sensorimotor%20Simulation%20Affects%20Verbal%20Recognition%20Memory.pdf)){:target="_blank"}
 
 3. Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*, *36*(4), 241-255. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} [**data**](https://osf.io/2unvy/){:target="_blank"}
 
