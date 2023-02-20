@@ -6,9 +6,9 @@ lang: en
 ---
 
 ### 2022
-Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. 19-23 Ekim, 2022. Kaya İzmir Hotel & Convention Center, İzmir. [presentation in panel]
+Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. October 19-23, 2022. Kaya İzmir Hotel & Convention Center, İzmir, Turkey [presentation in panel]
 
-Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2021. NEU Sosyal ve Beşeri Bilimler Fakültesi, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
+Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2022. NEU Faculty of Social Sciences and Humanities, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
 
 ### 2021
 Kumcu, A., & Öztürk, A. (November, 2021). The role of mental imagery in consecutive interpreting: A simulation account. In Revisiting Interpreting in the Age of 4E Cognition (panel). *ICTIC3 (3rd International Conference on Translation, Interpreting & Cognition)*. November 2-5, 2021. Universita di Bologna, Forli, Italy. [online presentation in panel] [**data**](https://osf.io/gtxwa/){:target="_blank"}
