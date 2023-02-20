@@ -4,6 +4,9 @@ title: Hello
 lang: en
 ---
 
+![Flowers Banner](https://user-images.githubusercontent.com/10892413/220163467-00288e92-2028-4aed-9b78-dc1fdf5bcfaf.png)
+
+
 I am an Ankara-based researcher at Hacettepe University, Turkey. My research investigates language, memory and embodied cognition with a data-science-driven perspective and through eye movements.
 
 I'm an avid user of <a href="https://www.r-project.org" target="_blank">R</a> and a supporter of <a href="https://osf.io/5egx4" target="_blank">open, transparent and reproducible science.</a> I tend to think in `ggplot2` before any project and write in `markdown` where available. I like writing, coding, and analysing data with <a href="https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw" target="_blank">my tailor-made playlists</a> in the background. I believe the future is interdisciplinary research. I have experience in statistics, experimental design and programming along with reaction time experiments and eye tracking.
