@@ -4,7 +4,7 @@ title: Hello
 lang: en
 ---
 
-![banner](https://user-images.githubusercontent.com/10892413/220164867-6b111b26-0ff6-42cd-9906-d1a1594c091b.png)
+![banner](https://user-images.githubusercontent.com/10892413/220166184-04b857b4-cb94-4d3d-adb1-cfc1f3f2bf3c.png)
 
 I am an Ankara-based researcher at Hacettepe University, Turkey. My research investigates language, memory and embodied cognition with a data-science-driven perspective and through eye movements.
 
