@@ -19,7 +19,7 @@ lang: en
 
 - TÜBİTAK UPAG 1071 (1)
 - TÜBİTAK BİDEB 2209-A (6)
-- HACETTEPE BAP (PhD Thesis Project) (1)
+- HACETTEPE BAP (1)
 
 # Editorial Administration
 - Co-editor - Translation, Cognition & Behaviour (MLA, SCOPUS) (January 2023 - )
