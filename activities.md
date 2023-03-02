@@ -11,6 +11,7 @@ lang: en
 - Memory (SSCI Q1) (1)
 - Cognition (SSCI Q1) (1)
 - Psychological Research (SSCI Q1) (1)
+- The Interpreter and Translator Trainer (SSCI)
 - Translation, Cognition & Behaviour (MLA) (1)
 
 - Dil Dergisi (TR Dizin) (2)
