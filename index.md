@@ -59,4 +59,5 @@ Hacettepe University
 * TR-Dizin: <a href="https://app.trdizin.gov.tr/yazar/TWprek56a3lNZz09/alper-kumcu" target="_blank">TWprek56a3lNZz09</a>
 
 * OSF: <a href="https://osf.io/5egx4/" target="_blank">5egx4</a>
-* GitLab Pavlovia <a href="https://gitlab.pavlovia.org/alperkumcu">alperkumcu</a>
+* GitLab Pavlovia <a href="https://gitlab.pavlovia.org/alperkumcu" target="_blank">alperkumcu</a>
+* GitHub: <a href="https://github.com/alperkumcu" target="_blank">alperkumcu</a>
