@@ -47,7 +47,7 @@ Hacettepe University
 # IDs
 * ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
 * Google Scholar: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a>
-* WOS Researcher ID: <a href="https://publons.com/researcher/1692089/alper-kumcu/" target="_blank">E-5568-2012</a>
+* WOS Researcher ID/Publons: <a href="http://www.webofscience.com/wos/author/record/[E-5568-2012])" target="_blank">E-5568-2012</a>
 * Scopus ID: <a href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank">57203865908</a> 
 * Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a>
 * Impact Story: <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
