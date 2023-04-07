@@ -6,13 +6,14 @@ lang: en
 ---
 
 # [Peer review](https://publons.com/researcher/1692089/alper-kumcu/peer-review)
-- Oxford Bibliographies in Linguistics (1)
+- Oxford Bibliographies in Linguistics (1) 06.07.2020
 
-- Memory (SSCI Q1) (1)
-- Cognition (SSCI Q1) (1)
-- Psychological Research (SSCI Q1) (1)
-- The Interpreter and Translator Trainer (SSCI)
-- Translation, Cognition & Behaviour (MLA) (1)
+- The Interpreter and Translator Trainer (SSCI ) 19.03.2023
+- Translation, Cognition & Behaviour (Scopus) (1) 08.09.2021
+- Memory (SSCI Q1) (1) 04.03.2021
+- Psychological Research (SSCI Q1) (1) 03.05.2020
+- Cognition (SSCI Q1) (1) 18.12.2019
+
 
 - Dil Dergisi (TR Dizin) (2)
 - Çeviribilim ve Uygulamaları Dergisi (TR Dizin) (3)
