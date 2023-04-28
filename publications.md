@@ -38,7 +38,7 @@ lang: en
 2. Cihan, A., Gökduman, U., & Kumcu, A. (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation. in B. Süverdem & (Eds.), *Synergy 2022: Linguistics*. Peter Lang. (submitted)
+1. Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives*. Peter Lang.
 
 2. Kumcu, A., & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i> (pp. 2387-2392). Cognitive Science Society.
 
