@@ -16,15 +16,15 @@ Kumcu, A., & Öztürk, A. (November, 2021). The role of mental imagery in consec
 Kumcu, A., & Yağlı, E. (August, 2021). Sensory Norms for 925 Words. *20th ICTL (International Conference on Turkish Linguistics) 2020*. August 2-4, 2021. Anadolu University, Eskişehir, Turkey. [online presentation]
 
 ### 2019
-Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". *Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı*. Amasya, Turkey. [presentation]
+Kumcu, A. (October, 2019). "Deneysel Çeviribilim Araştırmalarında Yöntem, Analiz ve Yayın: Sorunlar ve Öneriler". *Türkiye’de Çeviribilim Araştırmalarının Yayın Sorunları Çalıştayı*. October 18, 2019. Amasya, Turkey. [presentation]
 
-Kumcu, A., & Thompson, R. L. (August, 2019). "Recent advances in research on the looking at nothing". *20th European Conference on Eye Movements ECEM 2019*. Alicante, Spain. [presentation]
+Kumcu, A., & Thompson, R. L. (August, 2019). "Recent advances in research on the looking at nothing". *20th European Conference on Eye Movements ECEM 2019*. August 18-22, 2019. Alicante, Spain. [presentation]
 
 Dinçer, H., Antonova-Ünlü, E., & Kumcu, A. (April, 2019). Study Examining the Validity of Translation Items Used in the
 National English Proficiency Exams in Turkey. *5th International Conference on Teaching and Learning English as an Additional Language GlobELT 2019*. Kyrenia, Cyprus. [presentation]
 
 ### 2017
-Kumcu, A., & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. *23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference*. September 7 -9, 2017. University of Leicester, Leicester, UK. [poster]
+Kumcu, A., & Thompson, R. L. (2017). Less imageable and abstract words lead to more looking at nothing. *23rd AMLaP (Architectures and Mechanisms of Language Processing) Conference*. September 7-9, 2017. University of Leicester, Leicester, UK. [poster]
 
 Kumcu, A., & Thompson, R. L. (June, 2017). Where is Language? Measuring coordinates for 1468 words. *Research Poster Conference*. 12 June, 2017. University of Birmingham, UK. [poster]
 
