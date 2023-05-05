@@ -8,7 +8,7 @@ lang: en
 ## Papers
 
 ### SSCI
-1. Kumcu, A., & Öztürk, A. (2023). Visual Mental Imagery and Verbal Working Memory: Evidence from Consecutive Interpreting. Journal of Cognitive Psychology (in press) [**data**](https://osf.io/gtxwa/){:target="_blank"}
+1. Kumcu, A., & Öztürk, A. (2023). Visual mental imagery and verbal working memory: Evidence from consecutive interpreting. Journal of Cognitive Psychology (in press) [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
 2. Kumcu, A., & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*, *75*(9), 1694-1710. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"} [**showcase**](https://link.growkudos.com/1n3kszmuw3k){:target="_blank"} [**pdf**](https://alperkumcu.github.io/pdfs/Remembering%20Spatial%20Words%20Sensorimotor%20Simulation%20Affects%20Verbal%20Recognition%20Memory.pdf){:target="_blank"}
 
