@@ -9,7 +9,7 @@ Type: TÜBİTAK ARDEB 1002 - Hızlı Destek
 Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme  
 No: 122K664  
 Team: İpek Pınar Uzun (Yürütücü), Selin Çalışkan (Bursiyer Öğrenci)  
-Role: Researcher/Specialist
+Role: Researcher/Specialist  
 Date: 19/07/2022 -  
 
 Type: Gazi Üniversitesi BAP  
