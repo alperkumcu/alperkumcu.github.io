@@ -37,7 +37,7 @@ Kumcu, A., & Thompson, R. L. (April, 2016). The Memory is Out There: Spatial Int
 Kumcu, A., & Thompson, R. L. (April, 2015). "Looking at Nothing" for Verbal Memory. *Research Event of the School of Psychology*. University of Birmingham, UK. [poster]
 
 ### 2014
-Kumcu, A., & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. Can these eye lie? *International Conference on Eyetracking and Applied Linguistics*. 26-27  September, 2014. Warsaw, Poland. [presentation]
+Kumcu, A., & Thompson, R. L. (2014). Integrating auditory and visual language: An eye tracking study on multimodal language processing. Can these eyes lie? *International Conference on Eyetracking and Applied Linguistics*. 26-27  September, 2014. Warsaw, Poland. [presentation]
 
 Al-Qahtani, N., Kumcu, A., & Wheeldon, L. (April, 2014). Morphological, semantic and translation priming in word reading: Evidence from Arabic-English bilinguals. *Research Event of the School of Psychology*, University of Birmingham, UK. [poster]
 
