@@ -5,7 +5,7 @@ permalink: /talks/
 lang: en
 ---
 
-### 2022
+### 2023
 Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain [invited presentation]
 
 ### 2022
