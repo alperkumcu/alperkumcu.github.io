@@ -51,7 +51,8 @@ Hacettepe University
 * Scopus ID: <a href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank">57203865908</a> 
 * Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a>
 * Impact Story: <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
-* PhilPeople: <a href="https://philpeople.org/profiles/alper-kumcu" target="_blank">Alper Kumcu</a> 
+* PhilPeople: <a href="https://philpeople.org/profiles/alper-kumcu" target="_blank">Alper Kumcu</a>
+* Loop: <a href="https://loop.frontiersin.org/people/125772/overview" target="_blank">Alper Kumcu</a>
 
 * YÖK Researcher ID: <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">JBOSSN183</a>
 * TÜBİTAK ID: TBTK-0075-3470
