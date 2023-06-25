@@ -6,6 +6,9 @@ lang: en
 ---
 
 ### 2022
+Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain [invited presentation]
+
+### 2022
 Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. October 19-23, 2022. Kaya İzmir Hotel & Convention Center, İzmir, Turkey [presentation in panel]
 
 Kumcu, A. (May, 2022). Kötü günler geride kaldı: Türkçede uzam-zaman eşleşmesi. *35. Ulusal Dilbilim Kurultayı*. May 12-13, 2022. NEU Faculty of Social Sciences and Humanities, Konya, Turkey. [presentation] [**data**](https://osf.io/f4k9x/){:target="_blank"}
