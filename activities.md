@@ -5,7 +5,7 @@ permalink: /activities/
 lang: en
 ---
 
-# [Peer review]([https://publons.com/researcher/1692089/alper-kumcu/peer-review](https://www.webofscience.com/wos/author/record/E-5568-2012])
+# Peer review
 - Frontiers in Psychology (SSCI Q1) (1) .06.2023
 - The Quarterly Journal of Experimental Psychology (SSCI Q3) (1) 24.06.2023
 - The Interpreter and Translator Trainer (SSCI Q3) (1) 19.03.2023
@@ -33,4 +33,4 @@ lang: en
 - Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
 
 # Supervised Theses
-- Tarım, B. (2023). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.
+- Tarım, B. (). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.
