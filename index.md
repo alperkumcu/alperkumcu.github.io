@@ -62,3 +62,4 @@ Hacettepe University
 * OSF: <a href="https://osf.io/5egx4/" target="_blank">5egx4</a>
 * GitLab Pavlovia <a href="https://gitlab.pavlovia.org/alperkumcu" target="_blank">alperkumcu</a>
 * GitHub: <a href="https://github.com/alperkumcu" target="_blank">alperkumcu</a>
+* Rpubs: <a href="https://rpubs.com/AlperKumcu" target="_blank">AlperKumcu</a> 
