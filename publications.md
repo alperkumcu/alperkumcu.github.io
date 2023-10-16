@@ -19,8 +19,8 @@ lang: en
 5. Kumcu, A., & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
 
 ### TR Index
-1. Kumcu, A. (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Cankaya University Journal of Humanities and Social Sciences* (submitted)
-   
+1. Kumcu, A. (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences* (submitted)
+
 2. Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
