@@ -11,6 +11,12 @@ lang: en
 <p>Please get into touch via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker. I can deliver the talk face-to-face or online in English or Turkish. If possible, I'd just prefer not to attend all-male panels.</p>
 <br>
 
+### 2023
+
+1. 22 November 2023. Tübitak Science Talks.
+
+1. *Birds, worms, honesty and vanity: (Re)activating spatial perception in language*. 6 November 2023. Bilal Kırkıcı's Lab. Department of Foreign Languages Education, Middle East Technical University (METU)
+
 ### 2022
 
 1. *[Ruh sağlığı ve dil](https://youtu.be/6qRQiazbx5w)*. 22 November 2022. Psikiyatriden Gündeme. Türkiye Psikiyatri Derneği.
@@ -41,7 +47,7 @@ lang: en
 
 ### 2011
 
-1. *Interpreting: An outlook for students*. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University, Ankara, Turkey.
+1. *Interpreting: An outlook for students*. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University (METU), Ankara, Turkey.
 
 
 **Interviews, news & non-academic articles**
