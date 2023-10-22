@@ -13,9 +13,9 @@ lang: en
 
 ### 2023
 
-1. 22 November 2023. Tübitak Science Talks.
+1. 22 November 2023. Kastamonu. Tübitak Science Talks.
 
-1. *Birds, worms, honesty and vanity: (Re)activating spatial perception in language*. 6 November 2023. Bilal Kırkıcı's Lab. Department of Foreign Languages Education, Middle East Technical University (METU)
+1. *Birds, worms, honesty and vanity: (Re)activating spatial perception in language*. 6 November 2023. Bilal Kırkıcı's Lab, Department of Foreign Languages Education, Middle East Technical University (METU), Turkey.
 
 ### 2022
 
