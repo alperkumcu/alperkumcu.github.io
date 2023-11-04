@@ -8,9 +8,9 @@ lang: en
 Type: TÜBİTAK ARDEB 1002 - Hızlı Destek  
 Title: 
 No:   
-Team: Alper Kumcu (Yürütücü), Emre Yağlı (Araştırmacı)  
-Role: Researcher/Specialist  
-Date: 19/07/2022 -  15/11/2023
+Team: Emre Yağlı (Araştırmacı)  
+Role: Project Coordinator
+Date:  -  
 
 Type: TÜBİTAK ARDEB 1002 - Hızlı Destek  
 Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme  
@@ -26,6 +26,3 @@ No: TTU-2022-7837
 Team: Selçuk Candansayar, Meltem Çınar Bozdağ, Lütfi Kerem Şenel, Havva Nur Temizkan, Özge Özil, İrem Arslanyürek, Pınar Nazlı Ertekin  
 Role: Researcher/Specialist  
 Date: 07/07/2022 - 07/07/2023
-
-
-
