@@ -6,13 +6,15 @@ lang: en
 ---
 
 ### 2024
-Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *3rd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Berterino, Italy [invited presentation]
+Kumcu, A., & Duman, D. (September, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *International Congress of Linguists (ICL) 2024*. September 8-14, 2024. Poznań, Poland. [presentation]
+
+Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *3rd Meeting of Bertinoro Translation Society*. June 18-21, 2024. Bertinoro, Italy. [invited presentation]
 
 ### 2023
 Çalışkan, S., Uzun, İ. P., & Kumcu, A. (September 2023). Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Görsel Dünya Paradigması Örneği. *1.Ulusal Nörogörüntüleme Kongresi & 2nd Joint German-Turkish Symposium on Human Neuroscience*. September 7-9, 2023. Nörobilim ve Nöroteknoloji Mükemmeliyet Ortak
-Uygulama ve Araştırma Merkezi (NÖROM), Ankara, Turkey.
+Uygulama ve Araştırma Merkezi (NÖROM), Ankara, Turkey. [poster]
 
-Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain [invited presentation]
+Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain. [invited presentation]
 
 ### 2022
 Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. October 19-23, 2022. Kaya İzmir Hotel & Convention Center, İzmir, Turkey [presentation in panel]
