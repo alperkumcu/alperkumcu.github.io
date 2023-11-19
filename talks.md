@@ -11,8 +11,7 @@ Kumcu, A., & Duman, D. (September, 2024). Disambiguation of cognitive and emotio
 Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *3rd Meeting of Bertinoro Translation Society*. June 18-21, 2024. Bertinoro, Italy. [invited presentation]
 
 ### 2023
-Çalışkan, S., Uzun, İ. P., & Kumcu, A. (September 2023). Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Görsel Dünya Paradigması Örneği. *1.Ulusal Nörogörüntüleme Kongresi & 2nd Joint German-Turkish Symposium on Human Neuroscience*. September 7-9, 2023. Nörobilim ve Nöroteknoloji Mükemmeliyet Ortak
-Uygulama ve Araştırma Merkezi (NÖROM), Ankara, Turkey. [poster]
+Çalışkan, S., Uzun, İ. P., & Kumcu, A. (September 2023). Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Görsel Dünya Paradigması Örneği. *1.Ulusal Nörogörüntüleme Kongresi & 2nd Joint German-Turkish Symposium on Human Neuroscience*. September 7-9, 2023. NEUROSCIENCE AND NEUROTECHNOLOGY CENTER OF EXCELLENCE (NÖROM), Ankara, Turkey. [poster]
 
 Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain. [invited presentation]
 
