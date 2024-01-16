@@ -15,6 +15,9 @@ Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional l
 
 Kumcu, A. (June, 2023). Mental imagery, emotionality, and stress in simultaneous interpreting. *2nd Meeting of Bertinoro Translation Society*. June 18-21, 2023. Cape Palos, Murcia, Spain. [invited presentation]
 
+Çalışkan, S., Uzun, İ. P., & Kumcu, A. (May 2023). Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Görsel Dünya Paradigması Örneği. *36. Ulusal Dilbilim Kurultayı*. May 11-12, 2023. Erciyes University, Kayseri, Turkey. [presentation]
+
+
 ### 2022
 Kumcu, A. (October, 2022). Dilbilim perspektifinden düşünce ve anlam. *58. Ulusal Psikiyatri Kongresi*. October 19-23, 2022. Kaya İzmir Hotel & Convention Center, İzmir, Turkey [presentation in panel]
 
