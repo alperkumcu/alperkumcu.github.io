@@ -8,6 +8,7 @@ lang: en
 ### Summer Schools
 
 - [CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022 ](4e.md)
+- [METU R Workshop 2024 ](R.md)
 
 ### Workshops
 
