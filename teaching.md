@@ -5,12 +5,10 @@ permalink: /teaching/
 lang: en
 ---
 
-### Summer Schools
+### Summer Schools/Workshops
 
-- [CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022 ](4e.md)
 - [METU R Workshop 2024 ](R.md)
-
-### Workshops
+- [CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022 ](4e.md)
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
 - Interpreting and note-taking. 24-29 January 2011. Azerbaijan University of Languages, Baku, Azerbaijan.
