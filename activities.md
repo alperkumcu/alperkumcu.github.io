@@ -12,7 +12,9 @@ lang: en
 - Translation, Cognition & Behaviour (Scopus) (1) 08.09.2021
 - Memory (SSCI Q1) (1) 04.03.2021
 - Psychological Research (SSCI Q1) (1) 03.05.2020
-- Cognition (SSCI Q1) (1) 18.12.2019
+- Cognition (SSCI Q1) (2) 18.12.2019 - 12.02.2024
+- Nature Humanities and Social Sciences Communications (SSCI Q1)
+- Applied Psycholinguistics (SSCI Q1)
 
 - Oxford Bibliographies in Linguistics (1) 06.07.2020
 
