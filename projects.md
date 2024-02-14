@@ -5,12 +5,25 @@ permalink: /projects/
 lang: en
 ---
 
-Type: TÜBİTAK (The Scientific and Technological Research Council of Turkey) ARDEB 1002 - Hızlı Destek  
+# In Progress
+
+Type: TÜBİTAK (The Scientific and Technological Research Council of Turkey) ARDEB 1002 - Hızlı Destek
 Title: 
 No:   
 Team: Emre Yağlı (Researcher)  
 Role: PI  
-Date:  -  
+Date: 
+
+# Active
+
+Type: European Cooperation in Science and Technology (COST) 
+Title: MultiplEYE - Enabling multilingual eye-tracking data collection for human and machine language processing research
+No: CA21131  
+Team: 
+Role: Member in Working Group 2: Experiment design & methodology 
+Date: 13/02/2024 -  xx/xx/2026
+
+# Completed
 
 Type: TÜBİTAK (The Scientific and Technological Research Council of Turkey) ARDEB 1002 - Hızlı Destek  
 Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme  
