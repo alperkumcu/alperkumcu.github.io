@@ -6,13 +6,13 @@ lang: en
 ---
 
 # Peer review
-- Frontiers in Psychology (SSCI Q1) (1) .06.2023
+- Frontiers in Psychology (SSCI Q1) (2) 10.06.2023, 15.02.2024
 - The Quarterly Journal of Experimental Psychology (SSCI Q3) (2) 24.06.2023
 - The Interpreter and Translator Trainer (SSCI Q3) (1) 19.03.2023
 - Translation, Cognition & Behaviour (Scopus) (1) 08.09.2021
 - Memory (SSCI Q1) (1) 04.03.2021
 - Psychological Research (SSCI Q1) (1) 03.05.2020
-- Cognition (SSCI Q1) (2) 18.12.2019 - 12.02.2024
+- Cognition (SSCI Q1) (2) 18.12.2019, 12.02.2024
 - Nature Humanities and Social Sciences Communications (SSCI Q1)
 - Applied Psycholinguistics (SSCI Q1)
 
