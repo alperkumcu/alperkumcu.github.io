@@ -10,7 +10,7 @@ lang: en
 ### SSCI
 1. Bozdağ. M. Ç., Şenel, L. K., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (in preparation)
 
-2. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The effect of syntactic structure and distance on sentence processing: Evidence from visual world paradigm. *Cogntion*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807) {:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
+2. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The effect of syntactic structure and distance on sentence processing: Evidence from visual world paradigm. *Cogntion*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
 
 3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
