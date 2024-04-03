@@ -13,19 +13,23 @@ lang: en
 
 ### 2024
 
-1. *Bedenlenmiş Biliş ve Dil Rehabilitasyonu* (Embodied Cognition and Language Rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
-2. *Psikoloji (Öğrencileri) Psikodilbilimden Ne Öğrenebilir?* (What Can (Students of) Psychology Learn from Psycholinguistics?). 14-15 May 2024. Department of Psychology. Muğla Sıtkı Koçman University (face to face)
-3. *Bilişsel Çeviri Çalışmalarında Güncel Eğilimler* (Current Trends in Cognitive Translation Studies). 20 April 2024. Department of Translation and Interpreting Studies. Boğaziçi University (online)
+1. *Bedenlenmiş biliş ve dil rehabilitasyonu* (Embodied cognition and language rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
+
+2. *Psikoloji (öğrencileri) psikodilbilimden ne öğrenebilir?* (What can (students of) psychology learn from psycholinguistics?). 14-15 May 2024. Department of Psychology. Muğla Sıtkı Koçman University (face to face)
+  
+3. *Bilişsel çeviri çalışmalarında güncel eğilimler* (Current trends in cognitive translation studies). 20 April 2024. Department of Translation and Interpreting Studies. Boğaziçi University (online)
+   
+4. *Türkçe konuşan şizofreni hastalarında dil kullanımı* (Language use in Turkish-speaking schizophrenia patients). 15 March 2024. Hacettepe University Student Society of Linguistics, Ankara, Turkey. (face to face)
 
 ### 2023
 
 1. 22 November 2023. Kastamonu. Tübitak Science Talks.
 
-1. *Birds, worms, honesty and vanity: (Re)activating spatial perception in language*. 6 November 2023. Bilal Kırkıcı's Lab, Department of Foreign Languages Education, Middle East Technical University (METU), Turkey.
+2. *Birds, worms, honesty and vanity: (Re)activating spatial perception in language*. 6 November 2023. Bilal Kırkıcı's Lab, Department of Foreign Languages Education, Middle East Technical University (METU), Turkey.
 
 ### 2022
 
-1. *[Ruh sağlığı ve dil](https://youtu.be/6qRQiazbx5w)*. 22 November 2022. Psikiyatriden Gündeme. Türkiye Psikiyatri Derneği.
+1. *[Ruh sağlığı ve dil](https://youtu.be/6qRQiazbx5w)* (Mental health and language). 22 November 2022. Psikiyatriden Gündeme. Türkiye Psikiyatri Derneği.
 
 2. *Cognitive translation and interpreting studies*. 11 November 2022. Department of Translation and Interpreting, Dogus University, Turkey.
 
@@ -33,13 +37,13 @@ lang: en
 
 ### 2021
 
-1. *Bir psikiyatr bir dilbilimciden ne öğrenebilir?* 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. (English title: What can a psychiatrist learn from a language scientist?)
+1. *Bir psikiyatr bir dilbilimciden ne öğrenebilir?* (What can a psychiatrist learn from a language scientist?). 16 December 2021. Faculty of Medicine, Gazi University, Ankara, Turkey. 
 
-2. *Çevrimiçi göz-izleme teknolojileri ve çeviribilim kapsamında olası araştırmalara bir örnek*. 29 September 2021. MTB Graduate Seminars 2021-22, Ankara, Turkey. (English title: Online eye tracking and a case study within the framework of translation studies.)
+2. *Çevrimiçi göz-izleme teknolojileri ve çeviribilim kapsamında olası araştırmalara bir örnek* (Online eye tracking and a case study within the framework of translation studies). 29 September 2021. MTB Graduate Seminars 2021-22, Ankara, Turkey. 
 
-3. *Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler*. 19 April 2021. Haliç University, İstanbul, Turkey. (English title: Problems in the act of interpreting and cognitive solutions)
+3. *Sözlü çeviri uygulamasında sorunlar ve bilişsel çözümler* (Problems in the act of interpreting and cognitive solutions). 19 April 2021. Haliç University, İstanbul, Turkey. 
 
-4. *[Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek](https://youtu.be/akA4Bxs--UQ)*. 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. (English title: Language and memory from a grounded-embodied point of view)
+4. *[Gömülü - bedenlenmiş biliş bakış açısıyla dil ve bellek](https://youtu.be/akA4Bxs--UQ)* (Language and memory from a grounded-embodied point of view). 17 March 2021. Zihin ve Bilinç Zirvesi, Ankara, Turkey. 
 
 5. *The interplay of space, perception and language: Evidence from eye movements and verbal recognition memory*. 9 March 2021. School of Psychology, Aston University, Birmingham, UK.
 
