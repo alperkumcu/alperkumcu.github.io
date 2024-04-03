@@ -11,6 +11,12 @@ lang: en
 <p>Please get into touch via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker. I can deliver the talk face-to-face or online in English or Turkish.</p>
 <br>
 
+### 2024
+
+1. *Bedenlenmiş Biliş ve Dil Rehabilitasyonu* (Embodied Cognition and Language Rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
+2. *Psikoloji (Öğrencileri) Psikodilbilimden Ne Öğrenebilir?* (What Can (Students of) Psychology Learn from Psycholinguistics?). 14-15 May 2024. Department of Psychology. Muğla Sıtkı Koçman University (face to face)
+3. *Bilişsel Çeviri Çalışmalarında Güncel Eğilimler* (Current Trends in Cognitive Translation Studies). 20 April 2024. Department of Translation and Interpreting Studies. Boğaziçi University (online)
+
 ### 2023
 
 1. 22 November 2023. Kastamonu. Tübitak Science Talks.
