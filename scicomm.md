@@ -66,6 +66,7 @@ lang: en
 - Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News. (en)
 
 **Audio-visual**
+- [TRT Radyo 1 Yaşamı Fark Et](https://www.trtdinle.com/show/yasami-fark-et?id=16837414){:target="_blank"}
 - <a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>
 A video series in which I interrview my academic friends about their academic work.
 - <a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>
