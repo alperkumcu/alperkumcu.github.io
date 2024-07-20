@@ -42,11 +42,11 @@ lang: en
 2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. **Kumcu, A.** (2022). <a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation.</a> In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang.
+1. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang.
 
-3. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
+2. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
 
-4. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
+3. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
 
 ### Translation
 1. Brockman, J. (Ed.). (2014). *Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar*. (N. Büyükkantarcıoğlu & **A. Kumcu**, Trans.). Tübitak Popüler Bilim Yayınları. (Original work published 2003). (Original Title: The New Humanists: Science at the Edge)
