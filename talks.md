@@ -6,7 +6,7 @@ lang: en
 ---
 
 ### 2024
-Kumcu, A., & Duman, D. (September, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *International Congress of Linguists (ICL) 2024*. September 8-14, 2024. Poznań, Poland. [presentation]
+Kumcu, A., & Duman, D. (September, 2024). Interpreting under stress: The differential effects of emotional and cognitive load. *International Congress of Linguists (ICL) 2024*. September 8-14, 2024. Poznań, Poland. [presentation]
 
 Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *3rd Meeting of Bertinoro Translation Society*. June 18-21, 2024. Bertinoro, Italy. [invited presentation]
 
