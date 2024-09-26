@@ -13,13 +13,15 @@ lang: en
 
 ### 2024
 
-1. *Bedenlenmiş biliş ve dil rehabilitasyonu* (Embodied cognition and language rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
+1. *Waves of Emotion: Uncovering Cognitive-Affective Dynamics in Interpreting with Prosodic Cues and Electrodermal Responses* 30 September 2024. Interpreting: Cognition and Technology Symposium. Bogazici University, Department of Translation and Interpreting Studies, Istanbul, Turkey.
 
-2. *Psikoloji (öğrencileri) psikodilbilimden ne öğrenebilir?* (What can (students of) psychology learn from psycholinguistics?). 14-15 May 2024. Department of Psychology. Muğla Sıtkı Koçman University (face to face)
+2. *Bedenlenmiş biliş ve dil rehabilitasyonu* (Embodied cognition and language rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
+
+3. *Psikoloji (öğrencileri) psikodilbilimden ne öğrenebilir?* (What can (students of) psychology learn from psycholinguistics?). 14-15 May 2024. Department of Psychology. Muğla Sıtkı Koçman University (face to face)
   
-3. *Bilişsel çeviri çalışmalarında güncel eğilimler* (Current trends in cognitive translation studies). 20 April 2024. Department of Translation and Interpreting Studies. Boğaziçi University (online)
+4. *Bilişsel çeviri çalışmalarında güncel eğilimler* (Current trends in cognitive translation studies). 20 April 2024. Department of Translation and Interpreting Studies. Boğaziçi University (online)
    
-4. *Türkçe konuşan şizofreni hastalarında dil kullanımı* (Language use in Turkish-speaking schizophrenia patients). 15 March 2024. Hacettepe University Student Society of Linguistics, Ankara, Turkey. (face to face)
+5. *Türkçe konuşan şizofreni hastalarında dil kullanımı* (Language use in Turkish-speaking schizophrenia patients). 15 March 2024. Hacettepe University Student Society of Linguistics, Ankara, Turkey. (face to face)
 
 ### 2023
 
