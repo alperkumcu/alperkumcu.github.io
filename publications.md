@@ -45,9 +45,9 @@ lang: en
 2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. **Kumcu, A.** (2025). [It’s high time: A corpus and NLP-based investigation of the time metaphors in Turkish](https://alperkumcu.github.io/pdfs/.pdf){:target="_blank"}. In H. Cangir, x. x (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. xx-xx). IGI Global. [**data**](https://osf.io/){:target="_blank"}
+1. **Kumcu, A.** (2025). [It’s high time: A corpus and NLP-based investigation of the time metaphors in Turkish](https://alperkumcu.github.io/pdfs/.pdf){:target="_blank"}. In H. Cangir, x. x (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. xx-xx). IGI Global. [**data**](https://osf.io/ynwdm/){:target="_blank"}
 
-2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang.
+2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"}
 
 3. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
 
