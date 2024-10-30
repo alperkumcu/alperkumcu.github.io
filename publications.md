@@ -9,7 +9,7 @@ lang: en
 
 ### SSCI
 
-1. Uzun, İ. P., & **Kumcu, A.**. (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Applied Psycholinguistics*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
+1. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Applied Psycholinguistics*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
 
 2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (in preparation)
 
@@ -45,13 +45,13 @@ lang: en
 2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. **Kumcu, A.** (2025). [It’s high time: A corpus and NLP-based investigation of the time metaphors in Turkish](https://alperkumcu.github.io/pdfs/.pdf){:target="_blank"}. In H. Cangir, x. x (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. xx-xx). IGI Global. [**data**](https://osf.io/ynwdm/){:target="_blank"}
+1. **Kumcu, A.** (2025). [It’s high time: A corpus and NLP-based investigation of the time metaphors in Turkish](https://alperkumcu.github.io/pdfs/.pdf){:target="_blank"}. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. xx-xx). IGI Global. [**data**](https://osf.io/ynwdm/){:target="_blank"}
 
 2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"}
 
 3. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
 
-4. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.), <i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
+4. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar(Ed.),<i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
 
 ### Translation
 1. Brockman, J. (Ed.). (2014). *Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar*. (N. Büyükkantarcıoğlu & **A. Kumcu**, Trans.). Tübitak Popüler Bilim Yayınları. (Original work published 2003). (Original Title: The New Humanists: Science at the Edge)
