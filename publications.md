@@ -47,7 +47,7 @@ lang: en
 ### Book chapters
 1. **Kumcu, A.** (2025). [It’s high time: A corpus and NLP-based investigation of the time metaphors in Turkish](https://alperkumcu.github.io/pdfs/.pdf){:target="_blank"}. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. xx-xx). IGI Global. [**data**](https://osf.io/ynwdm/){:target="_blank"}
 
-2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: blue; margin-left: 5px;">"Cite"</span>
+2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: lightblue; text-decoration: bold; margin-left: 5px;">"Cite"</span>
 
 <script>
 function copyCitation() {
