@@ -49,6 +49,19 @@ lang: en
 
 2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"}
 
+<button onclick="copyCitation()" style="padding: 5px 10px; margin-top: 5px;">Cite This</button>
+
+<script>
+function copyCitation() {
+  const citationText = "Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation. In B. Süverdem & S. Tekalp (Eds.), Linguistics: Cross-Cultural Perspectives (pp. 29-49). Peter Lang.";
+  navigator.clipboard.writeText(citationText).then(() => {
+    alert("Citation copied to clipboard!");
+  }).catch((error) => {
+    console.error("Failed to copy citation: ", error);
+  });
+}
+</script>
+
 3. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
 
 4. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar(Ed.),<i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
