@@ -7,32 +7,39 @@ lang: en
 
 ### Video
 
-Anadolu Ajansı
+#### Anadolu Ajansı
+
+<video width="640" height="360" controls>
+  <source src="/videos/aa.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+#### Türkiye Psikiyatri Derneği
+
+<video width="640" height="360" controls>
+  <source src="/videos/tpd.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+#### Boğaziçi Üniversitesi
 
 <video width="640" height="360" controls>
   <source src="aa.mp4" type="video/mp4">
   Anadolu Ajansı.
 </video>
 
-Türkiye Psikiyatri Derneği
+#### HÜ İletişim Fakültesi - Dijital Hikaye Atölyesi
 
 <video width="640" height="360" controls>
-  <source src="aa.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-Boğaziçi Üniversitesi
-
-<video width="640" height="360" controls>
-  <source src="aa.mp4" type="video/mp4">
+  <source src="/videos/dhö.mp4" type="video/mp4">
   Anadolu Ajansı.
 </video>
 
 ### Audio
 
-TRT Radyo 1
+#### TRT Radyo 1
 
-<video width="640" height="360" controls>
-  <source src="aa.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
+<audio controls>
+  <source src="/audio/aa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
