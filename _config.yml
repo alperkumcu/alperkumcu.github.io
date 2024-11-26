@@ -1,5 +1,5 @@
 title: Dr Alper Kumcu
-author: TwoThousandTwentyFour
+author: TwoThousandTwentyFive
 email: alperkumcu[at]gmail.com
 description: ex nihilo nihil fit
 
@@ -30,7 +30,6 @@ minima:
 
 header_pages:
   - publications.md
-  - projects.md
   - talks.md
   - scicomm.md
   - activities.md
