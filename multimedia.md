@@ -35,6 +35,34 @@ lang: en
   Anadolu Ajansı.
 </video>
 
+#### Cogist 1
+
+<video width="640" height="360" controls>
+  <source src="/videos/dhö.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+#### Cogist 2
+
+<video width="640" height="360" controls>
+  <source src="/videos/dhö.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+#### HÜDİT 1
+
+<video width="640" height="360" controls>
+  <source src="/videos/dhö.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+#### HÜDİT 2
+
+<video width="640" height="360" controls>
+  <source src="/videos/dhö.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
 ### Audio
 
 #### TRT Radyo 1
