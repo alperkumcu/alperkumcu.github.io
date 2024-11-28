@@ -79,6 +79,15 @@ lang: en
 
 <br>
 
+#### Bilinç ve Zihin Zirvesi
+
+<video width="640" height="360" controls>
+  <source src="/videos/bzz.mp4" type="video/mp4">
+  Anadolu Ajansı.
+</video>
+
+<br>
+
 ### Audio
 
 #### TRT Radyo 1
@@ -89,3 +98,10 @@ lang: en
 </audio>
 
 <br>
+
+#### Aston University
+
+<audio controls>
+  <source src="/audio/aa.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
