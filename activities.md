@@ -5,9 +5,9 @@ permalink: /activities/
 lang: en
 ---
 
-# Projects
+## Projects
 
-## In Progress
+### In Progress
 
 Type: TÜBİTAK (The Scientific and Technological Research Council of Turkey) ARDEB 1002 - Hızlı Destek
 Title: 
@@ -16,7 +16,7 @@ Team: Emre Yağlı (Researcher)
 Role: PI  
 Date: 
 
-## Active
+### Active
 
 Type: European Cooperation in Science and Technology (COST) 
 Title: MultiplEYE - Enabling multilingual eye-tracking data collection for human and machine language processing research
@@ -25,7 +25,7 @@ Team:
 Role: Member in Working Group 2: Experiment design & methodology 
 Date: 13/02/2024 -  xx/xx/2026
 
-## Completed
+### Completed
 
 Type: TÜBİTAK (The Scientific and Technological Research Council of Turkey) ARDEB 1002 - Hızlı Destek  
 Title: Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme  
@@ -42,8 +42,11 @@ Team: Selçuk Candansayar, Meltem Çınar Bozdağ, Lütfi Kerem Şenel, Havva Nu
 Role: Researcher/Specialist  
 Date: 07/07/2022 - 07/07/2023
 
+## Grants & Projects
+- TÜBİTAK 1002 - Hızlı Destek	Araştırmacı/Uzman	122K664	Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme	K:19/07/2022
+- Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
 
-# Peer review
+## Peer review
 - Frontiers in Psychology (SSCI Q1) (2) 10.06.2023, 15.02.2024
 - The Quarterly Journal of Experimental Psychology (SSCI Q3) (2) 24.06.2023
 - Memory (SSCI Q1) (1) 04.03.2021
@@ -66,13 +69,9 @@ Date: 07/07/2022 - 07/07/2023
 - TÜBİTAK BİDEB 2209-A (6)
 - HACETTEPE BAP (1)
 
-# Editorial Administration
+## Editorial Administration
 - Co-editor - Translation, Cognition & Behaviour (MLA, SCOPUS) (January 2023 - )
 - Associate editor - Hacettepe Üniversitesi Journal of Faculty of Letters (TR Dizin) (11 February 2020 - 10 February 2021)
 
-# Grants & Projects
-- TÜBİTAK 1002 - Hızlı Destek	Araştırmacı/Uzman	122K664	Türkçe Sözdizimsel Hiyerarşide Çalışma Belleğinin Rolü: Göz Hareketlerini İzleme Tekniğine Dayalı Bir Çözümleme	K:19/07/2022
-- Project assistant - Optimale Project: Optimising professional translator training in a multilingual Europe (2011 - 2013)
-
-# Supervised Theses
+## Supervised Theses
 - Tarım, B. (). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.

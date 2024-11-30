@@ -57,7 +57,7 @@ lang: en
     <a href="aa.md">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="/multimedia/aa.md" class="video-title">Anadolu Ajansı</a>
+    <a href="https://alperkumcu.github.io/multimedia/aa.md" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
@@ -65,7 +65,7 @@ lang: en
     <a href="tpd.md">
       <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
+    <a href="https://alperkumcu.github.io/multimedia/tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 </div>
 
