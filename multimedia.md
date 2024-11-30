@@ -6,7 +6,7 @@ lang: en
 ---
 
 <style>
-  
+
 .video-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -68,6 +68,36 @@ lang: en
     <a href="tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 </div>
+
+<!-- Video 3 -->
+  <div class="video-item">
+    <a href="tpd.md">
+      <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
+    </a>
+    <a href="tpd.md" class="video-title">Boğaziçi Üniversitesi</a>
+  </div>
+</div>
+
+<!-- Video 4 -->
+  <div class="video-item">
+    <a href="tpd.md">
+      <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
+    </a>
+    <a href="tpd.md" class="video-title">HÜ İletişim Fakültesi - Dijital Hikaye Atölyesi</a>
+  </div>
+</div>
+
+<!-- Video 5 -->
+  <div class="video-item">
+    <a href="tpd.md">
+      <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
+    </a>
+    <a href="tpd.md" class="video-title">Cogist 1</a>
+  </div>
+</div>
+
+
+
 
 
 ### Audio
