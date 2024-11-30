@@ -86,3 +86,42 @@ $on-laptop:        800px;
   font-size: 35px;
   cursor: pointer;
 }
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.video-item {
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.video-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.video-thumbnail:hover {
+  transform: scale(1.05);
+}
+
+.video-title {
+  display: block;
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.video-title:hover {
+  color: #007bff;
+}

@@ -5,88 +5,26 @@ permalink: /multimedia/
 lang: en
 ---
 
-### Video
+### Video Gallery
 
-#### Anadolu Ajansı
+<div class="video-grid">
+  <!-- Video 1 -->
+  <div class="video-item">
+    <a href="aa.html">
+      <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
+    </a>
+    <a href="aa.html" class="video-title">Anadolu Ajansı</a>
+  </div>
 
-<video width="640" height="360" controls>
-  <source src="/videos/aa.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
+  <!-- Video 2 -->
+  <div class="video-item">
+    <a href="tpd.html">
+      <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
+    </a>
+    <a href="tpd.html" class="video-title">Türkiye Psikiyatri Derneği</a>
+  </div>
+</div>
 
-<br>
-
-#### Türkiye Psikiyatri Derneği
-
-<video width="640" height="360" controls>
-  <source src="/videos/tpd.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### Boğaziçi Üniversitesi
-
-<video width="640" height="360" controls>
-  <source src="aa.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### HÜ İletişim Fakültesi - Dijital Hikaye Atölyesi
-
-<video width="640" height="360" controls>
-  <source src="/videos/dhö.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### Cogist 1
-
-<video width="640" height="360" controls>
-  <source src="/videos/dhö.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### Cogist 2
-
-<video width="640" height="360" controls>
-  <source src="/videos/dhö.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### HÜDİT 1
-
-<video width="640" height="360" controls>
-  <source src="/videos/dhö.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### HÜDİT 2
-
-<video width="640" height="360" controls>
-  <source src="/videos/dhö.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
-
-#### Bilinç ve Zihin Zirvesi
-
-<video width="640" height="360" controls>
-  <source src="/videos/bzz.mp4" type="video/mp4">
-  Anadolu Ajansı.
-</video>
-
-<br>
 
 ### Audio
 
