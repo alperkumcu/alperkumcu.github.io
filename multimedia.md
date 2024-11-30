@@ -57,7 +57,7 @@ lang: en
     <a href="aa.md">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="https://alperkumcu.github.io/multimedia/aa.md" class="video-title">Anadolu Ajansı</a>
+    <a href="\alperkumcu.github.io\multimedia\aa.md" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
