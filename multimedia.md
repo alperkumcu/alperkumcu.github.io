@@ -54,18 +54,18 @@ lang: en
 <div class="video-grid">
   <!-- Video 1 -->
   <div class="video-item">
-    <a href="aa.md">
+    <a href="/alperkumcu.github.io/multimedia/aa.md">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="\alperkumcu.github.io\multimedia\aa.md" class="video-title">Anadolu Ajansı</a>
+    <a href="/alperkumcu.github.io/multimedia/aa.md" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
   <div class="video-item">
-    <a href="tpd.md">
+    <a href="/alperkumcu.github.io/multimedia/tpd.md">
       <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
     </a>
-    <a href="https://alperkumcu.github.io/multimedia/tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
+    <a href="/alperkumcu.github.io/multimedia/tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 </div>
 
