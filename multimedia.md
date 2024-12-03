@@ -54,18 +54,18 @@ lang: en
 <div class="video-grid">
   <!-- Video 1 -->
   <div class="video-item">
-    <a href="aa">
+    <a href="/multimedia/aa">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="aa" class="video-title">Anadolu Ajansı</a>
+    <a href="/multimedia/aa" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
   <div class="video-item">
-    <a href="tpd">
+    <a href="/multimedia/tpd">
       <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
     </a>
-    <a href="tpd" class="video-title">Türkiye Psikiyatri Derneği</a>
+    <a href="/multimedia/tpd" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 </div>
 
