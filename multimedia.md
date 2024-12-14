@@ -69,6 +69,24 @@ lang: en
   </div>
 </div>
 
+  <!-- Video 3 -->
+  <div class="video-item">
+    <a href="/multimedia/tpd.md">
+      <img src="/thumbnails/tpd.png" alt="Boğaziçi Üniversitesi" class="video-thumbnail">
+    </a>
+    <a href="/multimedia/tpd.md" class="video-title">Boğaziçi Üniversitesi</a>
+  </div>
+</div>
+
+  <!-- Video 4 -->
+  <div class="video-item">
+    <a href="/multimedia/tpd.md">
+      <img src="/thumbnails/tpd.png" alt="Bilinç ve Zihin Zirvesi" class="video-thumbnail">
+    </a>
+    <a href="/multimedia/tpd.md" class="video-title">Bilinç ve Zihin Zirvesi</a>
+  </div>
+</div>
+
 
 ### Audio
 
