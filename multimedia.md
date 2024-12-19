@@ -83,6 +83,14 @@ lang: en
     </a>
     <a href="/multimedia/bzz" class="video-title">Bilinç ve Zihin Zirvesi</a>
   </div>
+
+<!-- Video 5 -->
+  <div class="video-item">
+    <a href="/multimedia/dho">
+      <img src="/thumbnails/tpd.png" alt="Dijital Hikaye Atölyesi" class="video-thumbnail">
+    </a>
+    <a href="/multimedia/bzz" class="video-title">Dijital Hikaye Atölyesi</a>
+  </div>
 </div>
 
 ### Audio

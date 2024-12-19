@@ -1,12 +1,11 @@
 ---
 layout: page
-title: tpd
+title: Türkiye Psikiyatri Derneği
 permalink: /multimedia/tpd/
 lang: en
 ---
 
 <!-- tpd.html -->
-<h2>Türkiye Psikiyatri Derneği</h2>
 <video width="100%" controls>
   <source src="/videos/tpd.mp4" type="video/mp4">
   Your browser does not support the video tag.
