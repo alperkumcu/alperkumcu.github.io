@@ -62,26 +62,26 @@ lang: en
 
   <!-- Video 2 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.html">
+    <a href="/multimedia/tpd">
       <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.html" class="video-title">Türkiye Psikiyatri Derneği</a>
+    <a href="/multimedia/tpd" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 
   <!-- Video 3 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.html">
+    <a href="/multimedia/boun">
       <img src="/thumbnails/tpd.png" alt="Boğaziçi Üniversitesi" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.html" class="video-title">Boğaziçi Üniversitesi</a>
+    <a href="/multimedia/boun" class="video-title">Boğaziçi Üniversitesi</a>
   </div>
 
   <!-- Video 4 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.html">
+    <a href="/multimedia/bzz">
       <img src="/thumbnails/tpd.png" alt="Bilinç ve Zihin Zirvesi" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.html" class="video-title">Bilinç ve Zihin Zirvesi</a>
+    <a href="/multimedia/bzz" class="video-title">Bilinç ve Zihin Zirvesi</a>
   </div>
 </div>
 
