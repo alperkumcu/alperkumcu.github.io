@@ -1,7 +1,7 @@
 ---
 layout: page
 title: aa
-permalink: /aa/
+permalink: /multimedia/aa/
 lang: en
 ---
 

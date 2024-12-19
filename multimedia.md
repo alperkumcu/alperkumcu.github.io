@@ -54,34 +54,34 @@ lang: en
 <div class="video-grid">
   <!-- Video 1 -->
   <div class="video-item">
-    <a href="/multimedia/aa.md">
+    <a href="/multimedia/aa.html">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="/multimedia/aa.md" class="video-title">Anadolu Ajansı</a>
+    <a href="/multimedia/aa.html" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.md">
+    <a href="/multimedia/tpd.html">
       <img src="/thumbnails/tpd.png" alt="Türkiye Psikiyatri Derneği" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.md" class="video-title">Türkiye Psikiyatri Derneği</a>
+    <a href="/multimedia/tpd.html" class="video-title">Türkiye Psikiyatri Derneği</a>
   </div>
 
   <!-- Video 3 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.md">
+    <a href="/multimedia/tpd.html">
       <img src="/thumbnails/tpd.png" alt="Boğaziçi Üniversitesi" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.md" class="video-title">Boğaziçi Üniversitesi</a>
+    <a href="/multimedia/tpd.html" class="video-title">Boğaziçi Üniversitesi</a>
   </div>
 
   <!-- Video 4 -->
   <div class="video-item">
-    <a href="/multimedia/tpd.md">
+    <a href="/multimedia/tpd.html">
       <img src="/thumbnails/tpd.png" alt="Bilinç ve Zihin Zirvesi" class="video-thumbnail">
     </a>
-    <a href="/multimedia/tpd.md" class="video-title">Bilinç ve Zihin Zirvesi</a>
+    <a href="/multimedia/tpd.html" class="video-title">Bilinç ve Zihin Zirvesi</a>
   </div>
 </div>
 
