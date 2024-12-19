@@ -54,10 +54,10 @@ lang: en
 <div class="video-grid">
   <!-- Video 1 -->
   <div class="video-item">
-    <a href="/multimedia/aa.html">
+    <a href="/multimedia/aa">
       <img src="/thumbnails/aa.png" alt="Anadolu Ajansı" class="video-thumbnail">
     </a>
-    <a href="/multimedia/aa.html" class="video-title">Anadolu Ajansı</a>
+    <a href="/multimedia/aa" class="video-title">Anadolu Ajansı</a>
   </div>
 
   <!-- Video 2 -->
