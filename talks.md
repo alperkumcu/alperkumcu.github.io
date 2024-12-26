@@ -6,6 +6,8 @@ lang: en
 ---
 
 ### 2024
+Kumcu, A. (Septemner, 2024). Waves of Emotion: Uncovering Cognitive-Affective Dynamics in Interpreting with Prosodic Cues and Electrodermal Responses. 30 September 2024. *Interpreting: Cognition and Technology Symposium*. Bogazici University, Department of Translation and Interpreting Studies, Istanbul, Turkey.
+
 Kumcu, A., & Duman, D. (September, 2024). Interpreting under stress: The differential effects of emotional and cognitive load. *International Congress of Linguists (ICL) 2024*. September 8-14, 2024. Poznań, Poland. [presentation]
 
 Kumcu, A., & Duman, D. (June, 2024). Disambiguation of cognitive and emotional load in mental healthcare interpreting: Evidence from galvanic skin response and prosodic markers. *3rd Meeting of Bertinoro Translation Society*. June 18-21, 2024. Bertinoro, Italy. [invited presentation]

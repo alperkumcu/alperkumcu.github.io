@@ -13,7 +13,8 @@ lang: en
 
 ### 2024
 
-1. *Waves of Emotion: Uncovering Cognitive-Affective Dynamics in Interpreting with Prosodic Cues and Electrodermal Responses* 30 September 2024. Interpreting: Cognition and Technology Symposium. Bogazici University, Department of Translation and Interpreting Studies, Istanbul, Turkey.
+1. *Psikodilbilim ve Psikoloji Kesişiminde Dil* (Language at the Intersection of Psycholinguistics and Psychology). 25 December 2024. Department of Pyschology. Ankara Sosyal Bilimler Üniversitesi (ASBÜ), Turkey (online)
+
 
 2. *Bedenlenmiş biliş ve dil rehabilitasyonu* (Embodied cognition and language rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
 
