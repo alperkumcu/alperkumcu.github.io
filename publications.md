@@ -45,7 +45,7 @@ lang: en
 2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1.**Kumcu, A.** (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. 223-252). IGI Global Scientific Publishing. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.4018/979-8-3693-8146-5.ch010)(https://doi.org/10.4018/979-8-3693-8146-5.ch010){:target="_blank"} [**data**](https://osf.io/ynwdm/){:target="_blank"}
+1. **Kumcu, A.** (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. 223-252). IGI Global Scientific Publishing. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.4018/979-8-3693-8146-5.ch010){:target="_blank"} [**data**](https://osf.io/ynwdm/){:target="_blank"}
 
 2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: blue; text-decoration: bold; margin-left: 5px;">cite</span>
 
