@@ -7,11 +7,11 @@ lang: en
 
 ## Papers
 
-### SSCI
+### SCI/SSCI
 
 1. **Kumcu, A.**, & Duman, D. (202x). Disambiguating emotional and cognitive load in interpreting: Evidence from galvanic skin response and prosody parameters. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (in preparation)
 
-2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
+2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"} (under review)
 
 3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
@@ -23,10 +23,10 @@ lang: en
 
 7. **Kumcu, A.**, & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
 
-### TR Index
-1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
+### TRIndex
+1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (under review)
 
-2. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
+2. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (under review)
 
 3. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
 
