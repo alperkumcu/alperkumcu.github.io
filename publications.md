@@ -9,9 +9,9 @@ lang: en
 
 ### SSCI
 
-1. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Applied Psycholinguistics*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
+1. 
 
-2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (in preparation)
+2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Schizophrenia Bulletin*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint]([https://papers.ssrn.com](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1)){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
 
 3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
@@ -26,12 +26,14 @@ lang: en
 ### TR Index
 1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
 
-2. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+2. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (submitted)
 
-3. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
+3. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+
+4. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
-4. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
+5. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
 (English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs). 
 
 ### Other indices
