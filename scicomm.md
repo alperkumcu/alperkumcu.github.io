@@ -15,7 +15,7 @@ lang: en
 
 1. *Maddenin Yapısı Belli, Peki Ya Dilin?* (The structure of matter is clear. But what about language?). 21 May 2025. Department of Chemistry. Hacettepe University, Turkey (face to face)
 
-2. *Şizofrenide dil ve düşünce bozuklukları: dilbilimsel analiz ve doğal dil işleme* (Language and Thought Disorders in Schizophrenia: Linguistic Analysis and Natural Language Processing). 16 May 2025. Department of Psychology. Ankara University, Turkey (face to face))
+2. *Şizofrenide dil ve düşünce bozuklukları: dilbilimsel analiz ve doğal dil işleme* (Language and Thought Disorders in Schizophrenia: Linguistic Analysis and Natural Language Processing). 16 May 2025. Department of Psychology. Ankara University, Turkey (face to face)
 
 3. *Kötülüğün Söylemi: Dil, Metafor ve Gerçekliğin İnşası* (The Discourse of Evil: Language, Metaphor, and the Construction of Reality). 22 March 2025. Psikiyatri Kış Okulu 2025. (face to face)
 
