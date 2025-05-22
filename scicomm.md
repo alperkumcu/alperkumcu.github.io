@@ -8,7 +8,7 @@ lang: en
 <p>Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden (alperkumcu-at-gmail.com) temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir. </p>
 <br>
 
-<p>Please get into touch via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars that I have been invited as a speaker. I can deliver the talk face-to-face or online in English or Turkish.</p>
+<p>Please contact me via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.</p>
 <br>
 
 ### 2025
@@ -17,11 +17,11 @@ lang: en
 
 2. *Şizofrenide dil ve düşünce bozuklukları: dilbilimsel analiz ve doğal dil işleme* (Language and Thought Disorders in Schizophrenia: Linguistic Analysis and Natural Language Processing). 16 May 2025. Department of Psychology. Ankara University, Turkey (face to face)
 
-3. *Kötülüğün Söylemi: Dil, Metafor ve Gerçekliğin İnşası* (The Discourse of Evil: Language, Metaphor, and the Construction of Reality). 22 March 2025. Psikiyatri Kış Okulu 2025. (face to face)
+3. *Kötülüğün Söylemi: Dil, Metafor ve Gerçekliğin İnşası* (The Discourse of Evil: Language, Metaphor, and the Construction of Reality). 22 March 2025. XI. Psikiyatri Kış Okulu (XI. Psychiatry Winter School). (face to face)
 
 ### 2024
 
-1. *Psikodilbilim ve Psikoloji Kesişiminde Dil* (Language at the Intersection of Psycholinguistics and Psychology). 25 December 2024. Department of Pyschology. Ankara Sosyal Bilimler Üniversitesi (ASBÜ), Turkey (online)
+1. *Psikodilbilim ve Psikoloji Kesişiminde Dil* (Language at the Intersection of Psycholinguistics and Psychology). 25 December 2024. Department of Psychology. Social Sciences University of Ankara (ASBÜ), Turkey (online)
 
 2. *Bedenlenmiş biliş ve dil rehabilitasyonu* (Embodied cognition and language rehabilitation). 24 May 2024. Department of Language and Speech Therapy. Anadolu University, Turkey (online)
 
@@ -78,6 +78,6 @@ lang: en
 **Audio-visual**
 - [TRT Radyo 1 Yaşamı Fark Et](https://www.trtdinle.com/show/yasami-fark-et?id=16837414){:target="_blank"}
 - <a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>
-A video series in which I interrview my academic friends about their academic work.
+A video series in which I interview my academic friends about their academic work.
 - <a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>
 A photoblog with my pictures of street art in various forms from different parts of the world.
