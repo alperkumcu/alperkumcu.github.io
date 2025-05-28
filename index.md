@@ -37,9 +37,9 @@ Hacettepe University
 <hr>
 
 # Interests
-* Grounded-embodied cognition
-* Memory for language
 * Psycholinguistics
+* Memory for language
+* Grounded-embodied cognition
 * Cognitive translation & interpreting studies
 
 <hr>
