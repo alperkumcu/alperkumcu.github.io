@@ -75,5 +75,6 @@ Date: 07/07/2022 - 07/07/2023
 
 ## Supervised Theses
 - Tarım, B. (2024). *The Effect of Speech Imageability and the Speaker's Gestures on the Simultaneous Interpreter's Gestures* [unpublished MA thesis]. Hacettepe University.
+- Kaçar. B. (2024). *Job satisfaction of interpreters working in healthcare settings in Türkiye* [unpublished MA thesis]. Hacettepe University.
 - Özkan, A. (2025). *Prosody in interpreting: The effect of L1 and interpreting modalities* [unpublished MA thesis]. Hacettepe University.
 - Yıldız, S. N. (2025). *A Study on the Effects of Translation Strategies on Video Game Immersion: The Case of 'Bastion'* [unpublished MA thesis]. Hacettepe University.
