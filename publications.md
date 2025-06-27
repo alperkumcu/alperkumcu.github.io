@@ -9,7 +9,7 @@ lang: en
 
 ### SCI/SSCI
 
-1. **Kumcu, A.**, & Duman, D. (202x). Disambiguating emotional and cognitive load in interpreting: Evidence from galvanic skin response and prosody parameters. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/){:target="_blank"} (in preparation)
+1. **Kumcu, A.**, & Duman, D. (202x). Disambiguating emotional and cognitive load in interpreting: Evidence from galvanic skin response and prosody parameters. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in preparation)
 
 2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Psychiatry Research*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"} (under review)
 
