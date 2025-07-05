@@ -9,7 +9,7 @@ lang: en
 
 ### SCI/SSCI
 
-1. **Kumcu, A.**, & Duman, D. (202x). Disambiguating emotional and cognitive load in interpreting: Evidence from galvanic skin response and prosody parameters. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in preparation)
+1. **Kumcu, A.**, & Duman, D. (202x). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in preparation)
 
 2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Psychiatry Research*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"} (under review)
 
@@ -23,20 +23,20 @@ lang: en
 
 7. **Kumcu, A.**, & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
 
-### SCOPUS
+### Scopus
 
-1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (under review)
-
-2. Uzun, İ. P., & **Kumcu, A.** (202x). Looking at language with the visual world paradigm: A systematic review of three decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (under review)
+1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (under review)
 
 ### TRIndex
 
-3. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. **, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (under review)
 
-4. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
+2. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+
+3. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
-5. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
+4. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
 (English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs). 
 
 ### Other indices
