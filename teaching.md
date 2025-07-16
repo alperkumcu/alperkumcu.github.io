@@ -9,7 +9,7 @@ lang: en
 
 - [METU R Workshop 2024 ](R.md)
 - [CogIST Bilişsel Bilimin Temelleri Yaz Okulu 2022 ](4e.md)
-- [CogIST Bedenlenmiş Biliş ve Dil ](bedenlenmis_bilis_renderable.html)
+- [CogIST Bedenlenmiş Biliş ve Dil ](bedenlenmis_bilis_full.html)
 
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
