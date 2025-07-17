@@ -9,7 +9,7 @@ lang: en
 
 ### SCI/SSCI
 
-1. **Kumcu, A.**, & Duman, D. (202x). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.psyarxiv.org){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in preparation)
+1. **Kumcu, A.**, & Duman, D. (202x). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (submitted)
 
 2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Psychiatry Research*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"} (under review)
 
