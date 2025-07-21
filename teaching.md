@@ -7,8 +7,8 @@ lang: en
 
 ### Summer Schools/Workshops
 
-- [METU R Workshop 2024 ](R.md)
-- [CogIST Bedenlenmiş Biliş ve Dil ](bedenlenmis_bilis_full.html)
+- [METU R Workshop 2024 ](R.md){:target="_blank"} 
+- [CogIST Bedenlenmiş Biliş ve Dil ](bedenlenmis_bilis.html){:target="_blank"} 
 
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
