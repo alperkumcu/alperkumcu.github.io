@@ -45,21 +45,20 @@ Hacettepe University
 <hr>
 
 # IDs
-* ORCID: <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
-* Google Scholar: <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">XNLBSA4AAAAJ&HL</a>
-* WOS Researcher ID/Publons: <a href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank">E-5568-2012</a>
-* Scopus ID: <a href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank">57203865908</a> 
-* Research Gate: <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Alper Kumcu</a>
-* Impact Story: <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">0000-0003-0844-3562</a>
-* PhilPeople: <a href="https://philpeople.org/profiles/alper-kumcu" target="_blank">Alper Kumcu</a>
-* Loop: <a href="https://loop.frontiersin.org/people/125772/overview" target="_blank">Alper Kumcu</a>
-
-* YÖK Researcher ID: <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">JBOSSN183</a>
+* <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">ORCID</a>
+* <a href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank">Web of Science</a>
+* <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">Google Scholar</a>
+* <a href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank">Scopus</a> 
+* <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Research Gate</a>
+* <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">Impact Story</a>
+* <a href="https://philpeople.org/profiles/alper-kumcu" target="_blank">PhilPeople</a>
+* <a href="https://loop.frontiersin.org/people/125772/overview" target="_blank">Loop</a>
+* <a href="https://osf.io/5egx4/" target="_blank">Open Science Framework (OSF)</a>
+* <a href="https://github.com/alperkumcu" target="_blank">GitHub</a>
+* <a href="https://gitlab.pavlovia.org/alperkumcu" target="_blank">GitLab (Pavlovia)</a>
+* <a href="https://rpubs.com/AlperKumcu" target="_blank">Rpubs</a>
+* <a href="https://gravatar.com/alperkumcub" target="_blank">Gravatar</a>
+* <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">Higher Education Board (YÖK)</a>
+* <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Hacettepe University AVESİS</a>
+* <a href="https://dergipark.org.tr/tr/pub/@alperkumcu" target="_blank">DergiPark</a>
 * TÜBİTAK ID: TBTK-0075-3470
-* Hacettepe University AVESİS: <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Alper Kumcu</a>
-* TR-Dizin: <a href="https://app.trdizin.gov.tr/yazar/TWprek56a3lNZz09/alper-kumcu" target="_blank">TWprek56a3lNZz09</a>
-
-* OSF: <a href="https://osf.io/5egx4/" target="_blank">5egx4</a>
-* GitLab Pavlovia <a href="https://gitlab.pavlovia.org/alperkumcu" target="_blank">alperkumcu</a>
-* GitHub: <a href="https://github.com/alperkumcu" target="_blank">alperkumcu</a>
-* Rpubs: <a href="https://rpubs.com/AlperKumcu" target="_blank">AlperKumcu</a>
