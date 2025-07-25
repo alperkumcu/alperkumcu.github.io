@@ -4,7 +4,7 @@ title:
 lang: en
 ---
 
-![banner]<img src="assets/img/alper.jpg" alt="Alper Kumcu" style="float:right; margin: 0 0 10px 20px; width:150px; border-radius:50%;">
+![Profile photo](assets/img/alper.jpg)
 
 I am an associate professor in the Department of Translation and Interpreting at Hacettepe University. My research investigates language, memory and embodied cognition from data science and psycholinguistic perspectives. I publish in national and international journals, and I am currently supervising graduate research projects in psycholinguistics, cognitive translation and interpreting studies. I am experienced in designing behavioural and eye-tracking experiments, programming in Python, conducting statistical analyses using ([R](https://www.r-project.org), and creating data visualisations with (`ggplot2`).
 
