@@ -51,9 +51,15 @@ Varela, F. J., Thompson, E., & Rosch, E. (1991). The embodied mind: Cognitive sc
 
 ### Güçlü (radikal) bedenlenme
 
+Baggs, E., & Chemero, A. (2021). Radical embodiment in two directions. Synthese, 198(Suppl 9), 2175–2190. https://doi.org/10.1007/s11229-018-02020-9
+
+Chemero, A. P. (2009). Radical embodied cognitive science. MIT Press.
+
 Noë, A. (2004). Action in perception. MIT Press.
 
 Noë, A. (2009). Out of our heads: Why you are not your brain, and other lessons from the biology of consciousness. Hill & Wang.
+
+Thompson, E., & Varela, F. J. (2001). Radical embodiment: Neural dynamics and consciousness. Trends in Cognitive Sciences, 5(10), 418–425. https://doi.org/10.1016/S1364-6613(00)01750-2
 
 ### Davranışsal etkiler
 
