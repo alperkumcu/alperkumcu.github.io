@@ -9,7 +9,7 @@ lang: en
 
 ### SCI/SSCI
 
-1. **Kumcu, A.**, & Duman, D. (202x). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (submitted)
+1. **Kumcu, A.**, & Duman, D. (202x). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (under review)
 
 2. Bozdağ. M. Ç., Şenel, L. K., Temizkan, H. N., **Kumcu, A.**, & Candansayar, S. (202x). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. *Psychiatry Research*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://www.medrxiv.org/content/10.1101/2025.04.07.25325316v1){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"} (under review)
 
@@ -25,18 +25,20 @@ lang: en
 
 ### Scopus
 
-1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (under review)
+1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (accepted)
 
 ### TRIndex
 
-1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (202x). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. **, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (under review)
+1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (2026). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
 
-2. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+2. Öztürk, M. S., & **Kumcu, A.**. (2025). Effort in machine translation post-editing: the role of expertise. *Çankaya University Journal of Humanities and Social Sciences*, *xx*(2), xxx-xxx. [https://doi.org/](https://doi.org/)
 
-3. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
+3. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+
+4. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
 (English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
 
-4. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
+5. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
 (English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs). 
 
 ### Other indices
@@ -50,9 +52,11 @@ lang: en
 2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
 
 ### Book chapters
-1. **Kumcu, A.** (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. 223-252). IGI Global Scientific Publishing. [https://doi.org/10.4018/979-8-3693-8146-5.ch010](https://doi.org/10.4018/979-8-3693-8146-5.ch010){:target="_blank"} [**data**](https://osf.io/ynwdm/){:target="_blank"}
+1. **Kumcu, A.** (2026). Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme. In xxx (Eds.), *Bilişsel Bilim Felsefesi* (pp. xxx-xxx). Doruk Yayınları.
 
-2. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: blue; text-decoration: bold; margin-left: 5px;">cite</span>
+2. **Kumcu, A.** (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. 223-252). IGI Global Scientific Publishing. [https://doi.org/10.4018/979-8-3693-8146-5.ch010](https://doi.org/10.4018/979-8-3693-8146-5.ch010){:target="_blank"} [**data**](https://osf.io/ynwdm/){:target="_blank"}
+
+3. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: blue; text-decoration: bold; margin-left: 5px;">cite</span>
 
 <script>
 function copyCitation() {
