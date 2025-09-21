@@ -1,26 +1,16 @@
 ---
-title: "MTB317 Localization"
+title: "Localization"
 layout: page
 ---
 
-# MTB 317: Localization
-
 **Fall 2025-2026**  
-Assoc. Prof. Dr. Alper Kumcu  
-[Email](mailto:alperkumcu@gmail.com) | [Website](http://alperkumcu.github.io)
+Assoc. Prof. Dr. Alper Kumcu (Visiting Professor)  
+[Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
-**Classroom:** B12 ZK 06  
-**Date/Time:** Monday 8:40-10:30  
-**Medium:** English and Turkish  
-**Workload:** 2 hours/week - 4 ECTS  
+## Course Description
 
-## Aim of the Course
-
-This course provides an in-depth exploration of localization within the field of translation and interpreting. 
-Students will learn both the theoretical foundations and practical applications of localization, focusing on adapting content for different linguistic and cultural markets. 
-
-The course also includes a module on "code literacy", essential for understanding the technological aspects of localization. 
-By the end of the course, students will be equipped to work in the localization industry, bridging linguistic expertise and technical know-how.
+This course offers an in-depth exploration of localisation in the context of translation and interpreting. 
+Students will learn the theoretical foundations and practical applications of localisation, with a focus on adapting content for different linguistic and cultural markets. The course also includes a module on 'code literacy', which is essential for understanding the technological aspects of localisation. Upon completion of the course, students will be prepared for a career in the localisation industry, combining linguistic proficiency with technical expertise.
 
 ## Weekly Schedule
 

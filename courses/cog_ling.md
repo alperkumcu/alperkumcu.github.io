@@ -56,5 +56,5 @@ Drawing on insights from text analysis, language acquisition, psycholinguistic e
 
 - **Midterm (40%)** – Week 7  
 - **Student Presentation (20%)** – Weeks 11-12  
-- **Final Paper (40%)** – Due January 8, 2026  
+- **Final Exam (40%)** – January 8, 2026  
 
