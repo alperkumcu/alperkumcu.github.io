@@ -21,18 +21,19 @@ lang: en
 
 #### Graduate
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
-- [Research and Publication Ethics](https://alperkumcu.github.io/pdfs/imt662.pdf){:target="_blank"} (MA, 2022 Fall -)  
-- Consecutive Interpreting (MA, 2021 Spring -)
+- [Research and Publication Ethics](https://alperkumcu.github.io/pdfs/imt662.pdf){:target="_blank"} (MA)  
+- [Interpreting Studies](int_stud.md){:target="_blank"} (MA)
+- Consecutive Interpreting (MA)
 
 #### Undergraduate
 - [Introduction to Cognitive Linguistics](cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
-- Lexicology (1st year, 2009 - 2024 Hacettepe T&I)
-- Consecutive Interpreting (3rd year, 2020 - Hacettepe T&I)
 - [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year, 2018 - Hacettepe T&I)
-- Conference Interpreting (4th year, 2019 - Hacettepe T&I)
-- Introduction to Sight Translation (2nd year, 2019 - Hacettepe T&I)
-- Contemporary English and American Societies (2nd year, 2019 - Hacettepe T&I)
+- Simultaneous Interpreting I/II (4th year - Hacettepe T&I)
+- Conference Interpreting I/II (4th year - Hacettepe T&I)
+- Localization
+- Computer-aided Translation Tools (Hacettepe T&I)
+- Consecutive Interpreting (3rd year - Hacettepe T&I)
 - History of English and American Cultures (2nd year, 2019 - Hacettepe T&I)
-- Computer-aided Translation Tools (2009 - 2012 Hacettepe T&I)
-- Information Technologies for Translators (2009 - 2012 Hacettepe T&I)
+- Contemporary English and American Societies (2nd year, 2019 - Hacettepe T&I)
+- Lexicology (1st year, 2009 - 2024 Hacettepe T&I)
 - Narrative Medicine (for the undergraduates at the Faculty of Medicine, HU, 2019 - 2020)
