@@ -1,5 +1,5 @@
 ---
-title: "History of British and American Culture"
+title: "History of British and American Cultures"
 layout: page
 ---
 
@@ -21,7 +21,7 @@ This undergraduate course provides a comprehensive overview of the historical an
 
 ## Weekly Schedule
 
-| Week | Date | Topic | Assigned Readings | Task |
+| Week | Date | Topic | Readings | Task |
 | --- | --- | --- | --- | --- |
 | 1 | September 22, 2025 | Course Introduction: Aim, methodology, requirements, outline | - | - |
 | 2 | September 29, 2025 | A Gentle Introduction to Culture and Britain | Christopher (ch.1) | - |
