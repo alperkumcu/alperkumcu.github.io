@@ -16,7 +16,7 @@ Drawing on insights from text analysis, language acquisition, psycholinguistic e
 
 ## Weekly Schedule
 
-| Week | Date | Topic | Content | Assigned Readings | Task |
+| Week | Date | Topic | Content | Readings | Task |
 | --- | --- | --- | --- | --- | --- |
 | 1 | October 2, 2025 | Course Introduction | – |  | – |
 | 2 | October 9, 2025 | Foundations of Cognitive Linguistics | Language as a cognitive function // Usage-based and meaning-as-conceptualization perspectives // Why CL matters for language teaching and education | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |

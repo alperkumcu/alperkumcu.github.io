@@ -14,7 +14,7 @@ Students will learn the theoretical foundations and practical applications of lo
 
 ## Weekly Schedule
 
-| Week | Date/Topic | Readings | Practical Task |
+| Week | Topic | Readings | Practical Task |
 | --- | --- | --- | --- |
 | 1 | The aim of the course, methodology, requirements, and outline | - | - |
 | 2 | Introduction to Localization<br>- Definition, differences with translation, industry overview, importance | Esselink, B. *A Practical Guide to Localization* (Ch. 1-2) | Case study on a successful localization project |
