@@ -3,7 +3,7 @@ title: "Introduction to Cognitive Linguistics"
 layout: page
 ---
 
-**Fall 2025**  
+**Fall 2025-2026**  
 Assoc. Prof. Dr. Alper Kumcu (Visiting Professor)  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
@@ -16,10 +16,10 @@ Drawing on insights from text analysis, language acquisition, psycholinguistic e
 
 ## Weekly Schedule
 
-| Week | Date | Topic | Topics | Assigned Readings | Task |
+| Week | Date | Topic | Content | Assigned Readings | Task |
 | --- | --- | --- | --- | --- | --- |
 | 1 | October 2, 2025 | Course Introduction | – |  | – |
-| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | Language as a cognitive function Usage-based and meaning-as-conceptualization perspectives Why CL matters for language teaching and education | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
+| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | Language as a cognitive function // Usage-based and meaning-as-conceptualization perspectives // Why CL matters for language teaching and education | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
 | 3 | October 16, 2025 | Categories, Prototypes, and Frames | Prototype theory (Rosch, Lakoff, Taylor) Radial categories, frames, and cultural models Implications for vocabulary learning and conceptual development in L2 | Evans & Green (ch.2) | – |
 | 4 | October 23, 2025 | Embodiment and Image Schemas | Embodied experience as the basis of conceptual structure Core image schemas: CONTAINER, PATH, FORCE, BALANCE Applications in teaching difficult concepts like prepositions | Evans & Green (2006, ch.6) Optional: Bergen (2012, ch.2–3) | – |
 | 5 | October 30, 2025 | Conceptual Metaphor Theory | Lakoff & Johnson’s framework of conceptual metaphor Primary metaphors and metaphorical systems Raising metaphor awareness in language learning | Lakoff & Johnson (2003) Optional: Kövecses (2010, ch.1–2) | – |
