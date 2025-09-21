@@ -27,10 +27,12 @@ lang: en
 
 #### Undergraduate
 - [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
-- [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year, 2018 - Hacettepe T&I)
-- Simultaneous Interpreting I/II (4th year - Hacettepe T&I)
+- [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year - Hacettepe T&I)
+- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I) 
+- [Localization](courses/loc.md){:target="_blank"} (3rd year - Hacettepe T&I) 
+
+- Simultaneous Interpreting II (4th year - Hacettepe T&I)
 - Conference Interpreting I/II (4th year - Hacettepe T&I)
-- [Localization](courses/loc.md){:target="_blank"} (Hacettepe T&I) 
 - Computer-aided Translation Tools (Hacettepe T&I)
 - Consecutive Interpreting (3rd year - Hacettepe T&I)
 - History of English and American Cultures (2nd year, 2019 - Hacettepe T&I)
