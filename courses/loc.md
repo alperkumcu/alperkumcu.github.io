@@ -4,13 +4,13 @@ layout: page
 ---
 
 **Fall 2025-2026**  
-Assoc. Prof. Dr. Alper Kumcu
+Assoc. Prof. Dr. Alper Kumcu  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
 ## Course Description
 
-This course offers an in-depth exploration of localisation in the context of translation and interpreting. 
-Students will learn the theoretical foundations and practical applications of localisation, with a focus on adapting content for different linguistic and cultural markets. The course also includes a module on 'code literacy', which is essential for understanding the technological aspects of localisation. Upon completion of the course, students will be prepared for a career in the localisation industry, combining linguistic proficiency with technical expertise.
+This course offers an in-depth exploration of localization in the context of translation and interpreting. 
+Students will learn the theoretical foundations and practical applications of localization, with a focus on adapting content for different linguistic and cultural markets. The course also includes a module on 'code literacy', which is essential for understanding the technological aspects of localization. Upon completion of the course, students will be prepared for a career in the localization industry, combining linguistic proficiency with technical expertise.
 
 ## Weekly Schedule
 
