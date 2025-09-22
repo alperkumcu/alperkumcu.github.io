@@ -23,17 +23,17 @@ By the end of this course, students will be able to:
 | Week | Date       | Topic                                                   | Method                              | Reading List |
 |------|------------|---------------------------------------------------------|-------------------------------------|--------------|
 | 1    | 23.09.2025 | Introduction to the course: aim, content, and evaluation | -                                   | -            |
-| 2    | 30.09.2025 | Introduction to Interpreting Studies                      | Evaluation and discussion            | Pöchhacker (2010), Gile (2004), Diriker (2013), Viezzi (2013) |
+| 2    | 30.09.2025 | Introduction to Interpreting Studies                     | Evaluation and discussion            | Pöchhacker (2010), Gile (2004), Diriker (2013), Viezzi (2013) |
 | 3    | 07.10.2025 | Approaches to Interpreting Studies I: Cognitive          | Instructor lecture and discussion    | -            |
 | 4    | 14.10.2025 | Approaches to Interpreting Studies II: Linguistic        | Student presentation and discussion (1) | -         |
 | 5    | 21.10.2025 | Approaches to Interpreting Studies III: Sociological     | Student presentation and discussion (2) | -         |
 | 6    | 28.10.2025 | Approaches to Interpreting Studies IV: Communicative     | Student presentation and discussion (3) | -         |
 | 7    | 04.11.2025 | Approaches to Interpreting Studies V: Pedagogical        | Student presentation and discussion (4) | -         |
-| 8    | 11.11.2025 | Article discussion I / Deadline for review article proposals | Evaluation and discussion (1)     | -            |
-| 9    | 18.11.2025 | Article discussion II                                    | Evaluation and discussion (2)        | -            |
-| 10   | 25.11.2025 | Article discussion III                                   | Evaluation and discussion (3)        | -            |
-| 11   | 02.12.2025 | Article discussion IV                                    | Evaluation and discussion (4)        | -            |
-| 12   | 09.12.2025 | Article discussion V                                     | Evaluation and discussion (5)        | -            |
+| 8    | 11.11.2025 | Approaches to Interpreting Studies VI: Technological     | Student presentation and discussion (5)     | -            |
+| 9    | 18.11.2025 | Article discussion I                                     | Evaluation and discussion (1)        | -            |
+| 10   | 25.11.2025 | Article discussion II                                    | Evaluation and discussion (2)        | -            |
+| 11   | 02.12.2025 | Article discussion III                                   | Evaluation and discussion (3)        | -            |
+| 12   | 09.12.2025 | Article discussion IV                                    | Evaluation and discussion (4)        | -            |
 | 13   | 16.12.2025 | Presentation of content and method of student papers I   | Presentation of review articles      | Shared by presenting students |
 | 14   | 23.12.2025 | Presentation of content and method of student papers II  | Presentation of review articles      | Shared by presenting students |
 
