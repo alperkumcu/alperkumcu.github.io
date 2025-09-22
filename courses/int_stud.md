@@ -7,8 +7,8 @@ layout: page
 Assoc. Prof. Dr. Alper Kumcu  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
-## Course Aim
-This course aims to take an interdisciplinary approach to interpreting studies, discussing and conceptualising the interpreting research in theoretical and methodological terms.
+## Course Description
+This course provides a comprehensive and interdisciplinary overview of Interpreting Studies, exploring its theoretical foundations, methodological approaches, and connections with related disciplines such as cognitive science, linguistics, sociology, and communication studies. Students will examine the historical development of interpreting research and gain insight into key theoretical frameworks, including cognitive, linguistic, sociological, communicative, and pedagogical perspectives. Through readings, discussions, and student-led presentations, the course emphasizes the dynamic and evolving nature of interpreting as both an academic discipline and a professional practice. In addition to engaging with seminal and contemporary scholarship, students will develop essential academic skills such as critical reading, scholarly writing, and systematic analysis.
 
 ## Learning Outcomes
 By the end of this course, students will be able to:
