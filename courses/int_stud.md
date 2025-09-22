@@ -4,11 +4,11 @@ layout: page
 ---
 
 **Fall 2025-2026**  
-Assoc. Prof. Dr. Alper Kumcu
+Assoc. Prof. Dr. Alper Kumcu  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
 ## Course Aim
-This course aims to take an interdisciplinary approach to interpreting studies, discussing and conceptualising the academic infrastructure of interpreting research in theoretical and methodological terms.
+This course aims to take an interdisciplinary approach to interpreting studies, discussing and conceptualising the interpreting research in theoretical and methodological terms.
 
 ## Learning Outcomes
 By the end of this course, students will be able to:
@@ -39,14 +39,19 @@ Deadline for review article proposals | Evaluation and discussion (1) | - |
 | 14 | Presentation of content and method of student papers II | Presentation of review articles | Shared by presenting students |
 
 ## Evaluation System
-- **Attendance, participation, and readings:** 40%  
-- **Presentations:** 60%  
+Students enrolled on the course are expected to moderate at least one session during the semester, based on that week's reading list. In addition to the existing reading list, the student moderator will add a book chapter and/or research article of their choice to the session. All students, including the moderator, must prepare at least one discussion question based on the week's reading list and share it with the class in advance. The discussion will be based on these questions. During weeks when a research article is read, all students must complete and hand in an 'Article Evaluation Form' for marking. Article Evaluation Forms are due the day before class.
 
-**Total:** 100%
+Students are expected to write a critique (response paper) of at least 3,000 words, which will replace the mid-term exam. Students will choose their own interpreting studies article to evaluate. At the end of the semester, they will be expected to prepare and submit a review article, which will replace the final exam. Papers submitted after the deadline will be penalised by 10 points for each day late.
 
-Students are expected to deliver two presentations during the semester and submit a final paper.  
-The first presentation will focus on the weekly topic based on the assigned readings and include a moderated discussion.  
-The second presentation will outline the topic and methodology of the student's final paper, open to feedback and suggestions.
+Midterm Response Paper Submission due date and time: xxx 1, xxxx, Tuesday 23:59
+Final Exam Review Paper due date and time: xxx 10, xxxx, Tuesday 23:59
+
+
+- **Presentations:** 25% 
+- **Mid-term reponse paper:** 25%
+- **Final review paper:** 50% 
+- **Total:** 100%
+
 
 ## General References
 - Bhatia, T. K., & Ritchie, W. C. (2006). *The handbook of bilingualism*. Blackwell Publishing Ltd.  
