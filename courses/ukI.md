@@ -64,9 +64,9 @@ Additional readings, articles, and multimedia materials may be assigned througho
 ## Requirements
 
 - **Midterm Exam (50%)** – provisionally scheduled for Week 8 (subject to change).  
-- **Final Essay (50%)** – A research essay on a selected cultural topic, due **5 January 2026**.  
-- Attendance, participation, and short written reflections will be monitored throughout the semester.  
-  These will contribute to the final evaluation but will not carry a separate percentage weight.  
+- **Final Exam (50%)** – **5 January 2026**.  
+- Attendance, participation, and short written reflections and essays will be monitored throughout the semester.  
+  These will contribute to the final evaluation but will not carry a separate percentage weight.
 
 **Note:** Plagiarism and submission of AI-generated texts will result in an automatic fail for the course.  
 **Note:** Weekly topics are subject to change depending on current events.  
