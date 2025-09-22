@@ -22,7 +22,7 @@ lang: en
 #### Graduate
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
 - [Research and Publication Ethics](https://alperkumcu.github.io/pdfs/imt662.pdf){:target="_blank"} (MA)  
-- [Interpreting Studies](int_stud.md){:target="_blank"} (MA)
+- [Interpreting Studies](courses/int_stud.md){:target="_blank"} (MA)
 - Consecutive Interpreting (MA)
 
 #### Undergraduate
@@ -31,7 +31,6 @@ lang: en
 - [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I) 
 - [Localization](courses/loc.md){:target="_blank"} (3rd year - Hacettepe T&I) 
 - [History of English and American Cultures](courses/ukI.md){:target="_blank"} (2nd year - Hacettepe T&I)
-
 
 - Simultaneous Interpreting II (4th year - Hacettepe T&I)
 - Conference Interpreting I/II (4th year - Hacettepe T&I)
