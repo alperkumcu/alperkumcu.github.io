@@ -28,9 +28,9 @@ The course emphasizes self-evaluation, strategy development, and awareness of th
 | Week | Dates (Mon & Tue) | Topic | Task |
 | --- | --- | --- | --- |
 | 1 | Sep 22 / Sep 23 | Course Introduction: Aim, methodology, requirements, outline | Diagnostic Test: Limited terminology speech B→A |
-| 2 | Sep 29 / Sep 30 | Feedback on placement test & basic simultaneous techniques | - |
+| 2 | Sep 29 / Sep 30 | Feedback on diagnostic test & basic warming-up techniques | - |
 | 3 | Oct 06 / Oct 07 | Introduction to simultaneous interpreting: history, types, and terminology | - |
-| 4 | Oct 13 / Oct 14 | Cognitive requirements and exercises | - |
+| 4 | Oct 13 / Oct 14 | Cognitive requirements | Cognitive exercises |
 | 5 | Oct 20 / Oct 21 | Discourse Analysis of Conference Speeches I: Opening & Body | - |
 | 6 | Oct 27 / Oct 28 | Discourse Analysis of Conference Speeches II: Closing & Q&A | - |
 | 7 | Nov 03 / Nov 04 | Coping strategies: Effective listening, delivery, EVS management, Salami technique | - |
