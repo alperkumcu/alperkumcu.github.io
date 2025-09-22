@@ -20,23 +20,23 @@ By the end of this course, students will be able to:
 
 ## Weekly Schedule
 
-| Week | Topic | Method | Reading List |
-| --- | --- | --- | --- |
-| 1 | Introduction to the course: aim, content, and evaluation | - | - |
-| 2 | Introduction to Interpreting Studies | Evaluation and discussion | Pöchhacker (2010), Gile (2004), Diriker (2013), Viezzi (2013) |
-| 3 | Approaches to Interpreting Studies I: Cognitive | Instructor lecture and discussion | - |
-| 4 | Approaches to Interpreting Studies II: Linguistic | Student presentation and discussion (1) | - |
-| 5 | Approaches to Interpreting Studies III: Sociological | Student presentation and discussion (2) | - |
-| 6 | Approaches to Interpreting Studies IV: Communicative | Student presentation and discussion (3) | - |
-| 7 | Approaches to Interpreting Studies V: Pedagogical | Student presentation and discussion (4) | - |
-| 8 | Article discussion I
-Deadline for review article proposals | Evaluation and discussion (1) | - |
-| 9 | Article discussion II | Evaluation and discussion (2) | - |
-| 10 | Article discussion III | Evaluation and discussion (3) | - |
-| 11 | Article discussion IV | Evaluation and discussion (4) | - |
-| 12 | Article discussion V | Evaluation and discussion (5) | - |
-| 13 | Presentation of content and method of student papers I | Presentation of review articles | Shared by presenting students |
-| 14 | Presentation of content and method of student papers II | Presentation of review articles | Shared by presenting students |
+| Week | Date       | Topic                                                   | Method                              | Reading List |
+|------|------------|---------------------------------------------------------|-------------------------------------|--------------|
+| 1    | 23.09.2025 | Introduction to the course: aim, content, and evaluation | -                                   | -            |
+| 2    | 30.09.2025 | Introduction to Interpreting Studies                      | Evaluation and discussion            | Pöchhacker (2010), Gile (2004), Diriker (2013), Viezzi (2013) |
+| 3    | 07.10.2025 | Approaches to Interpreting Studies I: Cognitive          | Instructor lecture and discussion    | -            |
+| 4    | 14.10.2025 | Approaches to Interpreting Studies II: Linguistic        | Student presentation and discussion (1) | -         |
+| 5    | 21.10.2025 | Approaches to Interpreting Studies III: Sociological     | Student presentation and discussion (2) | -         |
+| 6    | 28.10.2025 | Approaches to Interpreting Studies IV: Communicative     | Student presentation and discussion (3) | -         |
+| 7    | 04.11.2025 | Approaches to Interpreting Studies V: Pedagogical        | Student presentation and discussion (4) | -         |
+| 8    | 11.11.2025 | Article discussion I / Deadline for review article proposals | Evaluation and discussion (1)     | -            |
+| 9    | 18.11.2025 | Article discussion II                                    | Evaluation and discussion (2)        | -            |
+| 10   | 25.11.2025 | Article discussion III                                   | Evaluation and discussion (3)        | -            |
+| 11   | 02.12.2025 | Article discussion IV                                    | Evaluation and discussion (4)        | -            |
+| 12   | 09.12.2025 | Article discussion V                                     | Evaluation and discussion (5)        | -            |
+| 13   | 16.12.2025 | Presentation of content and method of student papers I   | Presentation of review articles      | Shared by presenting students |
+| 14   | 23.12.2025 | Presentation of content and method of student papers II  | Presentation of review articles      | Shared by presenting students |
+
 
 ## Evaluation System
 Students enrolled on the course are expected to moderate at least one session during the semester, based on that week's reading list. In addition to the existing reading list, the student moderator will add a book chapter and/or research article of their choice to the session. All students, including the moderator, must prepare at least one discussion question based on the week's reading list and share it with the class in advance. The discussion will be based on these questions. During weeks when a research article is read, all students must complete and hand in an 'Article Evaluation Form' for marking. Article Evaluation Forms are due the day before class.
