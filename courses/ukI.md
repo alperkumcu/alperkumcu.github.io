@@ -42,11 +42,13 @@ This undergraduate course provides a comprehensive overview of the historical an
 
 - Abercrombie, N., et al. (1993). *Contemporary British Society: A New Introduction to Sociology*. Polity Press.  
 - Biressi, A., & Nunn, H. (2013). *Class and Contemporary British Culture*. Palgrave Macmillan.  
-- Butterworth, E., & Weir, D. (eds.) (1984). *The New Sociology of Modern Britain*. Fontana Paperbacks.  
 - Christopher, D. P. (2015). *British Culture: An Introduction*. Taylor & Francis.  
+- Irwin, J. L. (2005). *Modern Britain: An introduction* (3rd ed.). Routledge.  
 - Kocabaşoğlu, U. (1995). *İngiliz Sicimi*. İmge Kitabevi.  
+- McGuigan, J. (Ed.). (2002). *Encyclopaedia of contemporary British culture*. Routledge.  
 - Oakland, J. (2006). *British Civilization: An Introduction*. Routledge.  
-
+- O'Driscoll, J., & O'Driscoll, J. (2009). *Contemporary Britain: A survey with texts* (3rd ed.). Routledge.  
+ 
 Additional readings, articles, and multimedia materials may be assigned throughout the semester.
 
 ## Recommended Films and TV Shows
