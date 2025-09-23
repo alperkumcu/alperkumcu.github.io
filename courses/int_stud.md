@@ -20,19 +20,21 @@ By the end of this course, students will be able to:
 
 ## Weekly Schedule
 
+# Interpreting Studies Course Schedule (Fall 2025-2026)
+
 | Week | Date       | Topic                                                   | Method                              | Assigned Readings |
 |------|------------|---------------------------------------------------------|-------------------------------------|-------------------|
 | 1    | 23.09.2025 | Introduction to the course: aim, content, and evaluation | –                                   | –                 |
 | 2    | 30.09.2025 | Introduction to Interpreting Studies                     | Evaluation and discussion            | On Moodle         |
-| 3    | 07.10.2025 | Approaches to Interpreting Studies I: Cognitive          | Instructor lecture and discussion    | On Moodle            |
-| 4    | 14.10.2025 | Approaches to Interpreting Studies II: Linguistic        | Student presentation and discussion (1) | On Moodle          |
-| 5    | 21.10.2025 | Approaches to Interpreting Studies III: Communicative    | Student presentation and discussion (2) | On Moodle          |
-| 6    | 28.10.2025 | Approaches to Interpreting Studies IV: Cultural          | Student presentation and discussion (3) | On Moodle          |
-| 7    | 04.11.2025 | Approaches to Interpreting Studies V: Sociological       | Student presentation and discussion (4) | On Moodle          |
-| 8    | 11.11.2025 | Approaches to Interpreting Studies VI: Technological     | Student presentation and discussion (5) | On Moodle          |
-| 9    | 18.11.2025 | Approaches to Interpreting Studies VII: Pedagogical      | Student presentation and discussion (6) | On Moodle          |
-| 10   | 25.11.2025 | Approaches to Interpreting Studies VIII: Professional/Ethical | Student presentation and discussion (7)           |   On Moodle |
-| 11   | 02.12.2025 | Article discussion I                                    | Evaluation and discussion            | -                |
+| 3    | 07.10.2025 | Approaches to Interpreting Studies I: Cognitive          | Instructor lecture and discussion    | Moodle            |
+| 4    | 14.10.2025 | Approaches to Interpreting Studies II: Psychological/Affective | Student presentation and discussion (1) | Moodle          |
+| 5    | 21.10.2025 | Approaches to Interpreting Studies III: Linguistic       | Student presentation and discussion (2) | Moodle          |
+| 6    | 28.10.2025 | Approaches to Interpreting Studies IV: Communicative     | Student presentation and discussion (3) | Moodle          |
+| 7    | 04.11.2025 | Approaches to Interpreting Studies V: Sociological       | Student presentation and discussion (4) | Moodle          |
+| 8    | 11.11.2025 | Approaches to Interpreting Studies VI: Technological     | Student presentation and discussion (5) | Moodle          |
+| 9    | 18.11.2025 | Approaches to Interpreting Studies VII: Pedagogical      | Student presentation and discussion (6) | Moodle          |
+| 10   | 25.11.2025 | Approaches to Interpreting Studies VIII: Professional/Ethical | Student presentation and discussion (7)             | Moodle          |
+| 11   | 02.12.2025 | Article discussion I                                    | Evaluation and discussion            | –                 |
 | 12   | 09.12.2025 | Article discussion II                                   | Evaluation and discussion            | –                 |
 | 13   | 16.12.2025 | Student review papers: content and method presentations I | Presentation of review articles      | Shared by students |
 | 14   | 23.12.2025 | Student review papers: content and method presentations II | Presentation of review articles      | Shared by students |
