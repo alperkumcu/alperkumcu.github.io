@@ -16,7 +16,7 @@ By the end of this course, students will be able to:
 - Explain current trends and future projections in the field.  
 - Use conceptual, methodological, and terminological knowledge in interpreting studies.  
 - Evaluate, interpret, and critique research in the field.  
-- Write a review/meta-analysis article or a response/reaction paper.
+- Write a response/reaction paper and a review/meta-analysis article.
 
 ## Weekly Schedule
 
