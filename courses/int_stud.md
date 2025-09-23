@@ -31,7 +31,7 @@ By the end of this course, students will be able to:
 | 7    | 04.11.2025 | Approaches to Interpreting Studies V: Sociological       | Student presentation and discussion (4) | On Moodle          |
 | 8    | 11.11.2025 | Approaches to Interpreting Studies VI: Technological     | Student presentation and discussion (5) | On Moodle          |
 | 9    | 18.11.2025 | Approaches to Interpreting Studies VII: Pedagogical      | Student presentation and discussion (6) | On Moodle          |
-| 10   | 25.11.2025 | Approaches to Interpreting Studies VIII: Professional/Ethical | Student presentation and discussion (7)           |           |
+| 10   | 25.11.2025 | Approaches to Interpreting Studies VIII: Professional/Ethical | Student presentation and discussion (7)           |   On Moodle |
 | 11   | 02.12.2025 | Article discussion I                                    | Evaluation and discussion            | -                |
 | 12   | 09.12.2025 | Article discussion II                                   | Evaluation and discussion            | –                 |
 | 13   | 16.12.2025 | Student review papers: content and method presentations I | Presentation of review articles      | Shared by students |
@@ -43,8 +43,8 @@ Students enrolled on the course are expected to moderate at least one session du
 
 Students are expected to write a critique (response paper) of at least 3,000 words, which will replace the mid-term exam. Students will choose their own interpreting studies article to evaluate. At the end of the semester, they will be expected to prepare and submit a review article, which will replace the final exam. Papers submitted after the deadline will be penalised by 10 points for each day late.
 
-Midterm Response Paper Submission due date and time: xxx 1, xxxx, Tuesday 23:59
-Final Exam Review Paper due date and time: xxx 10, xxxx, Tuesday 23:59
+Midterm Response Paper Submission due date and time: November 11, 2026, Tuesday 23:59
+Final Exam Review Paper due date and time: January 6, 2026, Tuesday 23:59
 
 
 - **Presentations:** 25% 
