@@ -52,22 +52,25 @@ By the end of this course, students will be able to:
 
 ## Assigned Readings
 
-- Evans, V., & Green, M. (2006). *Cognitive Linguistics: An Introduction*. Routledge.  
-- Croft, W., & Cruse, D. A. (2004). *Cognitive Linguistics*. Cambridge University Press.  
-- Lakoff, G., & Johnson, M. (2003). *Metaphors We Live By*. University of Chicago Press.  
-- Langacker, R. W. (2008). *Cognitive Grammar: A Basic Introduction*. Oxford University Press.  
-- Fauconnier, G., & Turner, M. (2002). *The Way We Think: Conceptual Blending and the Mind’s Hidden Complexities*. Basic Books.  
+- Dabrowska, E., & Divjak, D. (Eds.). (2015). *The Routledge handbook of cognitive linguistics*. Routledge.  
+- Ellis, N. C., & Robinson, P. (Eds.). (2008). *Handbook of cognitive linguistics and second language acquisition*. Routledge.  
+- Evans, V. (2019). *Cognitive linguistics: A complete guide*. Routledge.  
+- Evans, V., & Green, M. (2006). *Cognitive linguistics: An introduction*. Routledge.  
+- Geeraerts, D., & Cuyckens, H. (Eds.). (2007). *The Oxford handbook of cognitive linguistics*. Oxford University Press.  
+- Lakoff, G., & Johnson, M. (2003). *Metaphors we live by*. University of Chicago Press.  
 
 ## Recommended Reading
 
-- Gibbs, R. W. (2006). *Embodiment and Cognitive Science*. Cambridge University Press.  
-- Kövecses, Z. (2010). *Metaphor: A Practical Introduction*. Oxford University Press.  
-- Bergen, B. (2012). *Louder than Words: The New Science of How the Mind Makes Meaning*. Basic Books.  
-- Talmy, L. (2000). *Toward a Cognitive Semantics*. MIT Press.  
-- Taylor, J. R. (1995). *Linguistic Categorization: Prototypes in Linguistic Theory* (2nd ed.). Clarendon Press.  
-- Evans, V. (2019). *Cognitive Linguistics: A Complete Guide*. Routledge.  
-- Cameron, L., & Low, G. (2004). *Researching and Applying Metaphor*. Cambridge University Press.  
-- Taylor, J. R. (2003). *Linguistic Categorization* (3rd ed.). Oxford University Press.  
+- Bergen, B. (2012). *Louder than words: The new science of how the mind makes meaning*. Basic Books.  
+- Cameron, L., & Low, G. (2004). *Researching and applying metaphor*. Cambridge University Press.  
+- Croft, W., & Cruse, D. A. (2004). *Cognitive linguistics*. Cambridge University Press.  
+- Fauconnier, G., & Turner, M. (2002). *The way we think: Conceptual blending and the mind’s hidden complexities*. Basic Books.  
+- Gibbs, R. W. (2006). *Embodiment and cognitive science*. Cambridge University Press.  
+- Kövecses, Z. (2010). *Metaphor: A practical introduction*. Oxford University Press.  
+- Langacker, R. W. (2008). *Cognitive grammar: A basic introduction*. Oxford University Press.  
+- Talmy, L. (2000). *Toward a cognitive semantics*. MIT Press.  
+- Taylor, J. R. (1995). *Linguistic categorization: Prototypes in linguistic theory* (2nd ed.). Clarendon Press.  
+- Taylor, J. R. (2003). *Linguistic categorization* (3rd ed.). Oxford University Press.  
 
 ## Requirements
 
