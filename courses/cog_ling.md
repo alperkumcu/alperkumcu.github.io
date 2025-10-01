@@ -13,12 +13,15 @@ This course offers an introductory overview of Cognitive Linguistics, a discipli
 
 Drawing on evidence from text analysis, language acquisition, psycholinguistic experimentation, neurolinguistic research, and brain imaging, the course provides students with an understanding of how language is structured in the mind and brain, how it reflects thought, and how it relates to embodied human experience.
 
-##  Objectives
+##  Objectives & Outcomes
 
-- To introduce students to the basic assumptions, central themes, and methodologies of Cognitive Linguistics.
-- To examine how cognitive mechanisms such as memory, attention, and conceptualisation are used in language behavior.
-- To develop an understanding of the interdisciplinary nature of Cognitive Linguistics, drawing on evidence from text analysis, language acquisition, language change, psycholinguistic experiments, and neuroscience.
-- To encourage a cognitive approach to the study of language by discussing the connections between linguistics and human cognition.
+By the end of this course, students will be able to:
+
+- Explain the core principles of Cognitive Linguistics, including usage-based and meaning-as-conceptualization perspectives.
+- Analyze how language is represented and processed in the mind and brain, drawing on psycholinguistic and neurolinguistic evidence.
+- Apply cognitive models of embodiment, image schemas, and conceptual metaphor to understand meaning construction and their potential role in teaching abstract concepts.
+- Evaluate key conceptual structures such as categorisation, polysemy, mental spaces, conceptual blending, and cognitive grammar, and reflect on their implications for language learning.
+- Interpret discourse and figurative language from a cognitive perspective, and connect Cognitive Linguistics to broader applications in research, communication, and language education through independent projects.
 
 ## Content
 
@@ -27,14 +30,6 @@ Drawing on evidence from text analysis, language acquisition, psycholinguistic e
 - Language Processing and Meaning: Embodied semantics, polysemy, and the mental lexicon.
 - Conceptual Structures in Language: Mental spaces, conceptual blending, and cognitive grammar.
 - Discourse and Applications: Figurative language, pragmatics, and student-led projects.
-
-## Learning Outcomes
-
-- Describe and explain the central principles of Cognitive Linguistics.
-- Identify and analyze linguistic phenomena (e.g., categorisation, metaphor, mental spaces, conceptualisation in grammar) from a cognitive perspective.
-- Recognize how language reflects and interacts with cognitive processes such as memory, attention, and conceptual representation.
-- Critically evaluate research in Cognitive Linguistics from interdisciplinary sources.
-- Apply a cognitive perspective to the study of language in relation to education, language acquisition, and human communication.
 
 ## Weekly Schedule
 
