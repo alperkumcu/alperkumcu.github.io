@@ -7,31 +7,58 @@ layout: page
 Assoc. Prof. Dr. Alper Kumcu (Visiting Professor)  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
-## Course Description
+## Description
 
-This course offers an introductory overview of Cognitive Linguistics, a discipline that examines language as a cognitive function and the mind through language. 
-Key topics include categorisation, metaphor, image schemas, mental spaces, the mental lexicon, conceptualisation in grammar, the representation of language in the mind, and embodied language processing.
+This course offers an introductory overview of Cognitive Linguistics, a discipline that studies language as a cognitive function and the mind through language. Key topics include categorisation, metaphor, image schemas, mental spaces, the mental lexicon, conceptualisation in grammar, the representation of language in the mind, and embodied language processing.
+Drawing on insights from text analysis, language acquisition, psycholinguistic experimentation, neurolinguistic evidence, and brain imaging, the course emphasizes the relationship between linguistic structure, thought, and embodied human experience. Students will also explore the implications of Cognitive Linguistics for language teaching and education.
 
-Drawing on insights from text analysis, language acquisition, psycholinguistic experimentation and neurolinguistic evidence, the course provides students with an understanding of the relationship between linguistic structure, thought, and embodied human experience, as well as its implications for education and language teaching.
+##  bjectives
+
+The objectives of this course are:
+
+- To introduce students to the basic assumptions, central themes, and methodologies of Cognitive Linguistics.
+- To examine how cognitive mechanisms such as memory, attention, and conceptualisation are used in language behavior.
+- To develop an understanding of the interdisciplinary nature of Cognitive Linguistics, drawing on evidence from text analysis, language acquisition, language change, psycholinguistic experiments, and neuroscience.
+- To encourage a cognitive approach to the study of language by discussing the connections between linguistics and human cognition.
+
+## Content
+
+- Models for the acquisition, processing, and application of human knowledge as studied in the cognitive sciences.
+- Cognitive Linguistics as the investigation of how language knowledge is acquired, processed, and applied.
+- Grammar as a model of human language knowledge.
+- Relations of Cognitive Linguistics to fields such as artificial intelligence, psychology, and education.
+- Major themes and frameworks, including categorisation, metaphor, mental spaces, conceptual blending, and cognitive grammar.
+
+## Course Learning Outcomes
+
+By the end of this course, students will be able to:
+
+- Describe and explain the central principles of Cognitive Linguistics.
+- Identify and analyze linguistic phenomena (e.g., categorisation, metaphor, mental spaces, conceptualisation in grammar) from a cognitive perspective.
+- Recognize how language reflects and interacts with cognitive processes such as memory, attention, and conceptual representation.
+- Critically evaluate research in Cognitive Linguistics from interdisciplinary sources.
+- Apply a cognitive perspective to the study of language in relation to education, language acquisition, and human communication.
+
+## Weekly Schedule
 
 ## Weekly Schedule
 
 | Week | Date | Topic | Content | Readings | Task |
 | --- | --- | --- | --- | --- | --- |
-| 1 | October 2, 2025 | Course Introduction | – |  | – |
-| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | Language as a cognitive function // Usage-based and meaning-as-conceptualization perspectives // Why CL matters for language teaching and education | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
-| 3 | October 16, 2025 | Categories, Prototypes, and Frames | Prototype theory (Rosch, Lakoff, Taylor) Radial categories, frames, and cultural models Implications for vocabulary learning and conceptual development in L2 | Evans & Green (ch.2) | – |
-| 4 | October 23, 2025 | Embodiment and Image Schemas | Embodied experience as the basis of conceptual structure Core image schemas: CONTAINER, PATH, FORCE, BALANCE Applications in teaching difficult concepts like prepositions | Evans & Green (2006, ch.6) Optional: Bergen (2012, ch.2–3) | – |
-| 5 | October 30, 2025 | Conceptual Metaphor Theory | Lakoff & Johnson’s framework of conceptual metaphor Primary metaphors and metaphorical systems Raising metaphor awareness in language learning | Lakoff & Johnson (2003) Optional: Kövecses (2010, ch.1–2) | – |
-| 6 | November 6, 2025 | Embodied Language Processing | Embodied semantics and sensorimotor simulation Neural and behavioural evidence for embodied meaning Classroom implications: gestures, action-based learning, multimodal teaching | Gibbs (2006, ch.5–6) Bergen (2012, ch.4–5) | – |
-| 7 | November 13, 2025 |  |  |  | Midterm |
-| 8 | November 20, 2025 | Mental Spaces and Conceptual Blending | Conceptual blending and emergent meaning Examples in literature, humour, and problem-solving Educational applications for creative thinking and storytelling | Fauconnier & Turner (2002, ch.1–2) Optional: Evans & Green (2006, ch.7) | – |
-| 9 | November 27, 2025 | The Mental Lexicon and Polysemy | Network view of word meaning and sense relations Polysemy and meaning extension Strategies for vocabulary teaching based on CL | Langacker (2008, ch.2) Optional: Evans & Green (2006, ch.4) | – |
-| 10 | December 4, 2025 | Cognitive Grammar: Grammar as Conceptualization | Langacker’s view of grammar as meaningful Construal, perspective, and reference-point constructions Rethinking grammar pedagogy through CL | Evans & Green (2006, ch.8) | – |
-| 11 | December 11, 2025 | Discourse, Pragmatics, and Education | Figurative language and metaphor in discourse Cognitive approaches to texts, narratives, and classroom language Integrating CL into materials design and teacher practice | Cameron & Low (2004, ch.1) Kövecses (2010, ch.7) |  |
-| 12 | December 18, 2025 |  |  | Selected articles | Student Presentations I |
-| 13 | December 25, 2025 |  |  | Selected articles | Student Presentations II |
-| 14 | January 1, 2026 | Holiday |  |  |  |
+| 1 | October 2, 2025 | Course Introduction | Introduction to the course: aims, scope, requirements, and methodology | – | – |
+| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | What is Cognitive Linguistics? // Language as a cognitive function // Usage-based and meaning-as-conceptualization perspectives // The cognitive turn in linguistics | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
+| 3 | October 16, 2025 | Categories, Prototypes, and Frames | Prototype theory (Rosch, Lakoff, Taylor) // Radial categories and frames // Cultural models and categorisation in cognition | Evans & Green (2006, ch.2) | – |
+| 4 | October 23, 2025 | Representing Language in Mind and Brain | Psycholinguistic and neurolinguistic approaches to language // Brain imaging and experimental evidence // The representation of linguistic knowledge in memory | Selected articles (to be announced) | – |
+| 5 | October 30, 2025 | Embodiment, Image Schemas, and Conceptual Metaphor Theory | Embodied experience as the basis of conceptual structure // Core image schemas (CONTAINER, PATH, FORCE, BALANCE) // Conceptual metaphor theory (Lakoff & Johnson) // Primary metaphors and metaphorical systems | Lakoff & Johnson (2003) Evans & Green (2006, ch.6) Optional: Bergen (2012, ch.2–3) | – |
+| 6 | November 6, 2025 | Embodied Language Processing | Embodied semantics and sensorimotor simulation // Neural and behavioural evidence for embodied meaning // Contrast with distributional accounts of meaning | Gibbs (2006, ch.5–6) Optional: Bergen (2012, ch.4–5) | – |
+| 7 | November 13, 2025 | – | – | – | Midterm |
+| 8 | November 20, 2025 | Mental Spaces and Conceptual Blending | Mental space theory and conceptual integration // Blending in literature, humour, and problem-solving // Computational approaches to blending in AI (selective examples) | Fauconnier & Turner (2002, ch.1–2) Optional: Evans & Green (2006, ch.7) | – |
+| 9 | November 27, 2025 | The Mental Lexicon and Polysemy | Lexical networks and sense relations // Polysemy and meaning extension // Cognitive models of word meaning | Langacker (2008, ch.2) Optional: Evans & Green (2006, ch.4) | – |
+| 10 | December 4, 2025 | Cognitive Grammar: Grammar as Conceptualization | Grammar as meaningful conceptualization (Langacker) // Construal, perspective, and reference-point constructions | Langacker (2008, selected chapters) Evans & Green (2006, ch.8) | – |
+| 11 | December 11, 2025 | Discourse, Pragmatics, and Cognition | Figurative language in discourse // Cognitive approaches to narrative and text // Context, inference, and meaning construction | Cameron & Low (2004, ch.1) Kövecses (2010, ch.7) | – |
+| 12 | December 18, 2025 | Student Presentations I | Application of Cognitive Linguistics to selected research themes | Selected articles | Student Presentations I |
+| 13 | December 25, 2025 | Student Presentations II | Application of Cognitive Linguistics to selected research themes | Selected articles | Student Presentations II |
+| 14 | January 1, 2026 | Holiday | – | – | – |
 
 ## Assigned Readings
 
