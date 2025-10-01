@@ -36,8 +36,8 @@ By the end of this course, students will be able to:
 | Week | Date | Topic | Content | Readings | Task |
 | --- | --- | --- | --- | --- | --- |
 | 1 | October 2, 2025 | Course Introduction | Course aims, scope, and requirements | – | – |
-| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | What is Cognitive Linguistics? // Usage-based perspectives | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
-| 3 | October 16, 2025 | Categories, Prototypes, and Frames | Prototype theory // Radial categories & cultural models | Evans & Green (2006, ch.2) | – |
+| 2 | October 9, 2025 | Foundations of Cognitive Linguistics | What is Cognitive Linguistics? // Key Commitments | Croft & Cruse (2004, ch.1) Optional: Evans (2019, ch.1) | – |
+| 3 | October 16, 2025 | Categories, Prototypes, Frames and Domains | Prototype theory // Radial categories & cultural models | Evans & Green (2006, ch.2) | – |
 | 4 | October 23, 2025 | Representing Language in Mind and Brain | Neurolinguistic & psycholinguistic evidence // Language in memory | Selected articles (to be announced) | – |
 | 5 | October 30, 2025 | Embodiment, Image Schemas, and Conceptual Metaphor Theory | Embodiment & image schemas // Conceptual metaphor theory | Lakoff & Johnson (2003) Evans & Green (2006, ch.6) Optional: Bergen (2012, ch.2–3) | – |
 | 6 | November 6, 2025 | Embodied Language Processing | Embodied semantics // Neural & behavioural evidence | Gibbs (2006, ch.5–6) Optional: Bergen (2012, ch.4–5) | – |
