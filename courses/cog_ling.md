@@ -27,7 +27,7 @@ Drawing on insights from text analysis, language acquisition, psycholinguistic e
 - Relations of Cognitive Linguistics to fields such as artificial intelligence, psychology, and education.
 - Major themes and frameworks, including categorisation, metaphor, mental spaces, conceptual blending, and cognitive grammar.
 
-## Course Learning Outcomes
+## Learning Outcomes
 
 - Describe and explain the central principles of Cognitive Linguistics.
 - Identify and analyze linguistic phenomena (e.g., categorisation, metaphor, mental spaces, conceptualisation in grammar) from a cognitive perspective.
@@ -36,7 +36,6 @@ Drawing on insights from text analysis, language acquisition, psycholinguistic e
 - Apply a cognitive perspective to the study of language in relation to education, language acquisition, and human communication.
 
 ## Weekly Schedule
-
 
 | Week | Date | Topic | Content | Readings | Task |
 | --- | --- | --- | --- | --- | --- |
