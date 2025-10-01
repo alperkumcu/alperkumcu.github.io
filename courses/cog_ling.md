@@ -12,9 +12,7 @@ Assoc. Prof. Dr. Alper Kumcu (Visiting Professor)
 This course offers an introductory overview of Cognitive Linguistics, a discipline that studies language as a cognitive function and the mind through language. Key topics include categorisation, metaphor, image schemas, mental spaces, the mental lexicon, conceptualisation in grammar, the representation of language in the mind, and embodied language processing.
 Drawing on insights from text analysis, language acquisition, psycholinguistic experimentation, neurolinguistic evidence, and brain imaging, the course emphasizes the relationship between linguistic structure, thought, and embodied human experience. Students will also explore the implications of Cognitive Linguistics for language teaching and education.
 
-##  bjectives
-
-The objectives of this course are:
+##  Objectives
 
 - To introduce students to the basic assumptions, central themes, and methodologies of Cognitive Linguistics.
 - To examine how cognitive mechanisms such as memory, attention, and conceptualisation are used in language behavior.
@@ -31,8 +29,6 @@ The objectives of this course are:
 
 ## Course Learning Outcomes
 
-By the end of this course, students will be able to:
-
 - Describe and explain the central principles of Cognitive Linguistics.
 - Identify and analyze linguistic phenomena (e.g., categorisation, metaphor, mental spaces, conceptualisation in grammar) from a cognitive perspective.
 - Recognize how language reflects and interacts with cognitive processes such as memory, attention, and conceptual representation.
@@ -41,7 +37,6 @@ By the end of this course, students will be able to:
 
 ## Weekly Schedule
 
-## Weekly Schedule
 
 | Week | Date | Topic | Content | Readings | Task |
 | --- | --- | --- | --- | --- | --- |
