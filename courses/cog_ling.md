@@ -59,7 +59,7 @@ By the end of this course, students will be able to:
 - Geeraerts, D., & Cuyckens, H. (Eds.). (2007). *The Oxford handbook of cognitive linguistics*. Oxford University Press.  
 - Lakoff, G., & Johnson, M. (2003). *Metaphors we live by*. University of Chicago Press.  
 
-## Recommended Reading
+## Recommended Readings
 
 - Bergen, B. (2012). *Louder than words: The new science of how the mind makes meaning*. Basic Books.  
 - Cameron, L., & Low, G. (2004). *Researching and applying metaphor*. Cambridge University Press.  
