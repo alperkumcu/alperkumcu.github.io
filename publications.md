@@ -25,11 +25,11 @@ lang: en
 
 ### Scopus
 
-1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *36*(2), 1-30. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"} (accepted)
+1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *36*(2), 1-30. [http://doi.org/](http://doi.org/){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"}
 
 ### TRIndex
 
-1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (2025). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *21*(2), 1-30. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"} (submitted)
+1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (2025). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *21*(2), 1-30. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"}
 
 2. Öztürk, M. S., & **Kumcu, A.**. (2025). Effort in machine translation post-editing: the role of expertise. *Çankaya University Journal of Humanities and Social Sciences*, *19*(2), xxx-xxx. [https://doi.org/](https://doi.org/)
 
