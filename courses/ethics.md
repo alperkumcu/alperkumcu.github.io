@@ -4,15 +4,12 @@ layout: page
 ---
 
 **Spring 2025–2026**  
-Asst. Prof. Dr. Alper Kumcu  
+Assoc. Prof. Dr. Alper Kumcu  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](https://alperkumcu.github.io)
 
 ---
 
 ## Announcements
-
-The course is being updated.  
-Please follow this page regularly for updates. Reading lists may be changed in advance.
 For all assignments, files should be named in the following format:
 **Name_Surname_StudentNumber.docx**  
 (e.g., Alper_Kumcu_12345678.docx)
