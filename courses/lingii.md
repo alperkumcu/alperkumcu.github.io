@@ -63,4 +63,4 @@ By the end of this course, students will be able to:
 - Attendance is mandatory. Students exceeding the limit will automatically fail (F1).
 - Missing the final exam results in automatic failure (F2).  
 
-[Pre Feedback](https://forms.gle/QAiVmmCyU5CshH4o7).
+[Pre Feedback](https://forms.gle/QAiVmmCyU5CshH4o7)
