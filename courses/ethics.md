@@ -1,5 +1,5 @@
 ---
-title: "Research and Publication Ethics (IMT662)"
+title: "Research and Publication Ethics"
 layout: page
 ---
 
@@ -68,6 +68,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 5 – Participant-Oriented Research I  
 **March 17, 2026 (Tuesday)**
+Moderator 1
 
 **Topics**
 
@@ -80,6 +81,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 6 – Participant-Oriented Research II  
 **March 24, 2026 (Tuesday)**
+Moderator 2
 
 **Topics**
 
@@ -92,6 +94,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 7 – Process-Oriented Research I  
 **March 31, 2026 (Tuesday)**
+Moderator 3
 
 **Topics**
 
@@ -103,6 +106,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 8 – Process-Oriented Research II  
 **April 7, 2026 (Tuesday)**
+Moderator 4
 
 **Topics**
 
@@ -115,6 +119,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 9 – Product-Oriented Research I  
 **April 14, 2026 (Tuesday)**
+Moderator 5
 
 **Topics**
 
@@ -127,6 +132,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 10 – Product-Oriented Research II  
 **April 21, 2026 (Tuesday)**
+Moderator 6
 
 **Topics**
 
@@ -137,6 +143,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 11 – Context-Oriented Research I  
 **April 28, 2026 (Tuesday)**
+Moderator 7
 
 **Topics**
 
@@ -149,6 +156,7 @@ Course overview, expectations, structure, and assessment.
 
 ### Week 12 – Context-Oriented Research II  
 **May 5, 2026 (Tuesday)**
+Moderator 8
 
 Continuation of context-oriented research applications and discussion.
 
@@ -229,6 +237,8 @@ June 5, 2026 (Friday) – 23:59
 
 ## Journals for Selected Papers
 
+- *Target*
+- *The Translator and Interpreter Trainer*
 - *Babel*
 - *Digital Translation*
 - *FORUM*
