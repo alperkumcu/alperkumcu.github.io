@@ -26,6 +26,7 @@ lang: en
 - Consecutive Interpreting (MA)
 
 #### Undergraduate
+- [Linguistics II](courses/lingii.md){:target="_blank"} (2nd year, 2026 - Hacettepe T&I)
 - [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
 - [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year - Hacettepe T&I)
 - [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I) 
