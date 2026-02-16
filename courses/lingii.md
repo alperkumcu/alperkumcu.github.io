@@ -51,12 +51,16 @@ By the end of this course, students will be able to:
 - Edwards, J. (2013). Sociolinguistics: A very short introduction. Oxford University Press.
 - Grosjean, F. (2010). Bilingualism: A very short introduction. Oxford University Press.
 - Holmes, J. (2013). An introduction to sociolinguistics (4th ed.). Routledge.
-- Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed. draft). https://web.stanford.edu/~jurafsky/slp3/
+- Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed. draft).
 - McCulloch, G. (2019). Because Internet: Understanding the new rules of language. Riverhead Books.
 - McEnery, T., & Hardie, A. (2016). Corpus linguistics: Method, theory and practice. Cambridge University Press.
 - Pinker, S. (1994). The language instinct: How the mind creates language. William Morrow.
 - Salzmann, Z., Stanlaw, J., & Adachi, N. (2014). Language, culture, and society: An introduction to linguistic anthropology (6th ed.). Westview Press.
 
-## Requirements
+## Requirements and Evaluation
+
+- To be considered successful in the course, a student must receive at least 50 out of 100 on the final exam. Any student who scores below 50 out of 100 will fail the course.
+- Attendance is mandatory. Students exceeding the limit will automatically fail (F1).
+- Missing the final exam results in automatic failure (F2).  
 
 [Pre Feedback](https://forms.gle/QAiVmmCyU5CshH4o7).

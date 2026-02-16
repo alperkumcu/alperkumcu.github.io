@@ -28,10 +28,15 @@ lang: en
 #### Undergraduate
 - [Linguistics II](courses/lingii.md){:target="_blank"} (2nd year, 2026 - Hacettepe T&I)
 - [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
+
 - [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year - Hacettepe T&I)
-- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I) 
-- [Localization](courses/loc.md){:target="_blank"} (3rd year - Hacettepe T&I) 
+- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I)
+
+- [CAT Tools](courses/cat.md){:target="_blank"} (3rd year - Hacettepe T&I)
+- [Localization](courses/loc.md){:target="_blank"} (3rd year - Hacettepe T&I)
+
 - [History of English and American Cultures](courses/ukI.md){:target="_blank"} (2nd year - Hacettepe T&I)
+- [Contemporary English and American Society](courses/ukII.md){:target="_blank"} (2nd year - Hacettepe T&I)
 
 - Simultaneous Interpreting II (4th year - Hacettepe T&I)
 - Conference Interpreting I/II (4th year - Hacettepe T&I)
