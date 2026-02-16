@@ -7,7 +7,7 @@ layout: page
 Assoc. Prof. Dr. Alper Kumcu (Visiting Professor)  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
-## Description
+## Course Description
 
 This course offers an introductory overview of Cognitive Linguistics, a discipline that examines language as a cognitive function and the mind through language. It explores fundamental concepts such as categorisation, prototypes, image schemas, conceptual metaphor, mental spaces, the mental lexicon, conceptualisation in grammar, discourse, and embodied language processing.
 
