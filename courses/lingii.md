@@ -7,11 +7,9 @@ layout: page
 Assoc. Prof. Dr. Alper Kumcu
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
-## Course Description
+## Course Description and Content
 
-This course offers an undergraduate-level introduction to Macro-Linguistics, focusing on language as a social, cognitive, cultural, and developmental phenomenon. Moving beyond the internal structure of language, the course examines how language varies across communities, constructs identity, reflects power relations, changes over time, and is shaped by multilingualism and language contact.
-
-The course explores major topics such as social and regional variation, language and culture, bilingualism, language change, first and second language acquisition, language processing, and the relationship between language and the brain. Students will gain an integrated understanding of how language functions within society, the mind, and human experience.
+The course begins with an overview of the distinction between micro- and macro-linguistics, introducing the shift from the internal structure of language to language in use. It then examines how language varies across social groups and regions, focusing on issues of identity, style, prestige, and power. Topics such as multilingualism, bilingual development, diglossia, and language contact are explored alongside mechanisms of language change and the impact of innovation in contemporary communication contexts. The course further investigates the relationship between language and culture, including cultural categories and linguistic relativity. In the second half of the semester, attention turns to language acquisition and cognition, addressing first and second language acquisition processes, the mental organization and processing of language, and the relationship between language and the brain. The final week introduces computational linguistics and digital humanities, highlighting how large-scale language data, corpus methods, and digital tools are used to analyze variation, change, discourse, and multilingual practices in contemporary societies. The course concludes by integrating social, cognitive, and technological perspectives into a comprehensive macro-linguistic framework.
 
 ##  Objectives & Outcomes
 
@@ -22,15 +20,8 @@ By the end of this course, students will be able to:
 - Describe the processes involved in first and second language acquisition and distinguish between them.
 - Discuss how language is represented and processed in the mind and localized in the brain, drawing on neurolinguistic evidence.
 - Evaluate the role of language in shaping culture, worldview, and social interaction.
-- Integrate social, cognitive, and cultural perspectives to develop a holistic understanding of language as a human phenomenon.
-
-## Content
-
-- Foundations of Cognitive Linguistics: Core principles, usage-based perspectives, and categorisation.
-- Mind, Brain, and Embodiment: Neurolinguistic evidence, image schemas, and conceptual metaphor theory.
-- Language Processing and Meaning: Embodied semantics, polysemy, and the mental lexicon.
-- Conceptual Structures in Language: Mental spaces, conceptual blending, and cognitive grammar.
-- Discourse and Applications: Figurative language, pragmatics, and student-led projects.
+- Interpret basic findings from corpus-based and computational approaches to language, and understand how digital tools and large-scale language data contribute to the study of linguistic variation, change, and discourse.
+- Integrate social, cognitive, cultural, and technological perspectives to develop a holistic understanding of language as a dynamic human and societal phenomenon.
 
 ## Weekly Schedule
 
@@ -48,34 +39,24 @@ By the end of this course, students will be able to:
 | 10 | April 21, 2026 | Chapter 14 – Second Language Acquisition | Chapter 14 – Second Language Acquisition |
 | 11 | April 28, 2026 | Language in the Mind | Chapter 12 – Language and the Brain (language processing, slips, mental organization) |
 | 12 | May 5, 2026 | Chapter 12 – Language and the Brain | Chapter 12 – Language and the Brain (brain areas, aphasia, lateralization) |
-| 13 | May 12, 2026 | General Synthesis: Language, Society and Mind | Chapters 12–20 (review and integration) |
+| 13 | May 12, 2026 | Computational Linguistics and Digital Humanities | – |
 | 14 | May 19, 2026 | Holiday | – |
-
-
-## Assigned Readings
-
-- Dabrowska, E., & Divjak, D. (Eds.). (2015). *The Routledge handbook of cognitive linguistics*. Routledge.  
-- Ellis, N. C., & Robinson, P. (Eds.). (2008). *Handbook of cognitive linguistics and second language acquisition*. Routledge.  
-- Evans, V. (2019). *Cognitive linguistics: A complete guide*. Routledge.  
-- Evans, V., & Green, M. (2006). *Cognitive linguistics: An introduction*. Routledge.  
-- Geeraerts, D., & Cuyckens, H. (Eds.). (2007). *The Oxford handbook of cognitive linguistics*. Oxford University Press.  
-- Lakoff, G., & Johnson, M. (2003). *Metaphors we live by*. University of Chicago Press.  
 
 ## Recommended Readings
 
-- Bergen, B. (2012). *Louder than words: The new science of how the mind makes meaning*. Basic Books.  
-- Cameron, L., & Low, G. (2004). *Researching and applying metaphor*. Cambridge University Press.  
-- Croft, W., & Cruse, D. A. (2004). *Cognitive linguistics*. Cambridge University Press.  
-- Fauconnier, G., & Turner, M. (2002). *The way we think: Conceptual blending and the mind’s hidden complexities*. Basic Books.  
-- Gibbs, R. W. (2006). *Embodiment and cognitive science*. Cambridge University Press.  
-- Kövecses, Z. (2010). *Metaphor: A practical introduction*. Oxford University Press.  
-- Langacker, R. W. (2008). *Cognitive grammar: A basic introduction*. Oxford University Press.  
-- Talmy, L. (2000). *Toward a cognitive semantics*. MIT Press.  
-- Taylor, J. R. (1995). *Linguistic categorization: Prototypes in linguistic theory* (2nd ed.). Clarendon Press.  
-- Taylor, J. R. (2003). *Linguistic categorization* (3rd ed.). Oxford University Press.  
+- Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). Digital humanities. MIT Press.
+- Crystal, D. (2004). The stories of English. Penguin.
+- Crystal, D. (2005). How language works. Penguin.
+- Crystal, D. (2011). Language and the Internet (2nd ed.). Cambridge University Press.
+- Edwards, J. (2013). Sociolinguistics: A very short introduction. Oxford University Press.
+- Grosjean, F. (2010). Bilingualism: A very short introduction. Oxford University Press.
+- Holmes, J. (2013). An introduction to sociolinguistics (4th ed.). Routledge.
+- Jurafsky, D., & Martin, J. H. (2023). Speech and language processing (3rd ed. draft). https://web.stanford.edu/~jurafsky/slp3/
+- McCulloch, G. (2019). Because Internet: Understanding the new rules of language. Riverhead Books.
+- McEnery, T., & Hardie, A. (2016). Corpus linguistics: Method, theory and practice. Cambridge University Press.
+- Pinker, S. (1994). The language instinct: How the mind creates language. William Morrow.
+- Salzmann, Z., Stanlaw, J., & Adachi, N. (2014). Language, culture, and society: An introduction to linguistic anthropology (6th ed.). Westview Press.
 
 ## Requirements
 
-- **Midterm (40%)** – Week 7  
-- **Student Presentation (20%)** – Weeks 11-12  
-- **Final Exam (40%)** – January 8, 2026  
+https://forms.gle/QAiVmmCyU5CshH4o7
