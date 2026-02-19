@@ -142,6 +142,20 @@ Group presentations and workflow reflection.
 Discussion on the impact of translation technologies on professional identity and the future of the industry.
 
 
+## Evaluation
+
+**Midterm Exam (via HADİ – theoretical exam)** – 30%
+**Final Exam (Week 15, via HADİ – theoretical + practical components)** – 50%
+**Semester Project** – Full workflow implementation of a realistic translation project using CAT tools – 10%
+**Participation and Practical Work** – In-class exercises and active participation – 10%
+
+### Important Regulations
+
+- Students who do not take the final exam will automatically receive **F2 (fail)**.
+- To successfully pass the course, students must obtain **at least 50/100 in the final exam**. Students who score below 50/100 (i.e., below 25/50 within the final exam component) will automatically fail the course.
+- Attendance is compulsory. Students who exceed the absence limit will automatically receive **F1 (fail)**.
+
+
 ## Suggested Literature
 
 Bowker, L. (2002). *Computer-Aided Translation Technology: A Practical Introduction*. University of Ottawa Press.
