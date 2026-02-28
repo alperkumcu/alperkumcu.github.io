@@ -49,10 +49,10 @@ lang: en
 /* Responsive YouTube Embed */
 .video-embed {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 ratio */
   border-radius: 8px;
+  overflow: hidden;
 }
 
 .video-embed iframe {
@@ -62,7 +62,6 @@ lang: en
   width: 100%;
   height: 100%;
   border: 0;
-  border-radius: 8px;
 }
 
 </style>
@@ -72,18 +71,18 @@ lang: en
 
 <div class="video-grid">
 
-  <!-- YouTube Video (NEW FIRST VIDEO) -->
-  <div class="video-item">
-    <div class="video-embed">
-      <iframe 
-        src="https://www.youtube.com/embed/JzrFLoyDWlY?si=DEzCjpcRCSW2JhvT" 
-        title="YouTube video player" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen>
-      </iframe>
-    </div>
-    <span class="video-title">Video Title Here</span>
+<!-- YouTube Video (Styled Like Others) -->
+<div class="video-item">
+  <div class="video-thumbnail video-embed">
+    <iframe 
+      src="https://www.youtube.com/embed/JzrFLoyDWlY?si=jpVTNpFcaF7FUsUh" 
+      title="YouTube video player"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
   </div>
+  <span class="video-title">Minds Between Languages - 29</span>
+</div>
 
   <!-- Video 1 -->
   <div class="video-item">
