@@ -46,12 +46,45 @@ lang: en
   color: #007bff;
 }
 
+/* Responsive YouTube Embed */
+.video-embed {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 8px;
+}
+
 </style>
 
 
 ### Videos
 
 <div class="video-grid">
+
+  <!-- YouTube Video (NEW FIRST VIDEO) -->
+  <div class="video-item">
+    <div class="video-embed">
+      <iframe 
+        src="https://www.youtube.com/embed/JzrFLoyDWlY?si=DEzCjpcRCSW2JhvT" 
+        title="YouTube video player" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+    </div>
+    <span class="video-title">Video Title Here</span>
+  </div>
+
   <!-- Video 1 -->
   <div class="video-item">
     <a href="/multimedia/aa">
@@ -84,13 +117,14 @@ lang: en
     <a href="/multimedia/bzz" class="video-title">Bilinç ve Zihin Zirvesi</a>
   </div>
 
-<!-- Video 5 -->
+  <!-- Video 5 -->
   <div class="video-item">
     <a href="/multimedia/dho">
       <img src="/thumbnails/tpd.png" alt="Dijital Hikaye Atölyesi" class="video-thumbnail">
     </a>
     <a href="/multimedia/bzz" class="video-title">Dijital Hikaye Atölyesi</a>
   </div>
+
 </div>
 
 ### Audio
