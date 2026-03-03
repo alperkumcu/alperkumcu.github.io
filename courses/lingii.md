@@ -59,8 +59,18 @@ By the end of this course, students will be able to:
 
 ## Requirements and Evaluation
 
-- To be considered successful in the course, a student must receive at least 50 out of 100 on the final exam. Any student who scores below 50 out of 100 will fail the course.
-- Attendance is mandatory. Students exceeding the limit will automatically fail (F1).
-- Missing the final exam results in automatic failure (F2).  
+### Assessment Structure
+
+- **Midterm Exam:** 30%  
+- **Final Exam:** 50%  
+- **Individual Assignments / Participation:** 20%
+
+Both the midterm and the final exam will consist of multiple-choice questions.
+
+### Requirements
+
+- To be considered successful in the course, a student must receive at least **50 out of 100 on the final exam**. Any student who scores below 50 out of 100 will fail the course.
+- Attendance is mandatory. Students exceeding the absence limit will automatically fail (F1).
+- Missing the final exam results in automatic failure (F2).
 
 [Pre Feedback](https://forms.gle/QAiVmmCyU5CshH4o7)
