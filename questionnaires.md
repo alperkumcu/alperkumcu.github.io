@@ -1,11 +1,16 @@
 ---
-title: "Language of Pain - Norming Questionnaires"
-output:
-  html_document:
-    theme: flatly
-    toc: false
-    self_contained: true
+layout: null
+title: Questionnaires
+permalink: /questionnaires/
+lang: en
 ---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Questionnaires</title>
+
 
 <style>
 body {
