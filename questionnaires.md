@@ -7,7 +7,6 @@ output:
     self_contained: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -51,8 +50,6 @@ body {
   border-left: 5px solid #fbc02d;
 }
 </style>
-
-# Questionnaire Links
 
 Please select one of the questionnaire lists below.
 
