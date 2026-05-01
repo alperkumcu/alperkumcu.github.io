@@ -1,10 +1,3 @@
----
-layout: null
-title: Questionnaires
-permalink: /questionnaires/
-lang: en
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
