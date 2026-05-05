@@ -79,11 +79,6 @@ List 4
 </a>
 </div>
 
-<div class="questionnaire-card">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeYTR1rUu_-FtqqcB-l27Mn57loNyCaPtbSC6NeG4_QTWLoqg/viewform" target="_blank">
-List 5
-</a>
-</div>
 
 <div class="questionnaire-card">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScbMw6R4G2u2XVy0E92xEa82_klxXSSNoUUGtiAswM_YXRftw/viewform" target="_blank">
@@ -106,12 +101,6 @@ List 8
 <div class="questionnaire-card">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSchNHMVmnxDDAAQBjMDbSQTsiNj5U_9EIyh9f05vKe1I8FTSg/viewform" target="_blank">
 List 9
-</a>
-</div>
-
-<div class="questionnaire-card">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ0NlU5sl4CsUql_EmLXUVe4EiO6ITMVCJbt8zTVKdQLoMsQ/viewform" target="_blank">
-List 10
 </a>
 </div>
 
