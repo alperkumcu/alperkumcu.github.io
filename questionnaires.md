@@ -93,12 +93,6 @@ List 7
 </div>
 
 <div class="questionnaire-card">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScjz1e0EHnmzUiBCn1oXMwxlHuTpVXH4p9VUGQnMzcd2qPZxw/viewform" target="_blank">
-List 8
-</a>
-</div>
-
-<div class="questionnaire-card">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSchNHMVmnxDDAAQBjMDbSQTsiNj5U_9EIyh9f05vKe1I8FTSg/viewform" target="_blank">
 List 9
 </a>
