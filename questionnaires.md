@@ -7,12 +7,6 @@ output:
     self_contained: true
 ---
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Questionnaires</title>
-
-
 <style>
 body {
   max-width: 900px;
@@ -56,10 +50,6 @@ Please select one of the questionnaire lists below.
 <div class="questionnaire-list">
 
 <div class="questionnaire-card">
-<<<<<<< HEAD
-=======
-<div class="questionnaire-card">
->>>>>>> 2545cdade83b4157a41209ae252a9409b26302df
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScbMw6R4G2u2XVy0E92xEa82_klxXSSNoUUGtiAswM_YXRftw/viewform" target="_blank">
 List 6
 </a>
