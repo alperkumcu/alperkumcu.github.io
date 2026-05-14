@@ -9,8 +9,7 @@ Assoc. Prof. Dr. Alper Kumcu
 
 
 # Hafta 12  
-## Sözlü Çeviriye Kuramsal Bakış  
-### Interpreting Studies
+## Sözlü Çeviri Çalışmaları 
 
 Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılacaktır. Sözlü çevirinin temel kavramları, araştırma alanları, sözlü çeviride mesleki roller ve bilişsel boyutlar ele alınacaktır. Özellikle toplum çevirmenliği, sağlık alanında sözlü çeviri ve eşzamanlı çeviride uzmanlık ile çalışma belleği ilişkisi üzerinde durulacaktır.
 
