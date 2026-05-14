@@ -14,7 +14,7 @@ Assoc. Prof. Dr. Alper Kumcu
 
 **Öğretim elemanı:** A. Kumcu
 
-Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılacaktır. Sözlü çevirinin temel kavramları, araştırma alanları, mesleki rolleri ve bilişsel boyutları ele alınacaktır. Özellikle toplum çevirmenliği, sağlık alanında sözlü çeviri ve simultane çeviride uzmanlık ile çalışma belleği ilişkisi üzerinde durulacaktır.
+Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılacaktır. Sözlü çevirinin temel kavramları, araştırma alanları, sözlü çeviride mesleki roller ve bilişsel boyutlar ele alınacaktır. Özellikle toplum çevirmenliği, sağlık alanında sözlü çeviri ve eşzamanlı çeviride uzmanlık ile çalışma belleği ilişkisi üzerinde durulacaktır.
 
 ## Okuma Listesi
 
