@@ -40,7 +40,6 @@ Bu haftada çeviribilim ve sözlü çeviri araştırmalarında kullanılan temel
 - Meister, L. (2017). On methodology: How mixed methods research can contribute to translation studies. *Translation Studies, 11*(1), 66–83.  
   <https://doi.org/10.1080/14781700.2017.1374206>
 
----
 
 # Bilişsel Çeviri Çalışmaları
 
