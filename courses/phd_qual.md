@@ -1,5 +1,5 @@
 ---
-title: "PhD Qualifying Exam"
+title: "Preparation for the PhD Qualifying Exam"
 layout: page
 ---
 
