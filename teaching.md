@@ -20,6 +20,7 @@ lang: en
 ### University Courses
 
 #### Graduate
+- - [Preparation for the PhD Qualifying Exam](courses/phd_qual.md){:target="_blank"} (PhD)
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD, 2021 Spring -) 
 - [Research and Publication Ethics](courses/ethics.md){:target="_blank"} (MA)  
 - [Interpreting Studies](courses/int_stud.md){:target="_blank"} (MA)
