@@ -12,8 +12,6 @@ Assoc. Prof. Dr. Alper Kumcu
 ## Sözlü Çeviriye Kuramsal Bakış  
 ### Interpreting Studies
 
-**Öğretim elemanı:** A. Kumcu
-
 Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılacaktır. Sözlü çevirinin temel kavramları, araştırma alanları, sözlü çeviride mesleki roller ve bilişsel boyutlar ele alınacaktır. Özellikle toplum çevirmenliği, sağlık alanında sözlü çeviri ve eşzamanlı çeviride uzmanlık ile çalışma belleği ilişkisi üzerinde durulacaktır.
 
 ## Okuma Listesi
@@ -31,8 +29,6 @@ Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılac
 # Hafta 13  
 ## Araştırma Teknikleri
 
-**Öğretim elemanı:** A. Kumcu
-
 Bu haftada çeviribilim ve sözlü çeviri araştırmalarında kullanılan temel araştırma yöntemleri ele alınacaktır. Nitel, nicel ve karma yöntem yaklaşımları; araştırma sorusu geliştirme; veri toplama ve analiz süreçleri; deneysel, betimleyici ve uygulamalı araştırma tasarımları tartışılacaktır.
 
 ## Okuma Listesi
@@ -49,7 +45,7 @@ Bu haftada çeviribilim ve sözlü çeviri araştırmalarında kullanılan temel
 
 # Bilişsel Çeviri Çalışmaları
 
-Bu bölümde çeviri ve sözlü çeviri süreçlerinin bilişsel boyutları ele alınacaktır. Çeviri sürecinde dikkat, bellek, karar verme, problem çözme, bilişsel yük, uzmanlık ve nörobilişsel süreçler gibi temel konular tartışılacaktır. Ayrıca bilişsel çeviri çalışmaları alanındaki temel el kitapları ve güncel yaklaşımlar tanıtılacaktır.
+Bu bölümde çeviri süreçlerinin bilişsel boyutları ele alınacaktır. Çeviri sürecinde dikkat, bellek, karar verme, problem çözme, bilişsel yük, uzmanlık ve nörobilişsel süreçler gibi temel konular tartışılacaktır. Ayrıca bilişsel çeviri çalışmaları alanındaki temel metinler ve güncel yaklaşımlar tanıtılacaktır.
 
 ## Okuma Listesi
 
