@@ -11,6 +11,14 @@ lang: en
 <p>Please contact me via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.</p>
 <br>
 
+### 2026
+
+1. *İki Dillilikte Duyuşsal Dil İşlemleme: Sözlü Çeviri Bize Ne Söylüyor?* 20 Mayıs 2026. İzmir Dilbilim Çevresi, Türkiye (online).
+
+2. *Deri–Kalp–Ses–Zihin: Bilişsel Çeviri Çalışmalarında Duygusal Dönüşüm*. 18 Mayıs 2026. Mütercim ve Tercümanlık Bölümü, Çankaya Üniversitesi, Türkiye (face to face).
+
+3.
+
 ### 2025
 
 1. *Maddenin Yapısı Belli, Peki Ya Dilin?* (The structure of matter is clear. But what about language?). 21 May 2025. Department of Chemistry. Hacettepe University, Turkey (face to face)
