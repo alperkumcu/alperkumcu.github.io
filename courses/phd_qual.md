@@ -23,6 +23,31 @@ Bu haftada sözlü çeviri çalışmaları alanına kuramsal bir giriş yapılac
 - Liu, M., Schallert, D. L., & Carroll, P. J. (2004). Working memory and expertise in simultaneous interpreting. *Interpreting, 6*(1), 19–42.  
   <https://doi.org/10.1075/intp.6.1.04liu>
 
+
+## Ek Okuma Listesi
+
+- Salevsky, H. (1993). The distinctive nature of interpreting studies. *Target, 5*(2), 149–167. https://doi.org/10.1075/target.5.2.03sal
+
+- Dong, Y., Liu, Y., & Cai, R. (2018). How does consecutive interpreting training influence working memory: A longitudinal study of potential links between the two. *Frontiers in Psychology, 9*, Article 875. https://doi.org/10.3389/fpsyg.2018.00875
+
+- Setton, R. (1999). *Simultaneous interpretation: A cognitive-pragmatic analysis*. John Benjamins.
+
+- Hale, S. B. (2004). *The discourse of court interpreting: Discourse practices of the law, the witness and the interpreter*. John Benjamins. https://doi.org/10.1075/btl.52
+
+- Berk-Seligson, S. (1988). The impact of politeness in witness testimony: The influence of the court interpreter. *Multilingua, 7*(4), 411–439. https://doi.org/10.1515/mult.1988.7.4.411
+
+- Magnifico, C., & Defrancq, B. (2017). Hedges in conference interpreting: The role of gender. *Interpreting, 19*(1), 21–46. https://doi.org/10.1075/intp.19.1.02mag
+
+- Duflou, V. (2016). *Be(com)ing a conference interpreter: An ethnography of EU interpreters as a professional community*. John Benjamins.
+
+- Mellinger, C. D. (Ed.). (2025). *The Routledge handbook of interpreting and cognition*. Routledge.
+
+- Gerver, D. (1974). Simultaneous listening and speaking and retention of prose. *Quarterly Journal of Experimental Psychology, 26*(3), 337–341. https://doi.org/10.1080/14640747408400422
+
+- Gile, D. (1995/2009). *Basic concepts and models for interpreter and translator training*. John Benjamins.
+
+- Wadensjö, C. (1998). *Interpreting as interaction*. Longman.
+
 ---
 
 # Hafta 13  
