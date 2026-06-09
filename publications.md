@@ -11,7 +11,7 @@ lang: en
 
 1. **Kumcu, A.**, & Duman, D. (2026). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in press)
 
-2. Çınar Bozdağ, M., **Kumcu, A.**, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). *Psychiatry Research*, *xx*(x), xxx-xxx. [https://doi.org/10.1016/j.psychres.2026.117215](https://doi.org/10.1016/j.psychres.2026.117215){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"}
+2. Çınar Bozdağ, M., **Kumcu, A.**, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). *Psychiatry Research*, *362*(x), xxx-xxx. [https://doi.org/10.1016/j.psychres.2026.117215](https://doi.org/10.1016/j.psychres.2026.117215){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"}s
 
 3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
