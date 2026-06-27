@@ -5,9 +5,9 @@ permalink: /scicomm/
 lang: en
 ---
 
->[TR]Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden (alperkumcu-at-gmail.com) temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir.
+> [TR] Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir.
 >
->[EN]Please contact me via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.
+> [EN] Please contact me via email if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.
 
 
 ### 2026
@@ -74,7 +74,7 @@ lang: en
 
 ### 2011
 
-1. *Interpreting: An outlook for students*. 31 October 2011. Department of Foreign Languages Education, Middle East Technical University (METU), Ankara, Turkey.
+1. *Interpreting: An outlook for students* 31 October 2011. Department of Foreign Languages Education, Middle East Technical University (METU), Ankara, Turkey.
 
 
 **Interviews, news & non-academic articles**
@@ -83,8 +83,8 @@ lang: en
 - Kumcu, A. (2007). Euros 2007: Debating between two continents. Hurriyet Daily News. (en)
 
 **Audio-visual**
-- [TRT Radyo 1 Yaşamı Fark Et](https://www.trtdinle.com/show/yasami-fark-et?id=16837414){:target="_blank"}
-- <a href="https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw" target="_blank">The Lunch Break</a>
-A video series in which I interview my academic friends about their academic work.
-- <a href="https://theurbanmetaphor.tumblr.com" target="_blank">The Urban Metaphor</a>
-A photoblog with my pictures of street art in various forms from different parts of the world.
+- [TRT Radyo 1 Yaşamı Fark Et](https://www.trtdinle.com/show/yasami-fark-et?id=16837414)
+- [The Lunch Break](https://www.youtube.com/channel/UCik4DV7sIoIMC8Msv2eGVaw)
+A video series in which I interview my academic friends about their academic work. (discontinued)
+- [The Urban Metaphor](https://theurbanmetaphor.tumblr.com)
+A photoblog with my pictures of street art in various forms from different parts of the world. (discontinued)
