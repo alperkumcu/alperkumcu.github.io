@@ -5,11 +5,10 @@ permalink: /scicomm/
 lang: en
 ---
 
-<p>Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden (alperkumcu-at-gmail.com) temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir. </p>
-<br>
+>[TR]Beni düzenlediğiniz bir etkinlikte konuşmam için davet etmek isterseniz e-posta adresimden (alperkumcu-at-gmail.com) temasa geçebiliriz. Benim için bilimi anlatmak araştırma yapmak kadar heyecan verici! İzleyici/dinleyicilerin akademik düzey ve arkaplanlarından bağımsız olarak çalışmalarım hakkında konuşmaya her zaman gönüllüyüm. Çalışmalarım dışında genel olarak dil ve (psiko)dilbilimden ve  (bilişsel) sözlü çeviri çalışmalarından konuşabilirim. Fikir vermesi açısından, aşağıda davetli konuşmacı olarak katıldığım etkinliklerin bir listesini bulabilirsiniz. Konuşma, tercihinize göre yüzyüze ya da çevrimiçi, Türkçe ya da İngilizce olabilir.
+>
+>[EN]Please contact me via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.
 
-<p>Please contact me via email (alperkumcu-at-gmail.com) if you would like me to talk at your event. Science communication is as valuable as doing the actual research! I am always eager to talk about my work, regardless of the academic level and background of the audience. I also talk about language and (psycho)linguistics in general and (cognitive) interpreting studies. To give you an idea, below you can find the events/lectures/seminars I have been invited to as a speaker. I can deliver the talk face-to-face or online in English or Turkish.</p>
-<br>
 
 ### 2026
 
