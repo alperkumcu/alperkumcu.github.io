@@ -40,8 +40,9 @@ header_pages:
 google_analytics: UA-48656742-3
 
 # Build settings
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
