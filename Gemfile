@@ -4,3 +4,4 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll-remote-theme'
 gem 'csv'
 gem 'bigdecimal'
+gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :x64_mingw, :mswin]
