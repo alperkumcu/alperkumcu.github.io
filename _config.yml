@@ -1,41 +1,36 @@
 title: Alper Kumcu
-author: TwoThousandTwentySix
-email: alperkumcu[at]gmail.com
 description: ex nihilo nihil fit
 
-# social links
-twitter_username: alperkumcu
-youtube_username: alperkumcu
-linkedin_username: alperkumcu
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: alperkumcu
-# pinterest_username: jekyll
+author:
+  name: Alper Kumcu
+  email: alperkumcu[at]gmail.com
 
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
+show_excerpts: false
 
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
+  skin: auto
   date_format: "%b %-d, %Y"
+  nav_pages:
+    - publications.md
+    - talks.md
+    - scicomm.md
+    - activities.md
+    - teaching.md
+    - multimedia.md
+  social_links:
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/alperkumcu"
+    - title: YouTube
+      icon: youtube
+      url: "https://www.youtube.com/@alperkumcu"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/alperkumcu"
+    - title: Instagram
+      icon: instagram
+      url: "https://www.instagram.com/alperkumcu"
 
-header_pages:
-  - publications.md
-  - talks.md
-  - scicomm.md
-  - activities.md
-  - teaching.md
-  - multimedia.md
-  
 # Google Analytics
 google_analytics: UA-48656742-3
 
@@ -46,6 +41,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-
-minima:
-  skin: auto
