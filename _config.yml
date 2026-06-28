@@ -5,7 +5,7 @@ author:
   name: Alper Kumcu
   email: alperkumcu[at]gmail.com
 
-show_excerpts: false
+show_excerpts: true
 
 minima:
   skin: auto
