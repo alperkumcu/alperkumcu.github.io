@@ -11,7 +11,7 @@ lang: en
 
 1. **Kumcu, A.**, & Duman, D. (2026). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in press)
 
-2. Çınar Bozdağ, M., **Kumcu, A.**, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). *Psychiatry Research*, *362*(x), xxx-xxx. [https://doi.org/10.1016/j.psychres.2026.117215](https://doi.org/10.1016/j.psychres.2026.117215){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"}s
+2. Çınar Bozdağ, M., **Kumcu, A.**, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). *Psychiatry Research*, *362*(x), xxx-xxx. [https://doi.org/10.1016/j.psychres.2026.117215](https://doi.org/10.1016/j.psychres.2026.117215){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"}
 
 3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
 
@@ -25,7 +25,9 @@ lang: en
 
 ### Scopus
 
-1. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *36*(2), 185-223. [http://doi.org/10.18492/dad.1692960](http://doi.org/10.18492/dad.1692960){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"}
+1. Yılmaz, B. A., Antonova-Ünlü, E. & **Kumcu, A.**. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. *Moderna Språk* (in press).
+
+2. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *36*(2), 185-223. [http://doi.org/10.18492/dad.1692960](http://doi.org/10.18492/dad.1692960){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"}
 
 ### TRIndex
 
@@ -42,7 +44,7 @@ lang: en
 ### Other indices
 1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (2025). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Mersin Üniversitesi Dil ve Edebiyat Dergisi*, *21*(2), 49-75. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"}
 
-2. Sağın-Şimşek, Ç., Antonova-Ünlü, & E. & **Kumcu, A.** (2020). The attitude and expectations of Turkish society concerning immigrants residing in Turkey and their social and linguistic acculturation patterns. *Journal of Second and Multiple Language Acquisition*, *8*(3), 57-78.
+2. Sağın-Şimşek, Ç., Antonova-Ünlü, E. & **Kumcu, A.** (2020). The attitude and expectations of Turkish society concerning immigrants residing in Turkey and their social and linguistic acculturation patterns. *Journal of Second and Multiple Language Acquisition*, *8*(3), 57-78.
 
 ## Books
 
