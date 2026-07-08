@@ -33,23 +33,23 @@ I enjoy sharing our research with wider audiences in the spirit of [science comm
 <hr>
 
 # Education
-* PhD in Psychology, 2019<br>
-29 September 2014 - 17 July 2019<br>
-University of Birmingham<br>
-Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.Birmingham etheses</a>) (<a href="thesis">Responsive web</a>)<br>
-Supervisor: Dr Robin L Thompson<br>
+* __PhD in Psychology, 2019__<
+29 September 2014 - 17 July 2019<
+University of Birmingham<
+Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.Birmingham etheses</a>) (<a href="thesis">Responsive web</a>)
+Supervisor: Dr Robin L Thompson<
 Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)
 
-* MSc in Psychology, 2014 (distinction)<br>
-30 September 2013 - 30 September 2014<br>
-University of Birmingham<br>
-Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)<br>
+* __MSc in Psychology, 2014 (distinction)__<
+30 September 2013 - 30 September 2014<
+University of Birmingham
+Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)
 
-* MA in Translation & Interpreting, 2011<br>
-Hacettepe University<br>
-Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)<br>
+* __MA in Translation & Interpreting, 2011__
+Hacettepe University
+Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)
 
-* BA in Translation & Interpreting, 2008<br>
+* __BA in Translation & Interpreting, 2008__
 Hacettepe University
 
 <hr>
