@@ -4,13 +4,13 @@ title:
 lang: en
 ---
 
-## About
+## In Short
 
-I am an Associate Professor in the [Department of Translation and Interpreting at Hacettepe University](https://mtb.hacettepe.edu.tr/en). My [research](publications.md) explores language, memory, and embodied cognition through the lenses of data science and psycholinguistics. I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
+I am an Associate Professor in the [Department of Translation and Interpreting at Hacettepe University](https://mtb.hacettepe.edu.tr/en). My [research](publications.md) explores `language`, `memory`, and `embodied cognition` through the lenses of `data science` and `psycholinguistics`.
 
 ## Research
 
-I publish in national and international journals and currently [supervise graduate research](activities.md) in `psycholinguistics` and `cognitive translation and interpreting studies`. I have extensive experience in designing behavioural and eye-tracking experiments, programming, natural language processing, and experiment building in `Python`, as well as conducting statistical analyses and creating data visualisations in `R`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>.
+I publish in national and international journals and currently [supervise graduate research](activities.md) in `psycholinguistics` and `cognitive translation and interpreting studies`. I have extensive experience in designing behavioural and eye-tracking experiments, programming, natural language processing, and experiment building in `Python`, as well as conducting statistical analyses and creating data visualisations in `R`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>. I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
 
 ## Editorial and Reviewing Work
 
