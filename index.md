@@ -6,15 +6,29 @@ lang: en
 
 ![Profile photo](assets/img/alper.jpg)
 
-I am an Associate Professor in the [Department of Translation and Interpreting at Hacettepe University](https://mtb.hacettepe.edu.tr/en). My [research](publications.md) explores language, memory, and embodied cognition through the lenses of data science and psycholinguistics. I publish in national and international journals and currently [supervise graduate research](activities.md) in psycholinguistics, cognitive translation studies, and interpreting studies. I have experience designing behavioural and eye-tracking experiments, programming in Python, conducting statistical analyses in [R](https://www.r-project.org), and creating data visualisations with `ggplot2`.
+## About
 
-Since 9 December 2022, I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb). Previously, I was an associate editor of the Hacettepe University Journal of the Faculty of Letters. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK). I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
+I am an Associate Professor in the [Department of Translation and Interpreting at Hacettepe University](https://mtb.hacettepe.edu.tr/en). My [research](publications.md) explores language, memory, and embodied cognition through the lenses of data science and psycholinguistics. I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
 
-I have taught undergraduate and graduate [courses](teaching.md) in linguistics, quantitative research methods, cognitive translation and interpreting studies, and related areas, both at the Department of Translation and Interpreting at Hacettepe University and at the [Department of Foreign Language Education at Middle East Technical University](https://fle.metu.edu.tr/en). I currently serve as Head of the English Translation and Interpreting Division at Hacettepe University's Department of Translation and Interpreting, and as a member of the Faculty Executive Board of Hacettepe University's Faculty of Letters. I am also a member of the Department Advisory Board for the [Department of Translation and Interpreting at Bilkent University](https://trin.bilkent.edu.tr/).
+## Research
 
-I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>. In my spare time, I enjoy writing, coding, and analysing data while listening to my [custom playlists](https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw). I also enjoy sharing our research with wider audiences in the spirit of [science communication and public engagement](scicomm.md).
+I publish in national and international journals and currently [supervise graduate research](activities.md) in psycholinguistics, cognitive translation studies, and interpreting studies. I have experience designing behavioural and eye-tracking experiments, programming in Python, conducting statistical analyses in [R](https://www.r-project.org), and creating data visualisations with `ggplot2`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>.
 
-To learn more about my academic journey, watch the video below, produced courtesy of the Digital Story Hub at Hacettepe University's Faculty of Communication.
+## Editorial and Reviewing Work
+
+Since 9 December 2022, I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb). Previously, I was an associate editor of the Hacettepe University Journal of the Faculty of Letters. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
+
+## Teaching and Supervision
+
+I have taught undergraduate and graduate [courses](teaching.md) in linguistics, quantitative research methods, cognitive translation and interpreting studies, and related areas, both at the Department of Translation and Interpreting at Hacettepe University and at the [Department of Foreign Language Education at Middle East Technical University](https://fle.metu.edu.tr/en). I currently [supervise graduate research](activities.md) in psycholinguistics, cognitive translation studies, and interpreting studies.
+
+## Administrative Roles
+
+I currently serve as Head of the English Translation and Interpreting Division at Hacettepe University's Department of Translation and Interpreting, and as a member of the Faculty Executive Board of Hacettepe University's Faculty of Letters. I am also a member of the Department Advisory Board for the [Department of Translation and Interpreting at Bilkent University](https://trin.bilkent.edu.tr/). Previously, I served as the Research Assistant Faculty Representative at Hacettepe University’s Faculty of Letters between April 2019 and April 2021. Before that, I served as a senior student representative for postgraduate students in the [School of Psychology at the University of Birmingham](https://www.birmingham.ac.uk/about/college-of-life-and-environmental-sciences/school-of-psychology) and chaired the Postgraduate Student–Staff Liaison Committee for the PhD in Psychology programme between 2014 and 2015.
+
+## Science Communication and Personal Interests
+
+I enjoy sharing our research with wider audiences in the spirit of [science communication and public engagement](scicomm.md). In my spare time, I enjoy writing, coding, and analysing data while listening to my [custom playlists](https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw). To learn more about my academic journey, watch the video below, produced courtesy of the Digital Story Hub at Hacettepe University's Faculty of Communication.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/707729933?h=ae0ce85e30&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
