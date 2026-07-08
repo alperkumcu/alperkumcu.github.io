@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: Hello world!
 lang: en
 ---
 
@@ -10,7 +10,7 @@ I am an Associate Professor in the [Department of Translation and Interpreting a
 
 ## Research
 
-I publish in national and international journals and currently [supervise graduate research](activities.md) in `psycholinguistics` and `cognitive translation and interpreting studies`. I have extensive experience in designing behavioural and eye-tracking experiments, programming, natural language processing, and experiment building in `Python`, as well as conducting statistical analyses and creating data visualisations in `R`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in interdisciplinary collaboration. I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
+I publish in national and international journals in `psycholinguistics` and `cognitive translation and interpreting studies`. I have extensive experience in designing behavioural and eye-tracking experiments, programming, natural language processing, and experiment building in `Python`, as well as conducting statistical analyses and creating data visualisations in `R`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in interdisciplinary collaboration. I am also the proud recipient of the 2019 Hacettepe University `Science Incentive Award` in the Social Sciences.
 
 ## Editorial and Reviewing Work
 
