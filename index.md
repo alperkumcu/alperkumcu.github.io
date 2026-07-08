@@ -4,7 +4,7 @@ title:
 lang: en
 ---
 
-![Profile photo](assets/img/alper.jpg)
+<img src="assets/img/alper.jpg" alt="Profile photo" width="160" style="float: left; margin: 0 20px 10px 0; border-radius: 8px;">
 
 ## About
 
