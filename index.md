@@ -33,24 +33,24 @@ I enjoy sharing our research with wider audiences in the spirit of [science comm
 <hr>
 
 # Education
-* __PhD in Psychology, 2019__<
-29 September 2014 - 17 July 2019<
-University of Birmingham<
-Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">.Birmingham etheses</a>) (<a href="thesis">Responsive web</a>)
-Supervisor: Dr Robin L Thompson<
-Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)
+* __PhD in Psychology, 2019__  
+29 September 2014 - 17 July 2019  
+University of Birmingham  
+Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">Birmingham etheses</a>) (<a href="thesis">Responsive web</a>)  
+Supervisor: Dr Robin L Thompson  
+Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)  
 
-* __MSc in Psychology, 2014 (distinction)__<
-30 September 2013 - 30 September 2014<
-University of Birmingham
-Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)
+* __MSc in Psychology, 2014 (distinction)__  
+30 September 2013 - 30 September 2014   
+University of Birmingham  
+Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)  
 
-* __MA in Translation & Interpreting, 2011__
-Hacettepe University
-Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)
+* __MA in Translation & Interpreting, 2011__  
+Hacettepe University  
+Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)  
 
-* __BA in Translation & Interpreting, 2008__
-Hacettepe University
+* __BA in Translation & Interpreting, 2008__  
+Hacettepe University  
 
 <hr>
 
