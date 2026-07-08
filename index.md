@@ -54,14 +54,6 @@ Hacettepe University
 
 <hr>
 
-# Interests
-* Psycholinguistics
-* Memory for language
-* Grounded-embodied cognition
-* Cognitive translation & interpreting studies
-
-<hr>
-
 # IDs
 * <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">ORCID</a>
 * <a href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank">Web of Science</a>
