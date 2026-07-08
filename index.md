@@ -4,27 +4,25 @@ title:
 lang: en
 ---
 
-<img src="assets/img/alper.jpg" alt="Profile photo" width="160" style="float: left; margin: 0 20px 10px 0; border-radius: 8px;">
-
 ## About
 
 I am an Associate Professor in the [Department of Translation and Interpreting at Hacettepe University](https://mtb.hacettepe.edu.tr/en). My [research](publications.md) explores language, memory, and embodied cognition through the lenses of data science and psycholinguistics. I am also the proud recipient of the 2019 Hacettepe University Science Incentive Award in the Social Sciences.
 
 ## Research
 
-I publish in national and international journals and currently [supervise graduate research](activities.md) in psycholinguistics, cognitive translation studies, and interpreting studies. I have experience designing behavioural and eye-tracking experiments, programming in Python, conducting statistical analyses in [R](https://www.r-project.org), and creating data visualisations with `ggplot2`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>.
+I publish in national and international journals and currently [supervise graduate research](activities.md) in `psycholinguistics` and `cognitive translation and interpreting studies`. I have extensive experience in designing behavioural and eye-tracking experiments, programming, natural language processing, and experiment building in `Python`, as well as conducting statistical analyses and creating data visualisations in `R`. I am a strong supporter of [open, transparent, and reproducible science](https://osf.io/5egx4), and I believe the future of research lies in <mark>interdisciplinary collaboration</mark>.
 
 ## Editorial and Reviewing Work
 
-Since 9 December 2022, I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb). Previously, I was an associate editor of the Hacettepe University Journal of the Faculty of Letters. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
+I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb) since 9 December 2022. Previously, I was an associate editor of the Hacettepe University Journal of the Faculty of Letters. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
 
 ## Teaching and Supervision
 
-I have taught undergraduate and graduate [courses](teaching.md) in linguistics, quantitative research methods, cognitive translation and interpreting studies, and related areas, both at the Department of Translation and Interpreting at Hacettepe University and at the [Department of Foreign Language Education at Middle East Technical University](https://fle.metu.edu.tr/en). I currently [supervise graduate research](activities.md) in psycholinguistics, cognitive translation studies, and interpreting studies.
+I have taught undergraduate and graduate [courses](teaching.md) in `(cognitive) linguistics`, `quantitative research methods`, `cognitive translation and interpreting studies`, and related areas at both the Department of Translation and Interpreting at Hacettepe University and the [Department of Foreign Language Education at Middle East Technical University](https://fle.metu.edu.tr/en). I currently [supervise graduate research](activities.md) in these fields at both master’s and PhD levels.
 
 ## Administrative Roles
 
-I currently serve as Head of the English Translation and Interpreting Division at Hacettepe University's Department of Translation and Interpreting, and as a member of the Faculty Executive Board of Hacettepe University's Faculty of Letters. I am also a member of the Department Advisory Board for the [Department of Translation and Interpreting at Bilkent University](https://trin.bilkent.edu.tr/). Previously, I served as the Research Assistant Faculty Representative at Hacettepe University’s Faculty of Letters between April 2019 and April 2021. Before that, I served as a senior student representative for postgraduate students in the [School of Psychology at the University of Birmingham](https://www.birmingham.ac.uk/about/college-of-life-and-environmental-sciences/school-of-psychology) and chaired the Postgraduate Student–Staff Liaison Committee for the PhD in Psychology programme between 2014 and 2015.
+I currently serve as Head of the English Translation and Interpreting Division at Hacettepe University's Department of Translation and Interpreting, a position I have held since 1 June 2026. I am also a member of the Faculty Executive Board of Hacettepe University's Faculty of Letters, serving since 9 September 2025, and a member of the Department Advisory Board for the [Department of Translation and Interpreting at Bilkent University](https://trin.bilkent.edu.tr/). Previously, I served as the Research Assistant Faculty Representative at Hacettepe University’s Faculty of Letters between April 2019 and April 2021. Before that, I served as a senior student representative for postgraduate students in the [School of Psychology at the University of Birmingham](https://www.birmingham.ac.uk/about/college-of-life-and-environmental-sciences/school-of-psychology) and chaired the Postgraduate Student–Staff Liaison Committee for the PhD in Psychology programme between 2014 and 2015.
 
 ## Science Communication and Personal Interests
 
