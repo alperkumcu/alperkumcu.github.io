@@ -33,28 +33,6 @@ I enjoy sharing our research with wider audiences in the spirit of [science comm
 <hr>
 
 # Education
-* __PhD in Psychology, 2019__  
-29 September 2014 - 17 July 2019  
-University of Birmingham  
-Thesis title: Looking for language in space: Spatial simulations in memory for language (<a href="https://etheses.bham.ac.uk/id/eprint/8842/" target="_blank">Birmingham etheses</a>) (<a href="thesis">Responsive web</a>)  
-Supervisor: Dr Robin L Thompson  
-Viva examiners: Dr Steven Frisson (University of Birmingham), Dr Daniel Richardson (University College London)  
-
-* __MSc in Psychology, 2014 (distinction)__  
-30 September 2013 - 30 September 2014   
-University of Birmingham  
-Thesis title: Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements (<a href="pdfs/Effect of Speech Rate and Overlapping on Multimodal Language Processing.pdf" target="_blank">.pdf</a>)  
-
-* __MA in Translation & Interpreting, 2011__  
-Hacettepe University  
-Thesis title: Visual focal loci in simultaneous interpreting (<a href="pdfs/Visual Focal Loci in Simultaneous Interpreting.pdf" target="_blank">.pdf</a>)  
-
-* __BA in Translation & Interpreting, 2008__  
-Hacettepe University  
-
-<hr>
-
-# Education
 
 <style>
 .timeline {
@@ -147,21 +125,81 @@ Hacettepe University
 
 </div>
 
-# IDs
-* <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">ORCID</a>
-* <a href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank">Web of Science</a>
-* <a href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank">Google Scholar</a>
-* <a href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank">Scopus</a> 
-* <a href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank">Research Gate</a>
-* <a href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank">Impact Story</a>
-* <a href="https://philpeople.org/profiles/alper-kumcu" target="_blank">PhilPeople</a>
-* <a href="https://loop.frontiersin.org/people/125772/overview" target="_blank">Loop</a>
-* <a href="https://osf.io/5egx4/" target="_blank">Open Science Framework (OSF)</a>
-* <a href="https://github.com/alperkumcu" target="_blank">GitHub</a>
-* <a href="https://gitlab.pavlovia.org/alperkumcu" target="_blank">GitLab (Pavlovia)</a>
-* <a href="https://rpubs.com/AlperKumcu" target="_blank">Rpubs</a>
-* <a href="https://gravatar.com/alperkumcub" target="_blank">Gravatar</a>
-* <a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank">Higher Education Board (YÖK)</a>
-* <a href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank">Hacettepe University AVESİS</a>
-* <a href="https://dergipark.org.tr/tr/pub/@alperkumcu" target="_blank">DergiPark</a>
-* TÜBİTAK ID: TBTK-0075-3470
+# Research IDs and Profiles
+
+<style>
+.id-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.2rem 0 2rem 0;
+}
+
+.id-card {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  text-decoration: none;
+  color: inherit;
+  font-size: 0.95rem;
+  line-height: 1;
+  background: #fff;
+  transition: all 0.2s ease;
+}
+
+.id-card:hover {
+  transform: translateY(-2px);
+  border-color: #999;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
+  text-decoration: none;
+}
+
+.id-card span {
+  opacity: 0.7;
+  margin-right: 0.4rem;
+}
+
+.id-card.static {
+  cursor: default;
+}
+</style>
+
+<div class="id-grid">
+
+<a class="id-card" href="https://orcid.org/0000-0003-0844-3562" target="_blank" rel="noopener noreferrer"><span>◎</span>ORCID</a>
+
+<a class="id-card" href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank" rel="noopener noreferrer"><span>◆</span>Web of Science</a>
+
+<a class="id-card" href="https://scholar.google.com/citations?hl=tr&user=xNlBSa4AAAAJ" target="_blank" rel="noopener noreferrer"><span>✦</span>Google Scholar</a>
+
+<a class="id-card" href="https://www.scopus.com/authid/detail.uri?authorId=57203865908" target="_blank" rel="noopener noreferrer"><span>◇</span>Scopus</a>
+
+<a class="id-card" href="https://www.researchgate.net/profile/Alper_Kumcu" target="_blank" rel="noopener noreferrer"><span>●</span>ResearchGate</a>
+
+<a class="id-card" href="https://profiles.impactstory.org/u/0000-0003-0844-3562" target="_blank" rel="noopener noreferrer"><span>✺</span>ImpactStory</a>
+
+<a class="id-card" href="https://philpeople.org/profiles/alper-kumcu" target="_blank" rel="noopener noreferrer"><span>◌</span>PhilPeople</a>
+
+<a class="id-card" href="https://loop.frontiersin.org/people/125772/overview" target="_blank" rel="noopener noreferrer"><span>○</span>Loop</a>
+
+<a class="id-card" href="https://osf.io/5egx4/" target="_blank" rel="noopener noreferrer"><span>□</span>OSF</a>
+
+<a class="id-card" href="https://github.com/alperkumcu" target="_blank" rel="noopener noreferrer"><span>⌘</span>GitHub</a>
+
+<a class="id-card" href="https://gitlab.pavlovia.org/alperkumcu" target="_blank" rel="noopener noreferrer"><span>▣</span>GitLab / Pavlovia</a>
+
+<a class="id-card" href="https://rpubs.com/AlperKumcu" target="_blank" rel="noopener noreferrer"><span>R</span>RPubs</a>
+
+<a class="id-card" href="https://gravatar.com/alperkumcub" target="_blank" rel="noopener noreferrer"><span>☉</span>Gravatar</a>
+
+<a class="id-card" href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=86966C50F3A66534" target="_blank" rel="noopener noreferrer"><span>TR</span>YÖK Academic</a>
+
+<a class="id-card" href="https://avesis.hacettepe.edu.tr/alperkumcu" target="_blank" rel="noopener noreferrer"><span>HÜ</span>Hacettepe AVESİS</a>
+
+<a class="id-card" href="https://dergipark.org.tr/tr/pub/@alperkumcu" target="_blank" rel="noopener noreferrer"><span>DP</span>DergiPark</a>
+
+<div class="id-card static"><span>ID</span>TÜBİTAK: TBTK-0075-3470</div>
+
+</div>
