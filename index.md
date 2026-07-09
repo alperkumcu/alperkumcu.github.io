@@ -5,15 +5,20 @@ lang: en
 ---
 
 <style>
+.bio-accordion {
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
 .bio-accordion details {
   border-bottom: 1px solid #e6e6e6;
-  padding: 0.8rem 0;
+  padding: 1rem 0;
 }
 
 .bio-accordion summary {
   cursor: pointer;
-  font-size: 1.25rem;
-  font-weight: 600;
+  font-size: 1.45rem;
+  font-weight: 650;
   list-style: none;
   display: flex;
   align-items: center;
@@ -26,7 +31,7 @@ lang: en
 
 .bio-accordion summary::after {
   content: "+";
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   opacity: 0.6;
 }
 
@@ -35,7 +40,9 @@ lang: en
 }
 
 .bio-accordion details p {
-  margin-top: 0.8rem;
+  margin-top: 1rem;
+  font-size: 1.08rem;
+  line-height: 1.75;
 }
 </style>
 
