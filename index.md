@@ -54,6 +54,99 @@ Hacettepe University
 
 <hr>
 
+# Education
+
+<style>
+.timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 2rem;
+  border-left: 3px solid #ddd;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -2.45rem;
+  top: 0.3rem;
+  width: 14px;
+  height: 14px;
+  background: #555;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px #555;
+}
+
+.timeline-date {
+  font-weight: bold;
+  color: #555;
+  margin-bottom: 0.3rem;
+}
+
+.timeline-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+.timeline-institution {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.timeline-details {
+  margin-top: 0.5rem;
+}
+</style>
+
+<div class="timeline">
+
+  <div class="timeline-item">
+    <div class="timeline-date">29 September 2014 – 17 July 2019</div>
+    <div class="timeline-title">PhD in Psychology</div>
+    <div class="timeline-institution">University of Birmingham</div>
+    <div class="timeline-details">
+      <p><strong>Thesis title:</strong> <em>Looking for language in space: Spatial simulations in memory for language</em> 
+      (<a href="#">Birmingham eTheses</a>)</p>
+      <p><strong>Supervisor:</strong> Dr Robin L. Thompson</p>
+      <p><strong>Viva examiners:</strong> Dr Steven Frisson, University of Birmingham; Dr Daniel Richardson, University College London</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">30 September 2013 – 30 September 2014</div>
+    <div class="timeline-title">MSc in Psychology, distinction</div>
+    <div class="timeline-institution">University of Birmingham</div>
+    <div class="timeline-details">
+      <p><strong>Thesis title:</strong> <em>Effect of speech rate and overlapping on multimodal language processing: Evidence from eye movements</em> 
+      (<a href="#">PDF</a>)</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2011</div>
+    <div class="timeline-title">MA in Translation and Interpreting</div>
+    <div class="timeline-institution">Hacettepe University</div>
+    <div class="timeline-details">
+      <p><strong>Thesis title:</strong> <em>Visual focal loci in simultaneous interpreting</em> 
+      (<a href="#">PDF</a>)</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2008</div>
+    <div class="timeline-title">BA in Translation and Interpreting</div>
+    <div class="timeline-institution">Hacettepe University</div>
+  </div>
+
+</div>
+
 # IDs
 * <a href="https://orcid.org/0000-0003-0844-3562" target="_blank">ORCID</a>
 * <a href="https://www.webofscience.com/wos/author/record/E-5568-2012" target="_blank">Web of Science</a>
