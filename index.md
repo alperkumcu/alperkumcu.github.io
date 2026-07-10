@@ -65,7 +65,7 @@ I publish in national and international journals in `psycholinguistics` and `cog
 <details markdown="1">
 <summary>Editorial and Reviewing Work</summary>
 
-I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb) since 9 December 2022. Previously, I was an associate editor of the Hacettepe University Journal of the Faculty of Letters. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
+I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb) since 9 December 2022. Previously, I was an associate editor of the Hacettepe University [Journal of the Faculty of Letters](https://edebiyat.hacettepe.edu.tr/tr/menu/fakulte_dergisi-107). I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
 
 </details>
 
@@ -88,11 +88,12 @@ I currently serve as `Head of the English Translation and Interpreting Division`
 
 I enjoy sharing our research with wider audiences in the spirit of [science communication and public engagement](scicomm.md). In my spare time, I enjoy writing, coding, and analysing data while listening to my [custom playlists](https://open.spotify.com/playlist/3Ks2Fpf7mG3zhYgqjJS9IZ?si=25XXs-0NTSGIc0R5Delgsw). To learn more about my academic journey, watch the video below, produced courtesy of the Digital Story Hub at Hacettepe University's Faculty of Communication.
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/707729933?h=ae0ce85e30&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 </details>
 
 </div>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/707729933?h=ae0ce85e30&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 <hr>
 
