@@ -5,75 +5,310 @@ permalink: /publications/
 lang: en
 ---
 
+<style>
+.pub-intro {
+  margin-bottom: 1.5rem;
+  color: #555;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.pub-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.pub-filter {
+  border: 1px solid #ddd;
+  background: #fff;
+  color: inherit;
+  padding: 0.45rem 0.8rem;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.pub-filter:hover,
+.pub-filter.active {
+  border-color: #777;
+  background: #f7f7f7;
+}
+
+.pub-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.2rem 0 2.5rem 0;
+}
+
+.pub-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  background: #fff;
+  transition: all 0.2s ease;
+}
+
+.pub-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.06);
+  border-color: #ccc;
+}
+
+.pub-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.65rem;
+}
+
+.pub-badge {
+  font-size: 0.75rem;
+  line-height: 1;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 0.3rem 0.5rem;
+  color: #555;
+  background: #fafafa;
+}
+
+.pub-title {
+  font-size: 1.05rem;
+  font-weight: 650;
+  line-height: 1.45;
+  margin-bottom: 0.35rem;
+}
+
+.pub-citation {
+  font-size: 0.97rem;
+  line-height: 1.55;
+  color: #333;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+}
+
+.pub-link,
+.pub-copy {
+  font-size: 0.82rem;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 0.35rem 0.6rem;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.pub-link:hover,
+.pub-copy:hover {
+  background: #f7f7f7;
+  border-color: #aaa;
+  text-decoration: none;
+}
+
+.pub-note {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 0.55rem;
+}
+
+.pub-section {
+  margin-top: 2.5rem;
+}
+</style>
+
+## Publications
+
+<div class="pub-intro">
+Selected journal articles, book chapters, edited volumes, and other scholarly outputs. 
+Open materials, datasets, preprints, and PDFs are linked where available.
+</div>
+
+<div class="pub-toolbar">
+  <button class="pub-filter active" onclick="filterPubs('all', this)">All</button>
+  <button class="pub-filter" onclick="filterPubs('sci', this)">SCI/SSCI</button>
+  <button class="pub-filter" onclick="filterPubs('scopus', this)">Scopus</button>
+  <button class="pub-filter" onclick="filterPubs('trindex', this)">TRIndex</button>
+  <button class="pub-filter" onclick="filterPubs('chapter', this)">Book chapters</button>
+  <button class="pub-filter" onclick="filterPubs('book', this)">Books</button>
+  <button class="pub-filter" onclick="filterPubs('translation', this)">Translation</button>
+</div>
+
 ## Papers
 
 ### SCI/SSCI
 
-1. **Kumcu, A.**, & Duman, D. (2026). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. *Target*, *xx*(x), xxx-xxx. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://osf.io/preprints/psyarxiv/zjbf4_v1){:target="_blank"} [**data**](https://osf.io/2j749/){:target="_blank"} (in press)
+<div class="pub-list">
 
-2. Çınar Bozdağ, M., **Kumcu, A.**, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). *Psychiatry Research*, *362*(x), xxx-xxx. [https://doi.org/10.1016/j.psychres.2026.117215](https://doi.org/10.1016/j.psychres.2026.117215){:target="_blank"} [**data**](https://osf.io/x7qd2/){:target="_blank"}
+<article class="pub-card" data-type="sci">
+  <div class="pub-meta">
+    <span class="pub-badge">2026</span>
+    <span class="pub-badge">SCI/SSCI</span>
+    <span class="pub-badge">In press</span>
+  </div>
 
-3. **Kumcu, A.**, & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. *Journal of Cognitive Psychology*, *35*(5), 545-560. [http://doi.org/10.1080/20445911.2023.2216917](http://doi.org/10.1080/20445911.2023.2216917){:target="_blank"} [**data**](https://osf.io/gtxwa/){:target="_blank"}
+  <div class="pub-title">
+    Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data
+  </div>
 
-4. **Kumcu, A.**, & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. *Quarterly Journal of Experimental Psychology*, *75*(9), 1694-1710. [https://doi.org/10.1177/17470218211059011](https://doi.org/10.1177/17470218211059011){:target="_blank"} [**data**](https://osf.io/6wcen/){:target="_blank"} [**showcase**](https://link.growkudos.com/1n3kszmuw3k){:target="_blank"} [**pdf**](https://alperkumcu.github.io/pdfs/Remembering%20Spatial%20Words%20Sensorimotor%20Simulation%20Affects%20Verbal%20Recognition%20Memory.pdf){:target="_blank"}
+  <div class="pub-citation">
+    <strong>Kumcu, A.</strong>, &amp; Duman, D. (2026). 
+    <em>Target</em>, <em>xx</em>(x), xxx–xxx.
+  </div>
 
-5. Dinçer, H., Antonova-Ünlü, E., & **Kumcu, A.** (2022). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. *Applied Linguistics Review*, *13*(4): 461–475. [https://doi.org/10.1515/applirev-2019-0064](https://doi.org/10.1515/applirev-2019-0064){:target="_blank"} [**pdf**](https://alperkumcu.github.io/pdfs/10.1515_applirev-2019-0064.pdf){:target="_blank"}
+  <div class="pub-links">
+    <a class="pub-link" href="http://doi.org/" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/preprints/psyarxiv/zjbf4_v1" target="_blank" rel="noopener noreferrer">Preprint</a>
+    <a class="pub-link" href="https://osf.io/2j749/" target="_blank" rel="noopener noreferrer">Data</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A., & Duman, D. (2026). Disentangling cognitive and emotional load in interpreting: multimodal evidence from physiological and prosodic data. Target, xx(x), xxx–xxx.">Copy citation</button>
+  </div>
+</article>
 
-6. **Kumcu, A.** (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. *Metaphor and Symbol*, *36*(4), 241-255. [https://doi.org/10.1080/10926488.2021.1921557](https://doi.org/10.1080/10926488.2021.1921557){:target="_blank"} [**data**](https://osf.io/2unvy/){:target="_blank"}
+<article class="pub-card" data-type="sci">
+  <div class="pub-meta">
+    <span class="pub-badge">2023</span>
+    <span class="pub-badge">SCI/SSCI</span>
+    <span class="pub-badge">Data available</span>
+  </div>
 
-7. **Kumcu, A.**, & Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. *Psychological Research*, *84*, 667–684. [https://doi.org/10.1007/s00426-018-1084-6](https://doi.org/10.1007/s00426-018-1084-6){:target="_blank"} [**data**](https://osf.io/m9yh3/){:target="_blank"}
+  <div class="pub-title">
+    Visual mental imagery and verbal working memory: evidence from consecutive interpreting
+  </div>
+
+  <div class="pub-citation">
+    <strong>Kumcu, A.</strong>, &amp; Öztürk, A. (2023). 
+    <em>Journal of Cognitive Psychology</em>, <em>35</em>(5), 545–560.
+  </div>
+
+  <div class="pub-links">
+    <a class="pub-link" href="http://doi.org/10.1080/20445911.2023.2216917" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/gtxwa/" target="_blank" rel="noopener noreferrer">Data</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A., & Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. Journal of Cognitive Psychology, 35(5), 545–560. https://doi.org/10.1080/20445911.2023.2216917">Copy citation</button>
+  </div>
+</article>
+
+<article class="pub-card" data-type="sci">
+  <div class="pub-meta">
+    <span class="pub-badge">2022</span>
+    <span class="pub-badge">SCI/SSCI</span>
+    <span class="pub-badge">Open materials</span>
+  </div>
+
+  <div class="pub-title">
+    Remembering spatial words: Sensorimotor simulation affects verbal recognition memory
+  </div>
+
+  <div class="pub-citation">
+    <strong>Kumcu, A.</strong>, &amp; Thompson, R. L. (2022). 
+    <em>Quarterly Journal of Experimental Psychology</em>, <em>75</em>(9), 1694–1710.
+  </div>
+
+  <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.1177/17470218211059011" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/6wcen/" target="_blank" rel="noopener noreferrer">Data</a>
+    <a class="pub-link" href="https://link.growkudos.com/1n3kszmuw3k" target="_blank" rel="noopener noreferrer">Showcase</a>
+    <a class="pub-link" href="https://alperkumcu.github.io/pdfs/Remembering%20Spatial%20Words%20Sensorimotor%20Simulation%20Affects%20Verbal%20Recognition%20Memory.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A., & Thompson, R. L. (2022). Remembering spatial words: Sensorimotor simulation affects verbal recognition memory. Quarterly Journal of Experimental Psychology, 75(9), 1694–1710. https://doi.org/10.1177/17470218211059011">Copy citation</button>
+  </div>
+</article>
+
+</div>
 
 ### Scopus
 
-1. Yılmaz, B. A., Antonova-Ünlü, E. & **Kumcu, A.**. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. *Moderna Språk* (in press).
+<div class="pub-list">
 
-2. Uzun, İ. P., & **Kumcu, A.** (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. *Dilbilim Araştırmaları Dergisi*, *36*(2), 185-223. [http://doi.org/10.18492/dad.1692960](http://doi.org/10.18492/dad.1692960){:target="_blank"} [**data**](https://osf.io/mp637/){:target="_blank"}
+<article class="pub-card" data-type="scopus">
+  <div class="pub-meta">
+    <span class="pub-badge">2025</span>
+    <span class="pub-badge">Scopus</span>
+    <span class="pub-badge">Systematic review</span>
+  </div>
 
-### TRIndex
+  <div class="pub-title">
+    Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades
+  </div>
 
-1. Öztürk, M. S., & **Kumcu, A.**. (2025). Effort in machine translation post-editing: the role of expertise. *Çankaya University Journal of Humanities and Social Sciences*, *19*(2), 293-309. [https://doi.org/10.47777/cankujhss.1782613](https://doi.org/10.47777/cankujhss.1782613)
+  <div class="pub-citation">
+    Uzun, İ. P., &amp; <strong>Kumcu, A.</strong> (2025). 
+    <em>Dilbilim Araştırmaları Dergisi</em>, <em>36</em>(2), 185–223.
+  </div>
 
-2. **Kumcu, A.** (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. *Çankaya University Journal of Humanities and Social Sciences*, *17*(2), 194-211. [https://doi.org/10.47777/cankujhss.1338278](https://doi.org/10.47777/cankujhss.1338278)
+  <div class="pub-links">
+    <a class="pub-link" href="http://doi.org/10.18492/dad.1692960" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/mp637/" target="_blank" rel="noopener noreferrer">Data</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Uzun, İ. P., & Kumcu, A. (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. Dilbilim Araştırmaları Dergisi, 36(2), 185–223. https://doi.org/10.18492/dad.1692960">Copy citation</button>
+  </div>
+</article>
 
-3. **Kumcu, A.** (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. *Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi*, *37*(1), 170-185. [https://doi.org/10.32600/huefd.621553](https://doi.org/10.32600/huefd.621553){:target="_blank"} [pdf](http://example.com/){:target="_blank"}   
-(English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process).
-
-4. **Kumcu, A.** (2008). Alice çeviri diyarında: Kültürel motifler açısından karşılaştırmalı bir çeviri eleştirisi. *Çeviribilim ve Uygulamaları*, *18*, 123-144. **[pdf](https://github.com/alperkumcu/alperkumcu.github.io/files/6416075/Alice.Ceviri.Diyarinda.pdf){:target="_blank"}**
-(English title: Alice in translationland: A comparative translation analysis with regard to cultural motifs). 
-
-### Other indices
-1. Çakar, S., **Kumcu, A.**, & Uzun, İ. P. (2025). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. *Mersin Üniversitesi Dil ve Edebiyat Dergisi*, *21*(2), 49-75. [http://doi.org/](http://doi.org/){:target="_blank"} [preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807){:target="_blank"} [**data**](https://osf.io/m276f/){:target="_blank"}
-
-2. Sağın-Şimşek, Ç., Antonova-Ünlü, E. & **Kumcu, A.** (2020). The attitude and expectations of Turkish society concerning immigrants residing in Turkey and their social and linguistic acculturation patterns. *Journal of Second and Multiple Language Acquisition*, *8*(3), 57-78.
+</div>
 
 ## Books
 
-### Editorship
-1. Söylemez, A. S., & **Kumcu, A.** (Eds.). (2021). *[Synergy II: Linguistics: Contemporary studies on Turkish linguistics](https://www.peterlang.com/abstract/title/75216?rskey=7oZpw0){:target="_blank"}*. Peter Lang.
-
-2. Cihan, A., Gökduman, U., & **Kumcu, A.** (Eds.). (2021). *[Engelsiz erişim ve iletişim](https://www.iletisim.gov.tr/images/uploads/dosyalar/Engelsiz_Eris%CC%A7im_ve_I%CC%87letis%CC%A7im_Kitab%C4%B1_%281%29.pdf){:target="_blank"}*. İletişim Başkanlığı Yayınları. (English title: Accessibility and Communication). 
-
 ### Book chapters
-1. **Kumcu, A.** (2026). Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme. In xxx (Eds.), *Bilişsel Bilim Felsefesi* (pp. xxx-xxx). Doruk Yayınları.
 
-2. **Kumcu, A.** (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), *Exploration of the Intersection of Corpus Linguistics and Language Science* (pp. 223-252). IGI Global Scientific Publishing. [https://doi.org/10.4018/979-8-3693-8146-5.ch010](https://doi.org/10.4018/979-8-3693-8146-5.ch010){:target="_blank"} [**data**](https://osf.io/ynwdm/){:target="_blank"}
+<div class="pub-list">
 
-3. **Kumcu, A.** (2022). [Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation](https://alperkumcu.github.io/pdfs/Space-time_mapping_in_Turkish.pdf){:target="_blank"}. In B. Süverdem & S. Tekalp (Eds.), *Linguistics: Cross-Cultural Perspectives* (pp. 29-49). Peter Lang. [**data**](https://osf.io/3ksfb/){:target="_blank"} <span onclick="copyCitation()" style="cursor: pointer; color: blue; text-decoration: bold; margin-left: 5px;">cite</span>
+<article class="pub-card" data-type="chapter">
+  <div class="pub-meta">
+    <span class="pub-badge">2025</span>
+    <span class="pub-badge">Book chapter</span>
+    <span class="pub-badge">Data available</span>
+  </div>
+
+  <div class="pub-title">
+    It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish
+  </div>
+
+  <div class="pub-citation">
+    <strong>Kumcu, A.</strong> (2025). In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), 
+    <em>Exploration of the Intersection of Corpus Linguistics and Language Science</em> 
+    (pp. 223–252). IGI Global Scientific Publishing.
+  </div>
+
+  <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.4018/979-8-3693-8146-5.ch010" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/ynwdm/" target="_blank" rel="noopener noreferrer">Data</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A. (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, & E. Oğuz (Eds.), Exploration of the Intersection of Corpus Linguistics and Language Science (pp. 223–252). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3693-8146-5.ch010">Copy citation</button>
+  </div>
+</article>
+
+</div>
 
 <script>
-function copyCitation() {
-  const citationText = "Kumcu, A. (2022). Space-time mapping in Turkish: A corpus-based, crosslinguistic investigation. In B. Süverdem & S. Tekalp (Eds.), Linguistics: Cross-Cultural Perspectives (pp. 29-49). Peter Lang.";
-  navigator.clipboard.writeText(citationText).then(() => {
-    alert("Citation copied to clipboard!");
-  }).catch((error) => {
-    console.error("Failed to copy citation: ", error);
+function filterPubs(type, button) {
+  const cards = document.querySelectorAll('.pub-card');
+  const buttons = document.querySelectorAll('.pub-filter');
+
+  buttons.forEach(btn => btn.classList.remove('active'));
+  button.classList.add('active');
+
+  cards.forEach(card => {
+    if (type === 'all' || card.dataset.type === type) {
+      card.style.display = 'block';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+
+function copyPubCitation(button) {
+  const citation = button.getAttribute('data-citation');
+
+  navigator.clipboard.writeText(citation).then(() => {
+    const originalText = button.textContent;
+    button.textContent = 'Copied';
+    setTimeout(() => {
+      button.textContent = originalText;
+    }, 1400);
   });
 }
 </script>
-
-4. **Kumcu, A.**, & Thompson, R. L. (2016). <a href="https://mindmodeling.org/cogsci2016/papers/0413/index.html" target="_blank">Spatial interference and individual differences in looking at nothing for verbal memory</a>. In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.), *Proceedings of the 38th Annual Conference of the Cognitive Science Society* (pp. 2387-2392). Cognitive Science Society.
-
-5. **Kumcu, A.** (2013). <a href="alperkumcu.github.io/pdfs/A transnational and translational history.pdf" target="_blank">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</a>. In R. Kumar (Ed.),<i>Role of Translation in Nation Building</i> (pp. 73-85). Modlingua. ISBN: 978-81-926798-0-8.
-
-### Translation
-1. Brockman, J. (Ed.). (2014). *Yeni hümanistler: İnsandan evrene son bilimsel tartışmalar*. (N. Büyükkantarcıoğlu & **A. Kumcu**, Trans.). Tübitak Popüler Bilim Yayınları. (Original work published 2003). (Original Title: The New Humanists: Science at the Edge)
