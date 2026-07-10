@@ -265,6 +265,8 @@ I enjoy sharing our research with wider audiences in the spirit of [science comm
 
 <a class="id-card" href="https://dergipark.org.tr/tr/pub/@alperkumcu" target="_blank" rel="noopener noreferrer"><span>DP</span>DergiPark</a>
 
+<a class="id-card" href="https://www.growkudos.com/profile/alper_kumcu" target="_blank" rel="noopener noreferrer"><span>&ast;</span>Kudos</a>
+
 <div class="id-card static"><span>ID</span>TÜBİTAK: TBTK-0075-3470</div>
 
 </div>
