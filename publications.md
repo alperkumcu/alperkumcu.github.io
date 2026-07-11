@@ -151,7 +151,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 ## Papers  
 
-### SCI/SSCI
+### Web of Science
 
 <div class="pub-list">
 
@@ -183,6 +183,20 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <a class="pub-link" href="https://doi.org/10.1016/j.psychres.2026.117215" target="_blank" rel="noopener noreferrer">DOI</a>
     <a class="pub-link" href="https://osf.io/x7qd2/" target="_blank" rel="noopener noreferrer">Data</a>
     <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Çınar Bozdağ, M., Kumcu, A., Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., & Candansayar, S. (2026). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. Psychiatry Research, 362(x), xxx–xxx. https://doi.org/10.1016/j.psychres.2026.117215">Copy citation</button>
+  </div>
+</article>
+
+<article class="pub-card" data-tags="paper scopus inpress">
+  <div class="pub-meta">
+    <span class="pub-badge">2026</span>
+    <span class="pub-badge">AHCI</span>
+    <span class="pub-badge">In press</span>
+  </div>
+  <div class="pub-title">Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators</div>
+  <div class="pub-citation">Yılmaz, B. A., <strong>Kumcu, A.</strong> &amp; Antonova-Ünlü, E. (2026). <em>Moderna Språk</em>. <em>120</em>(1), 102–115.</div>
+  <div class="pub-links">
+    <a class="pub-link" href="https://doi.org/10.58221/mosp.v120i1.60841" target="_blank" rel="noopener noreferrer">DOI</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Yılmaz, B. A., Antonova-Ünlü, E., & Kumcu, A. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. Moderna Språk. In press.">Copy citation</button>
   </div>
 </article>
 
@@ -268,19 +282,6 @@ A complete list of journal articles, edited books, book chapters, conference pro
 ### Scopus  
 
 <div class="pub-list">
-
-<article class="pub-card" data-tags="paper scopus inpress">
-  <div class="pub-meta">
-    <span class="pub-badge">2026</span>
-    <span class="pub-badge">Scopus</span>
-    <span class="pub-badge">In press</span>
-  </div>
-  <div class="pub-title">Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators</div>
-  <div class="pub-citation">Yılmaz, B. A., Antonova-Ünlü, E., &amp; <strong>Kumcu, A.</strong> (2026). <em>Moderna Språk</em>. In press.</div>
-  <div class="pub-links">
-    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Yılmaz, B. A., Antonova-Ünlü, E., & Kumcu, A. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. Moderna Språk. In press.">Copy citation</button>
-  </div>
-</article>
 
 <article class="pub-card" data-tags="paper scopus open data">
   <div class="pub-meta">
