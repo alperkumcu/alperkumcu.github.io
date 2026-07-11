@@ -149,9 +149,9 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <section class="pub-section">
 
-## Papers  
+<h2>Papers</h2>
 
-### Web of Science
+<h3>Web of Science</h3>
 
 <div class="pub-list">
 
@@ -278,7 +278,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 </div>
 
-### Scopus  
+<h3>Scopus</h3>  
 
 <div class="pub-list">
 
@@ -299,7 +299,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 </div>
 
-### TRIndex  
+<h3>TRIndex</h3>  
 
 <div class="pub-list">
 
@@ -362,7 +362,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 </div>
 
-### Other indices  
+<h3>Other indices</h3>  
 
 <div class="pub-list">
 
@@ -400,9 +400,9 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <section class="pub-section">
 
-## Books  
+<h2>Books</h2>  
 
-### Editorship  
+<h3>Editorship</h3>  
 
 <div class="pub-list">
 
@@ -436,7 +436,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 </div>
 
-### Book chapters  
+<h3>Book chapters</h3>  
 
 <div class="pub-list">
 
@@ -512,7 +512,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 </div>
 
-### Translation  
+<h2>Translation</h2>  
 
 <div class="pub-list">
 
