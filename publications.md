@@ -189,14 +189,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
 <article class="pub-card" data-tags="paper scopus inpress">
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
-    <span class="pub-badge">AHCI</span>
-    <span class="pub-badge">In press</span>
+    <span class="pub-badge">AHCI, Scopus</span>
   </div>
   <div class="pub-title">Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators</div>
   <div class="pub-citation">Yılmaz, B. A., <strong>Kumcu, A.</strong> &amp; Antonova-Ünlü, E. (2026). <em>Moderna Språk</em>. <em>120</em>(1), 102–115.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.58221/mosp.v120i1.60841" target="_blank" rel="noopener noreferrer">DOI</a>
-    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Yılmaz, B. A., Antonova-Ünlü, E., & Kumcu, A. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. Moderna Språk. In press.">Copy citation</button>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Ataberk-Yılmaz, B., Kumcu, A., & Antonova-Unlu, E. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. Moderna Språk, 120(1), 102–115. https://doi.org/10.58221/mosp.v120i1.60841">Copy citation</button>
   </div>
 </article>
 
