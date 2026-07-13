@@ -156,7 +156,7 @@ I enjoy sharing our research with wider audiences in the spirit of [science comm
     <div class="timeline-institution">University of Birmingham</div>
     <div class="timeline-details">
       <p><strong>Thesis title:</strong> <em>Looking for language in space: Spatial simulations in memory for language</em> 
-      (<a href="#">Birmingham eTheses</a>)</p>
+      (<a href="https://etheses.bham.ac.uk/id/eprint/8842/">Birmingham eTheses</a>)</p>
       <p><strong>Supervisor:</strong> Dr Robin L. Thompson</p>
       <p><strong>Viva examiners:</strong> Dr Steven Frisson, University of Birmingham; Dr Daniel Richardson, University College London</p>
     </div>
