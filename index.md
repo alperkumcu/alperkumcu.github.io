@@ -65,7 +65,7 @@ I publish in national and international journals in `psycholinguistics` and `cog
 <details markdown="1">
 <summary>Editorial and Reviewing Work</summary>
 
-I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb) since 9 December 2022. Previously, I was an associate editor of the Hacettepe University [Journal of the Faculty of Letters](https://edebiyat.hacettepe.edu.tr/tr/menu/fakulte_dergisi-107). I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
+I have served as co-editor of the John Benjamins journal [Translation, Cognition & Behavior](https://benjamins.com/catalog/tcb) since 9 December 2022. Previously, I was an associate editor of the Hacettepe University [Journal of the Faculty of Letters](https://edebiyat.hacettepe.edu.tr/tr/menu/fakulte_dergisi-107) between 10 February 2020 and 11 February 2021. I also act as a referee for [several international journals](activities.md), as well as for [grant proposals](activities.md) submitted to the Scientific and Technological Research Council of Türkiye (TÜBİTAK).
 
 </details>
 
