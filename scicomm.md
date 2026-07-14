@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scicomm
+title: Scicomm
 permalink: /scicomm/
 lang: en
 ---
