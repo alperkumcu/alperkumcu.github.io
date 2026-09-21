@@ -444,7 +444,6 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
     <span class="pub-badge">Book chapter</span>
-    <span class="pub-badge">Forthcoming</span>
   </div>
   <div class="pub-title">Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2026). In xxx (Eds.), <em>Bilişsel Bilim Felsefesi</em> (pp. xxx–xxx). Doruk Yayınları.</div>
