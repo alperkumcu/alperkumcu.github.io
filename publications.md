@@ -457,6 +457,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">2025</span>
     <span class="pub-badge">Book chapter</span>
     <span class="pub-badge">Data available</span>
+    <span class="pub-badge">Scopus</span>
   </div>
   <div class="pub-title">It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2025). In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), <em>Exploration of the Intersection of Corpus Linguistics and Language Science</em> (pp. 223–252). IGI Global Scientific Publishing.</div>
