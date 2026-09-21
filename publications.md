@@ -449,7 +449,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2026). In xxx (Eds.), <em>Bilişsel Bilim Felsefesi</em> (pp. xxx–xxx). Doruk Yayınları.</div>
   <div class="pub-links">
-    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A. (2026). Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme. In xxx (Eds.), Bilişsel Bilim Felsefesi (pp. xxx–xxx). Doruk Yayınları.">Copy citation</button>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Kumcu, A. (2026). Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme. Y. Şahin & H. O. Erdin (Eds.), Bilişsel bilim felsefesi (pp. xx–xx). Doruk Yayınları.">Copy citation</button>
   </div>
 </article>
 
