@@ -5,6 +5,9 @@ permalink: /talks/
 lang: en
 ---
 
+### 2026
+Kumcu, A., & Sayar Öztürk M. (September, 2026). Revisiting the Expertise Paradox: Longer Task Duration but Higher Accuracy among Expert Legal Translators. *5th Meeting of Bertinoro Translation Society*. September 12-15, 2026. Bertinoro, Italy. [invited presentation]
+
 ### 2024
 Kumcu, A. (Septemner, 2024). Waves of Emotion: Uncovering Cognitive-Affective Dynamics in Interpreting with Prosodic Cues and Electrodermal Responses. 30 September 2024. *Interpreting: Cognition and Technology Symposium*. Bogazici University, Department of Translation and Interpreting Studies, Istanbul, Turkey.
 
