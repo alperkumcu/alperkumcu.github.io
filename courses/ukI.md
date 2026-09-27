@@ -3,7 +3,6 @@ title: "History of British and American Cultures"
 layout: page
 ---
 
-**Fall 2025-2026**  
 Assoc. Prof. Dr. Alper Kumcu  
 [Email](mailto:alperkumcu@hacettepe.edu.tr) | [Website](http://alperkumcu.github.io)
 
@@ -21,23 +20,22 @@ This undergraduate course provides a comprehensive overview of the historical an
 
 ## Weekly Schedule
 
-| Week | Date         | Topic                                           | Readings                          | Task |
-|------|--------------|-------------------------------------------------|-----------------------------------|------|
-| 1    | September 22, 2025 | Course Introduction: Aim, methodology, requirements, outline | -                                 | -    |
-| 2    | September 29, 2025 | A Gentle Introduction to British Culture and Britain | Christopher (ch.1)                | -    |
-| 3    | October 06, 2025   | The Social and Cultural Context | Abercrombie et al. (ch.2)         | -    |
-| 4    | October 13, 2025   | British National Identity                   | Oakland (ch.3)                     | -    |
-| 5    | October 20, 2025   | British Social Class                        | Oakland (ch.4)                     | -    |
-| 6    | October 27, 2025   | Multiculturalism in Britain                  | McGuigan (selected entries)        | -    |
-| 7    | November 03, 2025  | The British Political System                 | Biressi & Nunn (ch.2)              | -    |
-| 8    | November 10, 2025  | Midterm Exam                                 | -                                 | Midterm Exam (provisional) |
-| 9    | November 17, 2025  | British Healthcare and Welfare System        | Christopher (ch.5)                  | -    |
-| 10   | November 24, 2025  | The British Educational System               | Oakland (ch.6)                      | -    |
-| 11   | December 01, 2025  | British Media and Popular Culture            | Selected articles                    | -    |
-| 12   | December 08, 2025  | British Music and the Arts                    | Christopher (ch.7)                  | -    |
-| 13   | December 15, 2025  | British Television and Cinema                 | Selected articles                    | -    |
-| 14   | December 22, 2025  | Literature in Contemporary Britain           | Christopher (ch.8)                  | -    |
-
+| Week | Topic | Readings | Task |
+|---|---|---|---|
+| 1 | Course Introduction: Aim, methodology, requirements, outline | - | - |
+| 2 | A Gentle Introduction to British Culture and Britain | Christopher (ch.1) | - |
+| 3 | The Social and Cultural Context | Abercrombie et al. (ch.2) | - |
+| 4 | British National Identity | Oakland (ch.3) | - |
+| 5 | British Social Class | Oakland (ch.4) | - |
+| 6 | Multiculturalism in Britain | McGuigan (selected entries) | - |
+| 7 | The British Political System | Biressi & Nunn (ch.2) | - |
+| 8 | Midterm Exam | - | Midterm Exam (provisional) |
+| 9 | British Healthcare and Welfare System | Christopher (ch.5) | - |
+| 10 | The British Educational System | Oakland (ch.6) | - |
+| 11 | British Media and Popular Culture | Selected articles | - |
+| 12 | British Music and the Arts | Christopher (ch.7) | - |
+| 13 | British Television and Cinema | Selected articles | - |
+| 14 | Literature in Contemporary Britain | Christopher (ch.8) | - |
 
 ## Assigned Readings
 
@@ -66,10 +64,10 @@ Additional readings, articles, and multimedia materials may be assigned througho
 
 ## Requirements
 
-- **Midterm Exam (50%)** – provisionally scheduled for Week 8 (subject to change).  
-- **Final Exam (50%)** – **5 January 2026**.  
-- Attendance, participation, and short written reflections and essays will be monitored throughout the semester.  
-  These will contribute to the final evaluation but will not carry a separate percentage weight.
+- **Midterm exam (50%):** Provisionally scheduled for Week 8. The date may change.
+- **Final exam (50%):** Scheduled for the regular course day during the first week of the final examination period.
+- **Attendance and coursework:** Attendance, participation, and short written reflections and essays will be monitored throughout the semester. They will be considered in the overall evaluation but have no separate percentage weight.
 
-**Note:** Plagiarism and submission of AI-generated texts will result in an automatic fail for the course.  
-**Note:** Weekly topics are subject to change depending on current events.  
+**Academic integrity:** Plagiarism or submitting AI-generated text as your own work will result in an automatic failing grade for the course.
+
+**Schedule:** Weekly topics may change in response to current events.
