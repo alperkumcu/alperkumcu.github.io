@@ -20,6 +20,7 @@ lang: en
 ### University Courses
 
 #### Graduate
+- [ELT 554 Quantitative Research Methods in Language Research](courses/q_res.md){:target="_blank"} (PhD)
 - [Preparation for the PhD Qualifying Exam](courses/phd_qual.md){:target="_blank"} (PhD)
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD) 
 - [Research and Publication Ethics](courses/ethics.md){:target="_blank"} (MA)  
@@ -27,6 +28,7 @@ lang: en
 - Consecutive Interpreting (MA)
 
 #### Undergraduate
+- [İMT107 Lexicology](courses/lex.md){:target="_blank"} (1st year, 2026 - Hacettepe T&I)
 - [Linguistics II](courses/lingii.md){:target="_blank"} (2nd year, 2026 - Hacettepe T&I)
 - [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
 

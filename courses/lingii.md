@@ -25,22 +25,22 @@ By the end of this course, students will be able to:
 
 ## Weekly Schedule
 
-| Week | Date | Topic | Related Reading (George Yule, 8th ed., 2023) |
-|------|------|-------|---------------------------------------------|
-| 1 | February 17, 2026 | Course Introduction | Preface (pp. 24–25); Overview of Chapters 1–20 |
-| 2 | February 24, 2026 | From Micro to Macro Linguistics | Chapters 3–11 (overview of internal structure); Chapters 12–20 (overview of language in use) |
-| 3 | March 3, 2026 | Language and Identity | Chapter 19 – Social Variation in Language; Chapter 20 – Language and Culture (social categories, gender, address terms) |
-| 4 | March 10, 2026 | Language and Power | Chapter 19 – Social Variation in Language (prestige, accommodation, vernacular) |
-| 5 | March 17, 2026 | Multilingualism and Bilingualism | Chapter 18 – Regional Variation in Language (diglossia, bilingualism, pidgins, creoles); Chapter 14 – Second Language Acquisition (becoming bilingual) |
-| 6 | March 24, 2026 | Language Change and Language in the Digital Era | Chapter 17 – Language History and Change; Chapter 19 – Social Variation in Language (slang, register, innovation) |
-| 7 | March 31, 2026 | Language and Culture | Chapter 20 – Language and Culture (culture, categories, linguistic relativity) |
-| 8 | April 7, 2026 | Midterm Exam | – |
-| 9 | April 14, 2026 | First Language Acquisition | Chapter 13 – First Language Acquisition |
-| 10 | April 21, 2026 | Second Language Acquisition | Chapter 14 – Second Language Acquisition |
-| 11 | April 28, 2026 | Language in the Mind | Chapter 12 – Language and the Brain (language processing, slips, mental organization) |
-| 12 | May 5, 2026 | Language and the Brain | Chapter 12 – Language and the Brain (brain areas, aphasia, lateralization) |
-| 13 | May 12, 2026 | Computational Linguistics and Digital Humanities | – |
-| 14 | May 19, 2026 | Holiday | – |
+| Week | Topic | Related Reading (George Yule, 8th ed., 2023) |
+|---|---|---|
+| 1 | Course Introduction | Preface (pp. 24–25); overview of Chapters 1–20 |
+| 2 | From Micro to Macro Linguistics | Chapters 3–11 (overview of internal structure); Chapters 12–20 (overview of language in use) |
+| 3 | Language and Identity | Chapter 19 – Social Variation in Language; Chapter 20 – Language and Culture (social categories, gender, address terms) |
+| 4 | Language and Power | Chapter 19 – Social Variation in Language (prestige, accommodation, vernacular) |
+| 5 | Multilingualism and Bilingualism | Chapter 18 – Regional Variation in Language (diglossia, bilingualism, pidgins, creoles); Chapter 14 – Second Language Acquisition (becoming bilingual) |
+| 6 | Language Change and Language in the Digital Era | Chapter 17 – Language History and Change; Chapter 19 – Social Variation in Language (slang, register, innovation) |
+| 7 | Language and Culture | Chapter 20 – Language and Culture (culture, categories, linguistic relativity) |
+| 8 | Midterm Exam | — |
+| 9 | First Language Acquisition | Chapter 13 – First Language Acquisition |
+| 10 | Second Language Acquisition | Chapter 14 – Second Language Acquisition |
+| 11 | Language in the Mind | Chapter 12 – Language and the Brain (language processing, slips, mental organization) |
+| 12 | Language and the Brain | Chapter 12 – Language and the Brain (brain areas, aphasia, lateralization) |
+| 13 | Computational Linguistics and Digital Humanities | — |
+| 14 | Course Review | Review of course topics and readings |
 
 ## Recommended Readings
 
