@@ -28,23 +28,19 @@ lang: en
 - Consecutive Interpreting (MA)
 
 #### Undergraduate
-- [İMT107 Lexicology](courses/lex.md){:target="_blank"} (1st year, 2026 - Hacettepe T&I)
-- [Linguistics II](courses/lingii.md){:target="_blank"} (2nd year, 2026 - Hacettepe T&I)
-- [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} (3rd year, 2025 - METU FLE)
-
-- [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} (4th year - Hacettepe T&I)
-- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} (4th year - Hacettepe T&I)
-
-- [CAT Tools](courses/cat.md){:target="_blank"} (3rd year - Hacettepe T&I)
-- [Localization](courses/loc.md){:target="_blank"} (3rd year - Hacettepe T&I)
-
-- [History of English and American Cultures](courses/ukI.md){:target="_blank"} (2nd year - Hacettepe T&I)
-- [Contemporary English and American Society](courses/ukII.md){:target="_blank"} (2nd year - Hacettepe T&I)
-
-- Simultaneous Interpreting II (4th year - Hacettepe T&I)
-- Conference Interpreting I/II (4th year - Hacettepe T&I)
-- Computer-aided Translation Tools (Hacettepe T&I)
-- Consecutive Interpreting (3rd year - Hacettepe T&I)
-- Contemporary English and American Societies (2nd year, 2019 - Hacettepe T&I)
-- Lexicology (1st year, 2009 - 2024 Hacettepe T&I)
+- [Lexicology](courses/lex.md){:target="_blank"} 
+- [Linguistics II](courses/lingii.md){:target="_blank"} 
+- [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} 
+- [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} 
+- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} 
+- [CAT Tools](courses/cat.md){:target="_blank"} 
+- [Localization](courses/loc.md){:target="_blank"} 
+- [History of English and American Cultures](courses/ukI.md){:target="_blank"} 
+- [Contemporary English and American Society](courses/ukII.md){:target="_blank"} 
+- Simultaneous Interpreting II 
+- Conference Interpreting I/II 
+- Computer-aided Translation Tools
+- Consecutive Interpreting 
+- Contemporary English and American Societies
+- Lexicology 
 - Narrative Medicine (for the undergraduates at the Faculty of Medicine, HU, 2019 - 2020)
