@@ -61,16 +61,17 @@ By the end of this course, students will be able to:
 
 ### Assessment Structure
 
-- **Midterm Exam:** 30%  
-- **Final Exam:** 50%  
-- **Individual Assignments / Participation:** 20%
+- **Midterm examination:** 50% (one exam)
+- **Final examination:** 50% (one exam)
 
-Both the midterm and the final exam will consist of multiple-choice questions.
+Homework and attendance are included in the instructor's assessment; no separate percentage is specified for them.
 
 ### Requirements
 
 - To be considered successful in the course, a student must receive at least **50 out of 100 on the final exam**. Any student who scores below 50 out of 100 will fail the course.
 - Attendance is mandatory. Students exceeding the absence limit will automatically fail (F1).
 - Missing the final exam results in automatic failure (F2).
-
-[Pre Feedback](https://forms.gle/QAiVmmCyU5CshH4o7)
+- Late submissions will receive a grade deduction that increases with the length of the delay.
+- Unless an assignment is completed in class with pen and paper, you must upload it to HADİ. I will submit uploaded work to Turnitin. Plagiarism will result in a grade of zero for the assignment and may be referred for further action under university procedures.
+- All assignment files must be named in the format “FirstName_LastName_StudentNumber” (e.g., Alper_Kumcu_12345678.docx). 
+- Every digitally prepared assignment must include an AI Use Acknowledgment stating whether you used AI tools and, if so, which tools you used and for what purpose. Plagiarism or submitting AI-generated text as your own work will result in an automatic failing grade for the course.

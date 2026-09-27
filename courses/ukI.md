@@ -37,6 +37,8 @@ This undergraduate course provides a comprehensive overview of the historical an
 | 13 | British Television and Cinema | Selected articles | - |
 | 14 | Literature in Contemporary Britain | Christopher (ch.8) | - |
 
+**Schedule:** Weekly topics may change in response to current events.
+
 ## Assigned Readings
 
 - Abercrombie, N., et al. (1993). *Contemporary British Society: A New Introduction to Sociology*. Polity Press.  
@@ -62,12 +64,21 @@ Additional readings, articles, and multimedia materials may be assigned througho
 - Threads  
 - Yes, Minister / Yes, Prime Minister  
 
-## Requirements
+## Requirements and Evaluation
 
-- **Midterm exam (50%):** Provisionally scheduled for Week 8. The date may change.
-- **Final exam (50%):** Scheduled for the regular course day during the first week of the final examination period.
-- **Attendance and coursework:** Attendance, participation, and short written reflections and essays will be monitored throughout the semester. They will be considered in the overall evaluation but have no separate percentage weight.
+### Assessment Structure
 
-**Academic integrity:** Plagiarism or submitting AI-generated text as your own work will result in an automatic failing grade for the course.
+- **Midterm examination:** 50% (one exam) Provisionally scheduled for Week 8. The date may change.
+- **Final examination:** 50% (one exam) Scheduled for the regular course day during the first week of the final examination period.
 
-**Schedule:** Weekly topics may change in response to current events.
+Homework and attendance are included in the instructor's assessment; no separate percentage is specified for them.
+
+### Requirements
+
+- To be considered successful in the course, a student must receive at least **50 out of 100 on the final exam**. Any student who scores below 50 out of 100 will fail the course.
+- Attendance is mandatory. Students exceeding the absence limit will automatically fail (F1).
+- Missing the final exam results in automatic failure (F2).
+- Late submissions will receive a grade deduction that increases with the length of the delay.
+- Unless an assignment is completed in class with pen and paper, you must upload it to HADİ. I will submit uploaded work to Turnitin. Plagiarism will result in a grade of zero for the assignment and may be referred for further action under university procedures.
+- All assignment files must be named in the format “FirstName_LastName_StudentNumber” (e.g., Alper_Kumcu_12345678.docx). 
+- Every digitally prepared assignment must include an AI Use Acknowledgment stating whether you used AI tools and, if so, which tools you used and for what purpose. Plagiarism or submitting AI-generated text as your own work will result in an automatic failing grade for the course.
