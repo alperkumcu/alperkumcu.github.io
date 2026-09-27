@@ -20,7 +20,7 @@ lang: en
 ### University Courses
 
 #### Graduate
-- [ELT 554 Quantitative Research Methods in Language Research](courses/q_res.md){:target="_blank"} (PhD)
+- [ELT 554 Quantitative Research Methods in Language Research](courses/q_res.md){:target="_blank"} (MA)
 - [Preparation for the PhD Qualifying Exam](courses/phd_qual.md){:target="_blank"} (PhD)
 - [Cognitive Translation Studies](https://alperkumcu.github.io/pdfs/imt721.pdf){:target="_blank"} (PhD) 
 - [Research and Publication Ethics](courses/ethics.md){:target="_blank"} (MA)  
@@ -32,15 +32,13 @@ lang: en
 - [Linguistics II](courses/lingii.md){:target="_blank"} 
 - [Introduction to Cognitive Linguistics](courses/cog_ling.md){:target="_blank"} 
 - [Interpreting Studies](https://alperkumcu.github.io/pdfs/imt403.pdf){:target="_blank"} 
-- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} 
 - [CAT Tools](courses/cat.md){:target="_blank"} 
 - [Localization](courses/loc.md){:target="_blank"} 
 - [History of English and American Cultures](courses/ukI.md){:target="_blank"} 
 - [Contemporary English and American Society](courses/ukII.md){:target="_blank"} 
+- [Simultaneous Interpreting I](courses/sim_intI.md){:target="_blank"} 
 - Simultaneous Interpreting II 
 - Conference Interpreting I/II 
 - Computer-aided Translation Tools
 - Consecutive Interpreting 
-- Contemporary English and American Societies
-- Lexicology 
 - Narrative Medicine (for the undergraduates at the Faculty of Medicine, HU, 2019 - 2020)
