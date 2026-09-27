@@ -57,8 +57,10 @@ By the end of this course, students will be able to:
 
 ### Assessment Structure
 
-- **Midterm examination:** 50% (one exam)
-- **Final examination:** 50% (one exam)
+### Assessment Structure
+
+- **Midterm examination:** 50% (one exam) Provisionally scheduled for Week 8. The date may change.
+- **Final examination:** 50% (one exam) Scheduled for the regular course day during the first week of the final examination period.
 
 Homework and attendance are included in the instructor's assessment; no separate percentage is specified for them.
 
