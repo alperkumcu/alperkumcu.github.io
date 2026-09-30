@@ -80,49 +80,40 @@ Published language research is discussed throughout the semester, rather than on
 
 ## Assessment
 
-The proposed in-semester assessment contributes **40%** of the final grade, and the final research report contributes **60%**. Assessment rewards sound research decisions, accurate interpretation, and clear reporting. A complex analysis does not receive a higher mark simply because it is more advanced.
+The course grade is based on two individual assessments: a **midterm examination (50%)** and a **final examination (50%)**.
 
 | Component | Share of final grade |
 |-----------|---------------------:|
-| Attendance, participation, and preparation of assigned readings | 4% |
-| Methodological response paper | 10% |
-| Practical analysis portfolio: four tasks, 4% each | 16% |
-| Project presentation and discussion | 10% |
-| Final research report and supporting analysis files | 60% |
+| Midterm: In-class methodological response paper | 50% |
+| Final: In-class data analysis and accompanying report | 50% |
 | **Total** | **100%** |
+
+### Midterm Examination: Methodological Response Paper
+
+During a **three-hour in-class examination**, students will read an instructor-selected quantitative article in language research and write an **800–1,000-word critical methodological response paper**.
+
+The paper should identify the study’s research questions, hypotheses where applicable, design, sample, measures, and statistical analyses. Students should evaluate the alignment between these elements, the suitability of the analyses, the treatment of assumptions and uncertainty, and the strength of the conclusions. Criticism should be supported by specific evidence from the article and accompanied by feasible suggestions for improvement.
+
+Assessment will focus on methodological and statistical understanding, the quality of the critical evaluation, and the clarity and organisation of the response. **Proposed examination date: 25 November 2026.**
+
+### Final Examination: Data Analysis and Accompanying Report
+
+The final examination will take place **in class during the final examination period, 4–16 January 2027**. Students must bring their computers with working access to **IBM SPSS Statistics**. The instructor will provide a **dummy (simulated) dataset**, the research context, and the research questions.
+
+Students will independently decide how to prepare and analyse the data, conduct the required analyses in **SPSS**, and submit an accompanying report with the relevant SPSS output. The report should:
+
+- Explain and justify the data preparation decisions, including the treatment of missing values, unusual observations, and variable coding where relevant.
+- Present an analysis strategy that fits the research questions, design, and measurement scales.
+- Explain the selected statistical procedures and evaluate their relevant assumptions.
+- Report descriptive and inferential findings clearly, including estimates, effect sizes, confidence intervals, and p-values where appropriate.
+- Interpret the findings in relation to the research questions and acknowledge the limitations of the analysis.
+
+Assessment will focus on the appropriateness and justification of the analytical decisions, accurate execution of the analyses, and clear reporting and interpretation of the results.
+
+The exact final examination date, duration, permitted resources, and submission instructions for both examinations will be announced on Moodle.
 
 **Attendance, participation, and preparation:** Students are expected to attend, complete the assigned readings, contribute to discussion, and engage in practical work. Contributions include asking questions, explaining an analytical decision, interpreting results, and giving constructive feedback. Please communicate difficulties that affect attendance or access to practical activities.
 
-**Methodological response paper:** Submit an **800–1,000-word** critical evaluation of a quantitative article in language research. Identify its questions, hypotheses where applicable, design, sample, measures, and analyses. Evaluate the alignment between these elements, the treatment of assumptions and uncertainty, and the strength of the conclusions. Support criticism with specific evidence and propose feasible improvements. **Proposed deadline: 25 November 2026.**
-
-**Practical analysis portfolio:** Complete four individual tasks using supplied or approved datasets. Each submission must include the relevant analysis files or syntax, selected tables or figures, and a concise interpretation that explains why the method was used and what the results support.
-
-| Task | Main requirement | Proposed deadline |
-|------|------------------|-------------------|
-| 1 | Prepare a codebook, screen and document the data, and produce descriptive statistics and visualisations in SPSS. | 4 November 2026 |
-| 2 | Select and conduct an independent or paired comparison; report the estimate, uncertainty, effect size, and relevant assumptions. | 18 November 2026 |
-| 3 | Analyse a group comparison and a categorical outcome using the supplied examples; justify the procedures and interpret the findings. | 2 December 2026 |
-| 4 | Submit an annotated R script that imports data, produces a summary and figure, and reproduces at least one analysis already encountered in class. | 23 December 2026 |
-
-**Project presentation:** Deliver a **10-minute presentation followed by approximately five minutes of discussion** in Week 13 or 14. Present the research question, dataset, design, analysis rationale, preliminary findings, and limitations. Explain one important methodological decision and one issue on which feedback would be useful. Presentation allocations will depend on class size.
-
-**Final research report:** Submit an individual **2,500–3,500-word APA-style report**, excluding references, tables, figures, and appendices. Use an instructor-provided teaching dataset, a suitably licensed open dataset, or an existing dataset approved for this purpose. Simulated data must be identified explicitly and interpreted as a teaching exercise. Any new data collection involving human participants requires the relevant prior approval and consent.
-
-The report should:
-
-1. Introduce a focused language research problem and connect it to relevant literature.
-2. State the research question and any justified hypotheses.
-3. Describe the data source, sampling context, design, variables, measurement quality, and ethical considerations.
-4. Document data preparation and justify the analysis, including the treatment of missing data, unusual observations, and relevant assumptions.
-5. Present descriptive findings and at least one appropriate inferential analysis, reporting estimates, effect sizes, and confidence intervals where appropriate.
-6. Discuss what the findings support, their methodological limitations, and their implications for future language research.
-7. Include a codebook, permitted de-identified data or instructions for accessing the source, and SPSS syntax and/or an annotated R script sufficient to reproduce the reported analysis. When SPSS is the main tool, also include a short R script reproducing descriptive statistics and one figure.
-
-The final report is assessed on **question and design rationale (20%)**, **data and measurement documentation (20%)**, **analysis selection and execution (25%)**, **interpretation and limitations (20%)**, and **reporting and reproducibility (15%)**. These percentages describe the rubric within the final report component.
-
-**Project development:** Submit an ungraded one-page project outline by **21 October** and a revised analysis plan by **9 December** for formative feedback. These checkpoints help identify design or data problems before the final report.
-
-**Submission:** Submit work through Moodle and name files `Name_Surname_StudentNumber_Assignment`. Use `.docx` for written reports, `.csv` for shareable data, `.sps` for SPSS syntax, and `.R` for R scripts, as specified in the assignment brief. Report files should contain selected, clearly labelled results rather than an unedited output dump. Proposed deadlines and detailed instructions will be confirmed on Moodle. Late submissions without an approved extension are subject to a graduated deduction specified in the assignment brief; requests for extensions should be made as early as possible.
 
 ## Academic Integrity, Turnitin, and AI Use
 
