@@ -31,8 +31,14 @@ Practical work begins with IBM SPSS Statistics 31. Once students are comfortable
 
 **Software and preparation:**
 
-- **SPSS:** Consult [METU's IBM SPSS Statistics 31 guidance](https://faq.cc.metu.edu.tr/spss) before the first practical session. The current guidance directs students to on-campus computer rooms and department/unit coordinators for access. Personal installation should follow the access arrangements confirmed by the department and METU Computer Center.
+- **Teaching and learning:** A typical meeting comprises three connected blocks: conceptual discussion and research examples; an instructor demonstration; and guided analysis, interpretation, or a research design workshop. Practical activities are integrated into the scheduled class hours. Students complete selected readings before class and develop their own analysis project through staged assignments and feedback. Prior programming experience is not expected.
+
+- **SPSS:** Consult [METU’s IBM SPSS Statistics 31 guidance](https://faq.cc.metu.edu.tr/spss) before the first practical session. The current guidance directs students to on-campus computer rooms and department/unit coordinators for access. Personal installation should follow the access arrangements confirmed by the department and METU Computer Center.
+
+- **jamovi:** We may also use [jamovi](https://www.jamovi.org/download.html) as a **free, open-source alternative to SPSS** during practical sessions. Its menu-based interface supports statistical analysis without requiring programming, while its R foundation connects with our later introduction to R. Downloading and installing the desktop version beforehand is recommended so that it is available if we use it in class.
+
 - **R:** Install [R](https://www.r-project.org/) and a compatible open-source edition of [RStudio Desktop](https://docs.posit.co/ide/user/) before Week 10. Installation guidance and starter scripts will be provided. R is introduced through familiar datasets and analyses, with support for importing data, editing scripts, producing figures, and understanding common error messages.
+
 - **Practical materials:** Datasets, codebooks, SPSS instructions, R scripts, assignment briefs, and selected article readings will be provided on Moodle. Please arrange access to a computer for practical work and contact the instructor early if access or installation support is needed.
 
 ## Learning Outcomes
