@@ -284,6 +284,22 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <article class="pub-card" data-tags="paper scopus open data">
   <div class="pub-meta">
+    <span class="pub-badge">202x</span>
+    <span class="pub-badge">Scopus</span>
+    <span class="pub-badge">Data available</span>
+    <span class="pub-badge">Under review</span>
+  </div>
+  <div class="pub-title">Expertise and evaluation in legal machine translation</div>
+  <div class="pub-citation">Sayar-Öztürk, M., &amp; <strong>Kumcu, A.</strong> (202x). <em>Comparative Legilinguistics</em>, <em>xx</em>(x), xxx–xxx.</div>
+  <div class="pub-links">
+    <a class="pub-link" href="http://doi.org/" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://osf.io/a5ktn/" target="_blank" rel="noopener noreferrer">Data</a>
+    <button class="pub-copy" onclick="copyPubCitation(this)" data-citation="Sayar-Öztürk, M., & Kumcu, A. (202x). Expertise and evaluation in legal machine translation. DComparative Legilinguistics, xx(x), xxx–xxx. https://doi.org/">Copy citation</button>
+  </div>
+</article>
+
+<article class="pub-card" data-tags="paper scopus open data">
+  <div class="pub-meta">
     <span class="pub-badge">2025</span>
     <span class="pub-badge">Scopus</span>
     <span class="pub-badge">Data available</span>
