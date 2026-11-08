@@ -7,7 +7,8 @@ lang: en
 
 ### Summer Schools/Workshops
 
-- [CogIST Bedenlenmiş Biliş ve Dil 2025](bedenlenmis_bilis.html){:target="_blank"} 
+- [CTIS Summer School 2027](courses/ctis.md){:target="_blank"} 
+- [CogIST Bedenlenmiş Biliş ve Dil 2025](bedenlenmis_bilis.html){:target="_blank"} (CogIST Embodied Cognition and Language 2025)
 - [METU R Workshop 2024 ](courses/R.md){:target="_blank"} 
 
 - Translation strategies and problems. 24-25 July, 2013. Georgia Ministry of Justice, Tbilisi, Georgia.
