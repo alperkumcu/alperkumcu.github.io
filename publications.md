@@ -419,11 +419,11 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">2025</span>
     <span class="pub-badge">TRIndex</span>
   </div>
-  <div class="pub-title">Effort in machine translation post-editing: the role of expertise</div>
+  <div class="pub-title">Effort in machine translation post-editing: The role of expertise</div>
   <div class="pub-citation">Öztürk, M. S., &amp; <strong>Kumcu, A.</strong> (2025). <em>Çankaya University Journal of Humanities and Social Sciences</em>, <em>19</em>(2), 293–309.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.47777/cankujhss.1782613" target="_blank" rel="noopener noreferrer">DOI</a>
-    <button type="button" class="pub-copy" data-citation="Öztürk, M. S., &amp; Kumcu, A. (2025). Effort in machine translation post-editing: the role of expertise. Çankaya University Journal of Humanities and Social Sciences, 19(2), 293–309. https://doi.org/10.47777/cankujhss.1782613">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Öztürk, M. S., &amp; Kumcu, A. (2025). Effort in machine translation post-editing: The role of expertise. Çankaya University Journal of Humanities and Social Sciences, 19(2), 293–309. https://doi.org/10.47777/cankujhss.1782613">Copy citation</button>
   </div>
 </article>
 
