@@ -298,7 +298,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">SCI/SSCI</span>
     <span class="pub-badge">Data available</span>
   </div>
-  <div class="pub-title">Visual mental imagery and verbal working memory: evidence from consecutive interpreting</div>
+  <div class="pub-title">Visual mental imagery and verbal working memory: Evidence from consecutive interpreting</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Öztürk, A. (2023). <em>Journal of Cognitive Psychology</em>, <em>35</em>(5), 545–560.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1080/20445911.2023.2216917" target="_blank" rel="noopener noreferrer">DOI</a>
