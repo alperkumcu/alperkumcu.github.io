@@ -16,11 +16,13 @@ lang: en
 .pub-toolbar {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.5rem;
   margin: 1.5rem 0 2rem 0;
 }
 
-.pub-filter {
+.pub-filter,
+.pub-year-select {
   border: 1px solid #ddd;
   background: #fff;
   color: inherit;
@@ -32,9 +34,23 @@ lang: en
 }
 
 .pub-filter:hover,
-.pub-filter.active {
+.pub-filter.active,
+.pub-year-select:hover {
   border-color: #777;
   background: #f7f7f7;
+}
+
+.pub-year-filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.pub-year-select {
+  font-family: inherit;
+  max-width: 100%;
 }
 
 .pub-section {
@@ -145,6 +161,7 @@ lang: en
 }
 
 .pub-filter:focus-visible,
+.pub-year-select:focus-visible,
 .pub-link:focus-visible,
 .pub-copy:focus-visible,
 .pub-copy-dialog button:focus-visible,
@@ -208,6 +225,7 @@ lang: en
 @media (prefers-reduced-motion: reduce) {
   .pub-card,
   .pub-filter,
+  .pub-year-select,
   .pub-link,
   .pub-copy {
     transition: none;
@@ -236,6 +254,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <button type="button" class="pub-filter" data-filter="chapter" aria-pressed="false">Book chapters</button>
   <button type="button" class="pub-filter" data-filter="translation" aria-pressed="false">Translation</button>
   <button type="button" class="pub-filter" data-filter="open" aria-pressed="false">Open materials</button>
+  <div class="pub-year-filter">
+    <label for="pub-year">Year</label>
+    <select id="pub-year" class="pub-year-select">
+      <option value="all">All years</option>
+    </select>
+  </div>
 </div>
 
 <p class="pub-results" role="status" aria-live="polite" aria-atomic="true">24 publications</p>
@@ -249,7 +273,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="paper sci open data">
+<article class="pub-card" data-year="2026" data-tags="paper sci open data">
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
     <span class="pub-badge">SCI/SSCI</span>
@@ -258,13 +282,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Disentangling cognitive and emotional load in interpreting: Multimodal evidence from physiological, acoustic, and self-report measures</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Duman, D. (2026). <em>Target</em>. Advance online publication.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1075/target.25176.kum" target="_blank" rel="noopener noreferrer">Article (DOI)</a>
+    <a class="pub-link" href="https://doi.org/10.1075/target.25176.kum" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/2j749/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A., &amp; Duman, D. (2026). Disentangling cognitive and emotional load in interpreting: Multimodal evidence from physiological, acoustic, and self-report measures. Target. Advance online publication. https://doi.org/10.1075/target.25176.kum">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open data">
+<article class="pub-card" data-year="2026" data-tags="paper sci open data">
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
     <span class="pub-badge">SCI/SSCI</span>
@@ -273,13 +297,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings</div>
   <div class="pub-citation">Çınar Bozdağ, M., <strong>Kumcu, A.</strong>, Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., &amp; Candansayar, S. (2026). <em>Psychiatry Research</em>, <em>362</em>, Article 117215.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1016/j.psychres.2026.117215" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1016/j.psychres.2026.117215" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/x7qd2/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Çınar Bozdağ, M., Kumcu, A., Şenel, L. K., Temizkan, H. N., Özil, Ö., Arslanyürek, İ., Ertekin, P. N., &amp; Candansayar, S. (2026). Spoken language biomarkers in Turkish-speaking schizophrenia patients: Evidence from linguistic analysis and word embeddings. Psychiatry Research, 362, Article 117215. https://doi.org/10.1016/j.psychres.2026.117215">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper scopus open">
+<article class="pub-card" data-year="2026" data-tags="paper scopus open">
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
     <span class="pub-badge">AHCI, Scopus</span>
@@ -287,12 +311,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators</div>
   <div class="pub-citation">Ataberk-Yılmaz, B., <strong>Kumcu, A.</strong>, &amp; Antonova-Unlu, E. (2026). <em>Moderna Språk</em>, <em>120</em>(1), 102–115.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.58221/mosp.v120i1.60841" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.58221/mosp.v120i1.60841" target="_blank" rel="noopener noreferrer">Article</a>
     <button type="button" class="pub-copy" data-citation="Ataberk-Yılmaz, B., Kumcu, A., &amp; Antonova-Unlu, E. (2026). Testing the impact of translation training on creativity: Evidence from Turkish-English student-translators. Moderna Språk, 120(1), 102–115. https://doi.org/10.58221/mosp.v120i1.60841">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open data">
+<article class="pub-card" data-year="2023" data-tags="paper sci open data">
   <div class="pub-meta">
     <span class="pub-badge">2023</span>
     <span class="pub-badge">SCI/SSCI</span>
@@ -301,22 +325,23 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Visual mental imagery and verbal working memory: Evidence from consecutive interpreting</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Öztürk, A. (2023). <em>Journal of Cognitive Psychology</em>, <em>35</em>(5), 545–560.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1080/20445911.2023.2216917" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1080/20445911.2023.2216917" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/gtxwa/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A., &amp; Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. Journal of Cognitive Psychology, 35(5), 545–560. https://doi.org/10.1080/20445911.2023.2216917">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open data pdf showcase">
+<article class="pub-card" data-year="2022" data-tags="paper sci open data pdf showcase">
   <div class="pub-meta">
     <span class="pub-badge">2022</span>
     <span class="pub-badge">SCI/SSCI</span>
     <span class="pub-badge">Open materials</span>
+    <span class="pub-badge" title="Based on doctoral thesis research">PhD-based</span>
   </div>
   <div class="pub-title">Remembering spatial words: Sensorimotor simulation affects verbal recognition memory</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Thompson, R. L. (2022). <em>Quarterly Journal of Experimental Psychology</em>, <em>75</em>(9), 1694–1710.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1177/17470218211059011" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1177/17470218211059011" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/6wcen/" target="_blank" rel="noopener noreferrer">Data</a>
     <a class="pub-link" href="https://link.growkudos.com/1n3kszmuw3k" target="_blank" rel="noopener noreferrer">Showcase</a>
     <a class="pub-link" href="https://alperkumcu.github.io/pdfs/Remembering%20Spatial%20Words%20Sensorimotor%20Simulation%20Affects%20Verbal%20Recognition%20Memory.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
@@ -324,7 +349,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open pdf">
+<article class="pub-card" data-year="2022" data-tags="paper sci open pdf">
   <div class="pub-meta">
     <span class="pub-badge">2022</span>
     <span class="pub-badge">SCI/SSCI</span>
@@ -333,13 +358,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey</div>
   <div class="pub-citation">Dinçer, H., Antonova-Ünlü, E., &amp; <strong>Kumcu, A.</strong> (2022). <em>Applied Linguistics Review</em>, <em>13</em>(4), 461–475.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1515/applirev-2019-0064" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1515/applirev-2019-0064" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://alperkumcu.github.io/pdfs/10.1515_applirev-2019-0064.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     <button type="button" class="pub-copy" data-citation="Dinçer, H., Antonova-Ünlü, E., &amp; Kumcu, A. (2022). Assessing the use of multiple-choice translation items in English proficiency tests: The case of the National English Proficiency Test in Turkey. Applied Linguistics Review, 13(4), 461–475. https://doi.org/10.1515/applirev-2019-0064">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open data">
+<article class="pub-card" data-year="2021" data-tags="paper sci open data">
   <div class="pub-meta">
     <span class="pub-badge">2021</span>
     <span class="pub-badge">SCI/SSCI</span>
@@ -348,22 +373,23 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2021). <em>Metaphor and Symbol</em>, <em>36</em>(4), 241–255.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1080/10926488.2021.1921557" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1080/10926488.2021.1921557" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/2unvy/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A. (2021). Linguistic synesthesia in Turkish: A corpus-based study of cross-modal directionality. Metaphor and Symbol, 36(4), 241–255. https://doi.org/10.1080/10926488.2021.1921557">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper sci open data">
+<article class="pub-card" data-year="2020" data-tags="paper sci open data">
   <div class="pub-meta">
     <span class="pub-badge">2020</span>
     <span class="pub-badge">SCI/SSCI</span>
     <span class="pub-badge">Data available</span>
+    <span class="pub-badge" title="Based on doctoral thesis research">PhD-based</span>
   </div>
   <div class="pub-title">Less imageable words lead to more looks to blank locations during memory retrieval</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Thompson, R. L. (2020). <em>Psychological Research</em>, <em>84</em>, 667–684.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.1007/s00426-018-1084-6" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.1007/s00426-018-1084-6" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/m9yh3/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A., &amp; Thompson, R. L. (2020). Less imageable words lead to more looks to blank locations during memory retrieval. Psychological Research, 84, 667–684. https://doi.org/10.1007/s00426-018-1084-6">Copy citation</button>
   </div>
@@ -377,7 +403,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="paper scopus open data">
+<article class="pub-card" data-year="undated" data-tags="paper scopus open data">
   <div class="pub-meta">
     <span class="pub-badge">Scopus</span>
     <span class="pub-badge">Data available</span>
@@ -391,7 +417,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper scopus open data">
+<article class="pub-card" data-year="2025" data-tags="paper scopus open data">
   <div class="pub-meta">
     <span class="pub-badge">2025</span>
     <span class="pub-badge">Scopus</span>
@@ -400,7 +426,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades</div>
   <div class="pub-citation">Uzun, İ. P., &amp; <strong>Kumcu, A.</strong> (2025). <em>Dilbilim Araştırmaları Dergisi</em>, <em>36</em>(2), 185–223.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.18492/dad.1692960" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.18492/dad.1692960" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/mp637/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Uzun, İ. P., &amp; Kumcu, A. (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. Dilbilim Araştırmaları Dergisi, 36(2), 185–223. https://doi.org/10.18492/dad.1692960">Copy citation</button>
   </div>
@@ -414,7 +440,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="paper trindex">
+<article class="pub-card" data-year="2025" data-tags="paper trindex">
   <div class="pub-meta">
     <span class="pub-badge">2025</span>
     <span class="pub-badge">TRIndex</span>
@@ -422,12 +448,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Effort in machine translation post-editing: The role of expertise</div>
   <div class="pub-citation">Öztürk, M. S., &amp; <strong>Kumcu, A.</strong> (2025). <em>Çankaya University Journal of Humanities and Social Sciences</em>, <em>19</em>(2), 293–309.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.47777/cankujhss.1782613" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.47777/cankujhss.1782613" target="_blank" rel="noopener noreferrer">Article</a>
     <button type="button" class="pub-copy" data-citation="Öztürk, M. S., &amp; Kumcu, A. (2025). Effort in machine translation post-editing: The role of expertise. Çankaya University Journal of Humanities and Social Sciences, 19(2), 293–309. https://doi.org/10.47777/cankujhss.1782613">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper trindex">
+<article class="pub-card" data-year="2023" data-tags="paper trindex">
   <div class="pub-meta">
     <span class="pub-badge">2023</span>
     <span class="pub-badge">TRIndex</span>
@@ -435,12 +461,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2023). <em>Çankaya University Journal of Humanities and Social Sciences</em>, <em>17</em>(2), 194–211.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.47777/cankujhss.1338278" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.47777/cankujhss.1338278" target="_blank" rel="noopener noreferrer">Article</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A. (2023). Emotional language processing in bilingualism: Subjective affect and prosodic markers in simultaneous interpreting. Çankaya University Journal of Humanities and Social Sciences, 17(2), 194–211. https://doi.org/10.47777/cankujhss.1338278">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper trindex">
+<article class="pub-card" data-year="2020" data-tags="paper trindex">
   <div class="pub-meta">
     <span class="pub-badge">2020</span>
     <span class="pub-badge">TRIndex</span>
@@ -449,12 +475,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2020). <em>Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi</em>, <em>37</em>(1), 170–185.</div>
   <div class="pub-note">English title: Distributed cognition in the conference venue: A fresh perspective on the simultaneous interpreting process.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.32600/huefd.621553" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.32600/huefd.621553" target="_blank" rel="noopener noreferrer">Article</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A. (2020). Konferans salonunda dağıtık biliş: Andaş çeviri sürecine yeni bir bakış. Hacettepe Üniversitesi Edebiyat Fakültesi Dergisi, 37(1), 170–185. https://doi.org/10.32600/huefd.621553">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper trindex open pdf">
+<article class="pub-card" data-year="2008" data-tags="paper trindex open pdf">
   <div class="pub-meta">
     <span class="pub-badge">2008</span>
     <span class="pub-badge">TRIndex</span>
@@ -477,7 +503,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="paper other-index open preprint data">
+<article class="pub-card" data-year="2025" data-tags="paper other-index open preprint data">
   <div class="pub-meta">
     <span class="pub-badge">2025</span>
     <span class="pub-badge">Other indices</span>
@@ -493,7 +519,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="paper other-index">
+<article class="pub-card" data-year="2020" data-tags="paper other-index">
   <div class="pub-meta">
     <span class="pub-badge">2020</span>
     <span class="pub-badge">Other indices</span>
@@ -519,7 +545,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="book edited-book">
+<article class="pub-card" data-year="2021" data-tags="book edited-book">
   <div class="pub-meta">
     <span class="pub-badge">2021</span>
     <span class="pub-badge">Edited book</span>
@@ -532,7 +558,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="book edited-book open pdf">
+<article class="pub-card" data-year="2021" data-tags="book edited-book open pdf">
   <div class="pub-meta">
     <span class="pub-badge">2021</span>
     <span class="pub-badge">Edited book</span>
@@ -555,7 +581,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="book chapter inpress">
+<article class="pub-card" data-year="2026" data-tags="book chapter inpress">
   <div class="pub-meta">
     <span class="pub-badge">2026</span>
     <span class="pub-badge">Book chapter</span>
@@ -567,7 +593,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="book chapter open data">
+<article class="pub-card" data-year="2025" data-tags="book chapter open data">
   <div class="pub-meta">
     <span class="pub-badge">2025</span>
     <span class="pub-badge">Book chapter</span>
@@ -577,13 +603,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-title">It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2025). In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), <em>Exploration of the Intersection of Corpus Linguistics and Language Science</em> (pp. 223–252). IGI Global Scientific Publishing.</div>
   <div class="pub-links">
-    <a class="pub-link" href="https://doi.org/10.4018/979-8-3693-8146-5.ch010" target="_blank" rel="noopener noreferrer">DOI</a>
+    <a class="pub-link" href="https://doi.org/10.4018/979-8-3693-8146-5.ch010" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/ynwdm/" target="_blank" rel="noopener noreferrer">Data</a>
     <button type="button" class="pub-copy" data-citation="Kumcu, A. (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), Exploration of the Intersection of Corpus Linguistics and Language Science (pp. 223–252). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3693-8146-5.ch010">Copy citation</button>
   </div>
 </article>
 
-<article class="pub-card" data-tags="book chapter open data pdf">
+<article class="pub-card" data-year="2022" data-tags="book chapter open data pdf">
   <div class="pub-meta">
     <span class="pub-badge">2022</span>
     <span class="pub-badge">Book chapter</span>
@@ -598,10 +624,11 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="book chapter proceedings">
+<article class="pub-card" data-year="2016" data-tags="book chapter proceedings">
   <div class="pub-meta">
     <span class="pub-badge">2016</span>
     <span class="pub-badge">Conference proceedings</span>
+    <span class="pub-badge" title="Based on doctoral thesis research">PhD-based</span>
   </div>
   <div class="pub-title">Spatial interference and individual differences in looking at nothing for verbal memory</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong>, &amp; Thompson, R. L. (2016). In A. Papafragou, D. Grodner, D. Mirman, &amp; J. C. Trueswell (Eds.), <em>Proceedings of the 38th Annual Conference of the Cognitive Science Society</em> (pp. 2387–2392). Cognitive Science Society.</div>
@@ -611,7 +638,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   </div>
 </article>
 
-<article class="pub-card" data-tags="book chapter open pdf">
+<article class="pub-card" data-year="2013" data-tags="book chapter open pdf">
   <div class="pub-meta">
     <span class="pub-badge">2013</span>
     <span class="pub-badge">Book chapter</span>
@@ -636,7 +663,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
 <div class="pub-list">
 
-<article class="pub-card" data-tags="book translation">
+<article class="pub-card" data-year="2014" data-tags="book translation">
   <div class="pub-meta">
     <span class="pub-badge">2014</span>
     <span class="pub-badge">Translation</span>
@@ -675,6 +702,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
 
     const cards = Array.from(root.querySelectorAll('.pub-card'));
     const filters = Array.from(root.querySelectorAll('.pub-filter'));
+    const yearSelect = root.querySelector('.pub-year-select');
     const groups = Array.from(root.querySelectorAll('.pub-group'));
     const sections = Array.from(root.querySelectorAll('.pub-section'));
     const results = root.querySelector('.pub-results');
@@ -683,13 +711,39 @@ A complete list of journal articles, edited books, book chapters, conference pro
     const citationField = dialog.querySelector('textarea');
     const resetTimers = new WeakMap();
     let lastCopyButton = null;
+    let activeTag = 'all';
 
-    function filterPublications(tag) {
+    const years = Array.from(new Set(cards.map(function (card) {
+      return card.dataset.year;
+    }).filter(function (year) {
+      return /^\d{4}$/.test(year);
+    }))).sort(function (a, b) {
+      return Number(b) - Number(a);
+    });
+
+    years.forEach(function (year) {
+      const option = document.createElement('option');
+      option.value = year;
+      option.textContent = year;
+      yearSelect.appendChild(option);
+    });
+
+    if (cards.some(function (card) { return card.dataset.year === 'undated'; })) {
+      const option = document.createElement('option');
+      option.value = 'undated';
+      option.textContent = 'Undated';
+      yearSelect.appendChild(option);
+    }
+
+    function filterPublications() {
+      const selectedYear = yearSelect.value;
       let visibleCount = 0;
 
       cards.forEach(function (card) {
         const tags = (card.dataset.tags || '').split(/\s+/);
-        const visible = tag === 'all' || tags.includes(tag);
+        const matchesTag = activeTag === 'all' || tags.includes(activeTag);
+        const matchesYear = selectedYear === 'all' || card.dataset.year === selectedYear;
+        const visible = matchesTag && matchesYear;
         card.hidden = !visible;
         if (visible) visibleCount += 1;
       });
@@ -707,12 +761,15 @@ A complete list of journal articles, edited books, book chapters, conference pro
       });
 
       filters.forEach(function (button) {
-        const selected = button.dataset.filter === tag;
+        const selected = button.dataset.filter === activeTag;
         button.classList.toggle('active', selected);
         button.setAttribute('aria-pressed', String(selected));
       });
 
-      results.textContent = visibleCount + (visibleCount === 1 ? ' publication' : ' publications');
+      const yearDescription = selectedYear === 'all' ? '' :
+        (selectedYear === 'undated' ? ' without a publication year' : ' in ' + selectedYear);
+      results.textContent = visibleCount === 0 ? 'No publications match the selected filters.' :
+        visibleCount + (visibleCount === 1 ? ' publication' : ' publications') + yearDescription;
     }
 
     function copyWithFallback(citation) {
@@ -787,7 +844,8 @@ A complete list of journal articles, edited books, book chapters, conference pro
     root.addEventListener('click', function (event) {
       const filter = event.target.closest('.pub-filter');
       if (filter && root.contains(filter)) {
-        filterPublications(filter.dataset.filter);
+        activeTag = filter.dataset.filter;
+        filterPublications();
         return;
       }
 
@@ -800,11 +858,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
       if (event.target.closest('[data-close-citation]')) dialog.close();
     });
 
+    yearSelect.addEventListener('change', filterPublications);
+
     dialog.addEventListener('close', function () {
       if (lastCopyButton) lastCopyButton.focus({ preventScroll: true });
     });
 
-    filterPublications('all');
+    filterPublications();
   }
 
   if (document.readyState === 'loading') {
