@@ -327,7 +327,7 @@ A complete list of journal articles, edited books, book chapters, conference pro
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.1080/20445911.2023.2216917" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/gtxwa/" target="_blank" rel="noopener noreferrer">Data</a>
-    <button type="button" class="pub-copy" data-citation="Kumcu, A., &amp; Öztürk, A. (2023). Visual mental imagery and verbal working memory: evidence from consecutive interpreting. Journal of Cognitive Psychology, 35(5), 545–560. https://doi.org/10.1080/20445911.2023.2216917">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Kumcu, A., &amp; Öztürk, A. (2023). Visual mental imagery and verbal working memory: Evidence from consecutive interpreting. Journal of Cognitive Psychology, 35(5), 545–560. https://doi.org/10.1080/20445911.2023.2216917">Copy citation</button>
   </div>
 </article>
 
@@ -423,12 +423,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">Scopus</span>
     <span class="pub-badge">Data available</span>
   </div>
-  <div class="pub-title">Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades</div>
+  <div class="pub-title">Looking at online language comprehension with the visual world paradigm: A systematic and cross-linguistic review of three decades</div>
   <div class="pub-citation">Uzun, İ. P., &amp; <strong>Kumcu, A.</strong> (2025). <em>Dilbilim Araştırmaları Dergisi</em>, <em>36</em>(2), 185–223.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.18492/dad.1692960" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/mp637/" target="_blank" rel="noopener noreferrer">Data</a>
-    <button type="button" class="pub-copy" data-citation="Uzun, İ. P., &amp; Kumcu, A. (2025). Looking at Online Language Comprehension with the Visual World Paradigm: A Systematic Review of Three Decades. Dilbilim Araştırmaları Dergisi, 36(2), 185–223. https://doi.org/10.18492/dad.1692960">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Uzun, İ. P., &amp; Kumcu, A. (2025). Looking at online language comprehension with the visual world paradigm: A systematic and cross-linguistic review of three decades. Dilbilim Araştırmaları Dergisi, 36(2), 185–223. https://doi.org/10.18492/dad.1692960">Copy citation</button>
   </div>
 </article>
 
@@ -509,13 +509,13 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">Other indices</span>
     <span class="pub-badge">Open materials</span>
   </div>
-  <div class="pub-title">The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm</div>
+  <div class="pub-title">The effect of syntactic structure and distance on sentence processing: Evidence from visual-world paradigm</div>
   <div class="pub-citation">Çakar, S., <strong>Kumcu, A.</strong>, &amp; Uzun, İ. P. (2025). <em>Mersin Üniversitesi Dil ve Edebiyat Dergisi</em>, <em>21</em>(2), 49–75.</div>
   <div class="pub-links">
     <span class="pub-badge">DOI pending</span>
     <a class="pub-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4724807" target="_blank" rel="noopener noreferrer">Preprint</a>
     <a class="pub-link" href="https://osf.io/m276f/" target="_blank" rel="noopener noreferrer">Data</a>
-    <button type="button" class="pub-copy" data-citation="Çakar, S., Kumcu, A., &amp; Uzun, İ. P. (2025). The Effect of Syntactic Structure and Distance on Sentence Processing: Evidence from Visual-World Paradigm. Mersin Üniversitesi Dil ve Edebiyat Dergisi, 21(2), 49–75.">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Çakar, S., Kumcu, A., &amp; Uzun, İ. P. (2025). The effect of syntactic structure and distance on sentence processing: Evidence from visual-world paradigm. Mersin Üniversitesi Dil ve Edebiyat Dergisi, 21(2), 49–75.">Copy citation</button>
   </div>
 </article>
 
@@ -586,10 +586,10 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">2026</span>
     <span class="pub-badge">Book chapter</span>
   </div>
-  <div class="pub-title">Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme</div>
+  <div class="pub-title">Ne soyut temsiller ne temsilsiz zihin: Üçüncü alternatif temsilsel bedenlenme</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2026). In Y. Şahin & H. O. Erdin (Eds.), <em>Bilişsel Bilim Felsefesi</em> (pp. 127–185). Doruk Yayınları.</div>
   <div class="pub-links">
-    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2026). Ne Soyut Temsiller Ne Temsilsiz Zihin: Üçüncü Alternatif Temsilsel Bedenlenme. In Y. Şahin &amp; H. O. Erdin (Eds.), Bilişsel Bilim Felsefesi (pp. 127–185). Doruk Yayınları.">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2026). Ne soyut temsiller ne temsilsiz zihin: Üçüncü alternatif temsilsel bedenlenme. In Y. Şahin &amp; H. O. Erdin (Eds.), Bilişsel Bilim Felsefesi (pp. 127–185). Doruk Yayınları.">Copy citation</button>
   </div>
 </article>
 
@@ -600,12 +600,12 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">Data available</span>
     <span class="pub-badge">Scopus</span>
   </div>
-  <div class="pub-title">It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish</div>
+  <div class="pub-title">It's high time: A corpus and NLP-based investigation of the time metaphors in Turkish</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2025). In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), <em>Exploration of the Intersection of Corpus Linguistics and Language Science</em> (pp. 223–252). IGI Global Scientific Publishing.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://doi.org/10.4018/979-8-3693-8146-5.ch010" target="_blank" rel="noopener noreferrer">Article</a>
     <a class="pub-link" href="https://osf.io/ynwdm/" target="_blank" rel="noopener noreferrer">Data</a>
-    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2025). It's High Time: A Corpus and NLP-Based Investigation of the Time Metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), Exploration of the Intersection of Corpus Linguistics and Language Science (pp. 223–252). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3693-8146-5.ch010">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2025). It's high time: A corpus and NLP-based investigation of the time metaphors in Turkish. In H. Cangır, K. Uzun, T. Can, &amp; E. Oğuz (Eds.), Exploration of the Intersection of Corpus Linguistics and Language Science (pp. 223–252). IGI Global Scientific Publishing. https://doi.org/10.4018/979-8-3693-8146-5.ch010">Copy citation</button>
   </div>
 </article>
 
@@ -644,11 +644,11 @@ A complete list of journal articles, edited books, book chapters, conference pro
     <span class="pub-badge">Book chapter</span>
     <span class="pub-badge">PDF</span>
   </div>
-  <div class="pub-title">A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union</div>
+  <div class="pub-title">A transnational and translational hi(story): Role of translation and interpreting in the course of Turkish Republic accession to the European Union</div>
   <div class="pub-citation"><strong>Kumcu, A.</strong> (2013). In R. Kumar (Ed.), <em>Role of Translation in Nation Building</em> (pp. 73–85). Modlingua. ISBN: 978-81-926798-0-8.</div>
   <div class="pub-links">
     <a class="pub-link" href="https://alperkumcu.github.io/pdfs/A%20transnational%20and%20translational%20history.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
-    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2013). A transnational and translational hi(story): role of translation and interpreting in the course of Turkish Republic accession to the European Union. In R. Kumar (Ed.), Role of Translation in Nation Building (pp. 73–85). Modlingua.">Copy citation</button>
+    <button type="button" class="pub-copy" data-citation="Kumcu, A. (2013). A transnational and translational hi(story): Role of translation and interpreting in the course of Turkish Republic accession to the European Union. In R. Kumar (Ed.), Role of Translation in Nation Building (pp. 73–85). Modlingua.">Copy citation</button>
   </div>
 </article>
 
